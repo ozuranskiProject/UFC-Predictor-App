@@ -9,7 +9,7 @@ This project uses real fight statistics collected via web scraping to make predi
 ## How It Works
 - Choose a gender/weight class from the top scroll bar  
 - Pick two fighters from dropdown menus (only a sample of fighters will be used for now for each weightclass)
-  - Directly after inputting fighter, the fighters profile image will be pulled and displayed (rather than storing every fighter's photo, of course)  
+  - Directly after inputting fighter, the fighter's profile image will be pulled and displayed (rather than storing every fighter's photo, of course)  
 - Press a button or hit Enter/“Fight!” to run the simulation and view:  
   - Win probabilities for each fighter  
   - A stat-by-stat comparison  
