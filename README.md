@@ -1,4 +1,4 @@
-# UFC-Predictor-App
+# UFC-Predictor-App (iteration 1)
 
 ## Overview
 This project is an application that estimates/predicts the outcome of a hypothetical UFC fight between two fighters based on scraped historical statistics fed into a custom algorithm. It provides a simple interface for users to select fighters by gender/weight class, and calculates win probabilities using stat-weighting in said custom algorithm. The goal is to offer any fans, fight nerds, and evaluators an engaging and data-driven way to explore hypothetical matchups.
