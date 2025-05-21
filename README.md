@@ -4,7 +4,7 @@
 UFC Outcome Predictor is an application that estimates/predicts the outcome of a hypothetical UFC fight between two fighters based on scraped historical statistics fed into an algorithm. It provides a simple interface for users to select fighters by gender/weight class, and calculates win probabilities using said custom stat-weighting algorithm. The goal is to offer fans, fight nerds, and evaluators an engaging and data-driven way to explore hypothetical matchups.
 
 ## Features
-This project uses real fight statistics collected via web scraping to make predictions without relying on any external APIs. Stats are weighted based on their correlation with past fight outcomes, and the interface is designed to be simple, fast, clear, and easy to use. The goal is to have it look professional, using other sports metrics apps, like ESPN’s app, “The Pacer’s App,” etc.
+This project uses real fight statistics collected via web scraping to make predictions without relying on any external APIs. Stats are weighted based on their correlation with past fight outcomes, and the interface is designed to be simple, fast, clear, and easy to use. The goal is to have it look professional, using other sports metrics apps, like ESPN’s app, “The Pacer’s App,” etc. as *reference*.
 
 ## How It Works
 - Choose a gender/weight class from the top scroll bar  
