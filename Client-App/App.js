@@ -1,6 +1,16 @@
 import React, { useState, useRef } from 'react'; //import react for JSX and UI components and logic 
 import { Button, Animated, Pressable, SafeAreaView, StyleSheet, Text, View } from 'react-native'; //specific mobile UI components 
 import Counter from './Counter';
+import RNPickerSelect from 'react-native-picker-select';
+
+const getFighterStats = (name) => {     // basically just correlates a list of stats with each fighter
+  const fakeStats = {
+    'Charles Oliveira': { wins: 34, losses: 9, draws: 1 },
+    'Ilia Topuria': { wins: 15, losses: 0, draws: 0 },
+    'Amanda Nunes': { wins: 23, losses: 5, draws: 0 },
+  };
+  return fakeStats[name] || { wins: 0, losses: 0, draws: 0 };  //!shortcircuiting logic! if the name isnt found in the list return 0 stats!
+};
 
 export default function App() {    //basically just "put this file on my app; it is the app itself really" 
   const [countA, setCountA] = useState(0);
@@ -14,6 +24,7 @@ export default function App() {    //basically just "put this file on my app; it
   const scaleAnim = useRef(new Animated.Value(1)).current; //idk wtf this means its 3am but i think animating a button will be cool (famous last words!) ^-^
 
   const animateResetButton = () => {
+    resetCounters();                      //RESET FIRST SO TESTS RUN CLEANLY!!!! THIS SHOULD GO FOR ANY ANIMATION LINKED TO AN ACTION OR FUNCTION CALL!!!
     Animated.sequence([
       Animated.timing(scaleAnim, {
         toValue: 0.9,
@@ -25,31 +36,106 @@ export default function App() {    //basically just "put this file on my app; it
         duration: 100,
         useNativeDriver: true,
       }),
-    ]).start(resetCounters); // reset when the bounce is done
+    ]).start(); 
   };
+
+  const [selectedFighter, setSelectedFighter] = useState(null);   //create state for fighter selection
+  const [fighterStats, setFighterStats] = useState(null);    //create state for stats
+
+  const fighterOptions = [                                        //fighter list
+    { label: 'Charles Oliveira', value: 'Charles Oliveira' },
+    { label: 'Ilia Topuria', value: 'Ilia Topuria' },
+    { label: 'Amanda Nunes', value: 'Amanda Nunes' },
+  ];
 
   return (
     <SafeAreaView style={styles.screenBackground}>
       <View style={styles.appContainer}>
         <Text style={styles.title}>Total Count: {countA + countB}</Text>
 
-        {/* First Counter */}
-        <View style={styles.counterBox}>
-          <Text style={styles.counterN}>Counter A</Text>
-          <Counter count={countA} onValueChange={setCountA} />
+        {/* Drop Down */}
+        <View style={styles.ddContainer}>
+          <View style={styles.fighterInfo}>
+          <Text style={styles.label}>Select a fighter:</Text>
+
+          <RNPickerSelect
+            //testID="fighter-picker"
+            onValueChange={(value) => {
+              setSelectedFighter(value);
+              if (value) {
+                const stats = getFighterStats(value);
+                setFighterStats(stats);
+              } else {
+                setFighterStats(null);
+              }
+            }}
+            items={fighterOptions}
+            placeholder={{ label: 'Choose one...', value: null }}
+            style={{
+              inputIOS: {
+                height: 50, 
+                width: 250, 
+                fontSize: 16,
+                paddingHorizontal: 12,
+                borderWidth: 2,
+                borderColor: '#888',
+                borderRadius: 10,
+                color: 'white',
+                backgroundColor: '#222',
+              },
+              inputAndroid: {
+                height: 50,
+                width: 250,
+                fontSize: 16,
+                paddingHorizontal: 12,
+                borderWidth: 2,
+                borderColor: '#888',
+                borderRadius: 10,
+                color: 'white',
+                backgroundColor: '#222',
+              },
+            }}
+            />
+            <View style={styles.statsBox}>
+              {fighterStats ? (  //if there are stats, then output this,
+                <>
+                  <Text style={styles.result}>Wins: {fighterStats.wins}</Text>
+                  <Text style={styles.result}>Losses: {fighterStats.losses}</Text>
+                  <Text style={styles.result}>Draws: {fighterStats.draws}</Text>
+                </>
+              ) : ( //if there ARENT stats, then output this:
+                <>
+                  <Text style={styles.result}>Wins: -</Text>
+                  <Text style={styles.result}>Losses: -</Text>
+                  <Text style={styles.result}>Draws: -</Text>
+                </>
+              )}
+            </View>
+          </View>
         </View>
 
-        {/* Second Counter */}
-        <View style={styles.counterBox}>
-          <Text style={styles.counterN}>Counter B</Text>
-          <Counter count={countB} onValueChange={setCountB} />
-        </View>
+        <View style={styles.counterRow}>
+          {/* First Counter */}
+          <View style={styles.counterBox}>
+            <Text style={styles.counterN}>Counter A</Text>
+            <Counter count={countA} onValueChange={setCountA} testID={"increment-A"}/>
+          </View>
 
-        <Animated.View style={[styles.button, { transform: [{ scale: scaleAnim }] }]}>
-          <Pressable onPress={animateResetButton} hitSlop={25}>
-            <Text style={styles.buttonText}>Reset</Text>
-          </Pressable>
-        </Animated.View>
+          {/* Second Counter */}
+          <View style={styles.counterBox}>
+            <Text style={styles.counterN}>Counter B</Text>
+            <Counter count={countB} onValueChange={setCountB} testID={"increment-B"}/>
+          </View>
+        </View>
+        
+        <View style={styles.bottomArea}>
+        {/* Reset Button */}
+          <Animated.View style={[styles.button, { transform: [{ scale: scaleAnim }] }]}>
+            <Pressable onPress={animateResetButton} hitSlop={25}>
+              <Text style={styles.buttonText}>Reset</Text>
+            </Pressable>
+          </Animated.View>
+        </View>
       </View>
     </SafeAreaView>
   );
@@ -75,7 +161,7 @@ export default function App() {    //basically just "put this file on my app; it
 
 const styles = StyleSheet.create({  //IMPORTANT: IMPORTED FILES WITH CONTAINERS NEED CONTAINERS (like this) FOR THEIR CONTAINERS
   counterN: {
-    fontSize: 24, 
+    fontSize: 20, 
     marginBottom: 20, 
     fontFamily: 'sans-serif',
     fontStyle: 'italic',
@@ -86,7 +172,7 @@ const styles = StyleSheet.create({  //IMPORTANT: IMPORTED FILES WITH CONTAINERS 
     backgroundColor: '#000f14',
     justifyContent: 'top',
     alignItems: 'center',
-    marginTop: 100,
+    marginTop: 50,
   },
   title: { 
     fontSize: 33, 
@@ -97,17 +183,22 @@ const styles = StyleSheet.create({  //IMPORTANT: IMPORTED FILES WITH CONTAINERS 
     textShadowOffset: { width: 0, height: 0 }, // centered
     textShadowRadius: 10,         // bigger = more blur
   },
+  counterRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    gap: 20, // spacing between counters (if your RN version supports it)
+    marginTop: 20,
+    marginBottom: 20,
+  },
   counterBox: {
-    height: 200,               // <- makes the container taller
-    width: '80%',
+    height: 200,
+    width: 150, // narrower now since they’re side-by-side
     padding: 20,
-    marginBottom: 40,
     alignItems: 'center',
     justifyContent: 'center',
-    borderWidth: 4,            // helps visualize container size  //SUPER USEFUL AND SHOULD BE STANDARD AS I DEVELOP UI!!!
+    borderWidth: 4,
     borderColor: '#12113d',
     borderRadius: 15,
-    marginTop: 25,
     backgroundColor: '#363b51',
   },
   screenBackground: {
@@ -115,15 +206,48 @@ const styles = StyleSheet.create({  //IMPORTANT: IMPORTED FILES WITH CONTAINERS 
     backgroundColor: '#000f14', // now fills *all* background, including behind the top
   },
   button: {
+    justifyContent: 'top',
     backgroundColor: 'red',
     paddingVertical: 12,
     paddingHorizontal: 24,
     borderRadius: 10,
     alignItems: 'center',
+    marginBottom: 30,  // this moves it UP by adding space below it
   },
   buttonText: {
     color: '#f2f8f8',
     fontWeight: 'bold',
     fontSize: 16,
+  },
+  ddContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    padding: 20,
+    color: 'red',
+  },
+  label: {
+    fontSize: 18,
+    marginBottom: 10,
+    color: 'white',
+  },
+  result: {
+    marginTop: 20,
+    fontSize: 16,
+    fontWeight: 'bold',
+    color: 'white',
+  },
+  bottomArea: {
+    marginTop: 'auto',  // pushes this area to the bottom
+    alignItems: 'center',
+    paddingBottom: 30,
+  },
+  fighterInfo: {
+    alignItems: 'center',
+    marginBottom: 20,
+  },
+  statsBox: {
+    marginTop: 10,
+    minHeight: 80, // ensures consistent space is reserved
+    justifyContent: 'center',
   },
 });

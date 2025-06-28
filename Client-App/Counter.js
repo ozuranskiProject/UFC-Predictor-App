@@ -1,7 +1,7 @@
 import React, { useState } from 'react'; //import react for JSX and UI components and logic 
 import { Button, Pressable, StyleSheet, Text, View } from 'react-native'; //specific mobile UI components
 
-export default function Counter( {count = 0, onValueChange}) {    //This is the function "Counter"    //startValue is a "prop" (can change variable from App.js)
+export default function Counter( {count = 0, onValueChange, testID}) {    //This is the function "Counter"    //startValue is a "prop" (can change variable from App.js)
   //const [count, setCount] = useState(startValue);
   //blank var, blank update function = "static variable that remembers value between rerender to UI, start at 10" 
   //const makes it so that only setCount will update count 
@@ -16,11 +16,14 @@ export default function Counter( {count = 0, onValueChange}) {    //This is the 
   return ( //*-_-_-in react, return is mostly UI outputs for components to render. here its all in JSX, a layout syntax-_-_-*  
     //-_-_-NOTE: IN JSX, "//" ISNT COMMENT, ITS {/* blah blah blah */}-_-_- 
     <View style={styles.container}>                                                 
-      <Text style={styles.counterText}>Count: {count}</Text>                 
-      <Pressable style={styles.button} onPress={trackCount}>
+      <Text style={styles.counterText} testID={`${testID}-label`}>Count: {count}</Text>                 
+      <Pressable style={styles.button} onPress={trackCount} testID={testID}>
         <Text style={styles.buttonText}>Increase</Text>
       </Pressable>       
     </View>                                                               
+
+    //Confusing but testID basically makes it so that when testing you can distinguish between repeated components!!! 
+    // just another prop really but refer to documentation if needed because its weird and you wont remember how to do it likely :/
 
     //*Okay so commenting in JSX is difficult and giving me errors so heres those four lines with comments:* 
     //<View style={styles.container}>                                      "show following stuff in the style of 'container,' defined below"       
@@ -53,6 +56,6 @@ const styles = StyleSheet.create({  //"here we are going to create a 'stylesheet
   buttonText: {
     color: '#f2f8f8',
     fontWeight: 'bold',
-    fontSize: 16,
+    fontSize: 13,
   },
 });
