@@ -1,8 +1,8 @@
 import React, { useState } from 'react'; //import react for JSX and UI components and logic 
 import { Button, StyleSheet, Text, View } from 'react-native'; //specific mobile UI components
 
-export default function Counter() {    //This is the function "Counter"
-  const [count, setCount] = useState(10);
+export default function Counter( {startValue}) {    //This is the function "Counter"    //startValue is the "prop" (can change variable from App.js)
+  const [count, setCount] = useState(startValue);
   //blank var, blank update function = "static variable that remembers value between rerender to UI, start at 10" 
   //const makes it so that only setCount will update count 
   //setCount(x) -> x is where it looks for update and is how react will let you update the variable with useState 
