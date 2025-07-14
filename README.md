@@ -26,3 +26,62 @@ The tool only uses stat averages available from each fighter’s most recent fig
 
 ## Future Plans
 There are plans to expand fighter selection with search functionality rather than just a sample, add prediction details like finish method or round, introduce filters for fight type (e.g., 3-round vs. 5-round), and implement an Elo display system (or even factor in calculated elo into fight win calculations). Support for other sports like boxing or kickboxing could also be added.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+## 🚀 Run This App Yourself (Expo)
+
+This app is built with [Expo](https://expo.dev), so you can run it on your own device — no build needed.
+
+### 📱 Quick Start on Your Phone
+
+1. **Install [Expo Go](https://expo.dev/go) on your phone**
+2. **Clone this repo and install dependencies:**
+
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm start
+   # or
+   expo start
+   ```
+
+4. **Scan the QR code** that appears using the **Expo Go app**
+
+---
+
+### 🖥️ Run in Emulator (Optional)
+
+- Press `a` to open Android emulator
+- Press `i` to open iOS simulator (macOS only)
+
+Make sure you have Android Studio or Xcode set up.
+
+---
+
+### 🛠️ Build a Test Version (Optional)
+
+To create a local build for Android/iOS:
+
+```bash
+npx expo run:android
+# or
+npx expo run:ios
+```
+
+Or use cloud builds via [EAS Build](https://docs.expo.dev/build/introduction/):
+
+```bash
+npx expo install eas-cli
+npx eas build --platform android
+npx eas build --platform ios
+```
+
+---
+
+For more details, see the [Expo Documentation](https://docs.expo.dev).
