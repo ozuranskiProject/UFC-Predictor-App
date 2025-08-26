@@ -1,24 +1,19 @@
-import React, { useState, useRef } from 'react'; //import react for JSX and UI components and logic 
+import React, { useState, useRef, useEffect } from 'react'; //import react for JSX and UI components and logic 
 import { Button, Animated, Pressable, SafeAreaView, StyleSheet, Text, View } from 'react-native'; //specific mobile UI components 
 import Counter from './Counter';
 import RNPickerSelect from 'react-native-picker-select';
-
-const getFighterStats = (name) => {     // basically just correlates a list of stats with each fighter
-  const fakeStats = {
-    'Charles Oliveira': { wins: 34, losses: 9, draws: 1 },
-    'Ilia Topuria': { wins: 15, losses: 0, draws: 0 },
-    'Amanda Nunes': { wins: 23, losses: 5, draws: 0 },
-  };
-  return fakeStats[name] || { wins: 0, losses: 0, draws: 0 };  //!shortcircuiting logic! if the name isnt found in the list return 0 stats!
-};
+import { getFighterStats } from './fighterService';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export default function App() {    //basically just "put this file on my app; it is the app itself really" 
   const [countA, setCountA] = useState(0);
   const [countB, setCountB] = useState(0);
 
+  const [loading, setLoading] = useState(false);
+
   const resetCounters = () => {
-  setCountA(0);
-  setCountB(0);
+    setCountA(0);
+    setCountB(0);
   };
 
   const scaleAnim = useRef(new Animated.Value(1)).current; //idk wtf this means its 3am but i think animating a button will be cool (famous last words!) ^-^
@@ -42,11 +37,23 @@ export default function App() {    //basically just "put this file on my app; it
   const [selectedFighter, setSelectedFighter] = useState(null);   //create state for fighter selection
   const [fighterStats, setFighterStats] = useState(null);    //create state for stats
 
-  const fighterOptions = [                                        //fighter list
+  const fighterOptions = [                                        //fighter list for dropdown (external)
     { label: 'Charles Oliveira', value: 'Charles Oliveira' },
     { label: 'Ilia Topuria', value: 'Ilia Topuria' },
     { label: 'Amanda Nunes', value: 'Amanda Nunes' },
   ];
+
+  useEffect(() => {                                //load fighter on startup
+    const loadSavedFighter = async () => {
+    const savedName = await AsyncStorage.getItem('selectedFighter');
+    if (savedName) {
+      setSelectedFighter(savedName);
+      setFighterStats(getFighterStats(savedName));
+    }
+  };
+
+  loadSavedFighter();
+}, []);
 
   return (
     <SafeAreaView style={styles.screenBackground}>
@@ -59,14 +66,23 @@ export default function App() {    //basically just "put this file on my app; it
           <Text style={styles.label}>Select a fighter:</Text>
 
           <RNPickerSelect
+            value={selectedFighter} //keep dropdown synced
             //testID="fighter-picker"
-            onValueChange={(value) => {
+            onValueChange={async (value) => {
               setSelectedFighter(value);
+
               if (value) {
-                const stats = getFighterStats(value);
-                setFighterStats(stats);
+                setLoading(true);                                    // start "loading" (display "loading") until stats are set (important when pulling from elsewhere later)
+                setFighterStats(null);                     // visually get rid of current stats
+                
+                await AsyncStorage.setItem('selectedFighter', value);  // save updated fighter to storage
+
+                const stats = getFighterStats(value);       //get stats of new fighter
+                setFighterStats(stats);               //update stats to be current
+                setLoading(false);                 //stop "loading" now that stats have been updated
               } else {
-                setFighterStats(null);
+                setFighterStats(null);            //empty out stats because none exist!
+                await AsyncStorage.removeItem('selectedFighter');  // clear storage?!
               }
             }}
             items={fighterOptions}
@@ -97,13 +113,15 @@ export default function App() {    //basically just "put this file on my app; it
             }}
             />
             <View style={styles.statsBox}>
-              {fighterStats ? (  //if there are stats, then output this,
+              {loading ? (
+                <Text style={styles.result}>Loading...</Text>
+              ) : fighterStats ? (
                 <>
                   <Text style={styles.result}>Wins: {fighterStats.wins}</Text>
                   <Text style={styles.result}>Losses: {fighterStats.losses}</Text>
                   <Text style={styles.result}>Draws: {fighterStats.draws}</Text>
                 </>
-              ) : ( //if there ARENT stats, then output this:
+              ) : (
                 <>
                   <Text style={styles.result}>Wins: -</Text>
                   <Text style={styles.result}>Losses: -</Text>
@@ -118,13 +136,13 @@ export default function App() {    //basically just "put this file on my app; it
           {/* First Counter */}
           <View style={styles.counterBox}>
             <Text style={styles.counterN}>Counter A</Text>
-            <Counter count={countA} onValueChange={setCountA} testID={"increment-A"}/>
+            <Counter internalCount={countA} onValueChange={setCountA} testID={"increment-A"}/>
           </View>
 
           {/* Second Counter */}
           <View style={styles.counterBox}>
             <Text style={styles.counterN}>Counter B</Text>
-            <Counter count={countB} onValueChange={setCountB} testID={"increment-B"}/>
+            <Counter internalCount={countB} onValueChange={setCountB} testID={"increment-B"}/>
           </View>
         </View>
         
