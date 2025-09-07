@@ -4,11 +4,11 @@ from bs4 import BeautifulSoup #lets you pick a part said web pages
 import json
 import os
 
-def scrape_fighter(slug):  #  accept fighter slug like "kevin-holland"
+def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
     def safe_get(dictionary, key): # basically function that will pull the stat from its list using its dictionary label but return NA if value never got scraped and is still none AKA doesnt exist
 
         value = dictionary.get(key)
-        return value if value is not None else "N/A" # !!!will add more comments throughout once I nail down this system, Ive been constantly restructuring due to bugs!!!
+        return value if value is not None else "N/A"
     
     try:
         url = f"https://www.ufc.com/athlete/{slug}"
