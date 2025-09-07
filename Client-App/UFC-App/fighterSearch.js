@@ -1,18 +1,33 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import { View, TextInput, StyleSheet, FlatList, Text, Pressable, Image } from 'react-native';
-
 import { searchFighters, getFighterByName } from './fighterService';
 
 const PLACEHOLDER = 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541';
 
-export default function FighterSearch({ placeholder = 'Search fighter…', fighters = [], style }) {
+export default function FighterSearch({ weightClassCode, weightClassLabel, placeholder = 'Search fighter…', fighters = [], style }) {
   const [query, setQuery] = useState('');
 
   const [showResults, setShowResults] = useState(false); // for setting whether or not to show flatlist seuggestions dropdown
 
   const [selected, setSelected] = useState(null); // for storing actual chosen/selected fighter object 
 
-  const results = searchFighters(query); //search fighters function includes fighter data set and sorts through it using the current query
+  //const results = searchFighters(query); //search fighters function includes fighter data set and sorts through it using the current query
+
+  const inputRef = useRef(null);
+
+  // 🔑 whenever the weight class changes, clear query + selection + dropdown
+  useEffect(() => {
+    setQuery('');
+    setShowResults(false);
+    setSelected(null);
+    // optional UX nicety:
+    inputRef.current?.blur?.();
+  }, [weightClassCode]); // or [weightClassLabel]
+
+  const results = useMemo(() => {
+    if (!query.trim()) return [];
+    return searchFighters(query, weightClassLabel, 10); // <-- MUST pass the label
+  }, [query, weightClassLabel]);
 
   function handleChange(text) { // idk if this is actually needed yet because of searchfighters but ill play with it for now
     setQuery(text);
@@ -27,13 +42,15 @@ export default function FighterSearch({ placeholder = 'Search fighter…', fight
     setSelected(f || null);        // save the full fighter object (so we can show photo, stats, etc.) trying to be smarter about edge cases
   }
 
+  console.log('FS props:', { weightClassLabel }); //fuck me i hate my life
+
   return (
     <View style={[styles.wrap, style]}>
       <TextInput
         style={styles.input}
         value={query}
         onChangeText={handleChange}            
-        placeholder={placeholder}
+        placeholder={placeholder}  // CHANGED
         autoCorrect={false}
         autoCapitalize="words"
         testID="fighter-search-input"
