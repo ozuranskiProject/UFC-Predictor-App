@@ -9,7 +9,7 @@ const getFighterStats = (name) => {     // basically just correlates a list of s
     'Ilia Topuria': { wins: 15, losses: 0, draws: 0 },
     'Amanda Nunes': { wins: 23, losses: 5, draws: 0 },
   };
-  return fakeStats[name] || { wins: 0, losses: 0, draws: 0 };  //!shortcircuiting logic! if the name isnt found in the list return 0 stats!
+  return fakeStats[name] || null;  
 };
 
 export default function App() {    //basically just "put this file on my app; it is the app itself really" 
@@ -17,8 +17,8 @@ export default function App() {    //basically just "put this file on my app; it
   const [countB, setCountB] = useState(0);
 
   const resetCounters = () => {
-  setCountA(0);
-  setCountB(0);
+    setCountA(0);
+    setCountB(0);
   };
 
   const scaleAnim = useRef(new Animated.Value(1)).current; //idk wtf this means its 3am but i think animating a button will be cool (famous last words!) ^-^
@@ -118,13 +118,13 @@ export default function App() {    //basically just "put this file on my app; it
           {/* First Counter */}
           <View style={styles.counterBox}>
             <Text style={styles.counterN}>Counter A</Text>
-            <Counter count={countA} onValueChange={setCountA} testID={"increment-A"}/>
+            <Counter internalCount={countA} onValueChange={setCountA} testID={"increment-A"}/>
           </View>
 
           {/* Second Counter */}
           <View style={styles.counterBox}>
             <Text style={styles.counterN}>Counter B</Text>
-            <Counter count={countB} onValueChange={setCountB} testID={"increment-B"}/>
+            <Counter internalCount={countB} onValueChange={setCountB} testID={"increment-B"}/>
           </View>
         </View>
         
