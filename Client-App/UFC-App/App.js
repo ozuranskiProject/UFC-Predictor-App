@@ -29,8 +29,12 @@ export default function App() {
     <View style={styles.container}>
       <WeightClassSelector />
       <Text>Welcome to the main app!</Text>
-      <FighterSearch fighters={fighters}/>
-      </View >
+
+      <View style={styles.searchRow}>
+        <FighterSearch style={styles.searchBox} />
+        <FighterSearch style={styles.searchBox} />
+      </View>
+    </View >
   );
 }
 
@@ -51,5 +55,14 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingTop: 50, // optional: push content below status bar
     paddingHorizontal: 20,
+  },
+  searchRow: {                 
+    flexDirection: 'row',      // put side by side
+    gap: 20,                   // space between them 
+    justifyContent: 'center',
+    alignItems: 'flex-start',  // keep them aligned at the top
+  },
+  searchBox: {
+    width: 140,          // <- lock the width as parent, children should just use a percentage of this container
   },
 });
