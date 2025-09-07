@@ -1,32 +1,47 @@
 import React, { useState } from 'react';
 import { FlatList, Text, Pressable, View, StyleSheet } from 'react-native';
 
-const weightClasses = [
-  'WSW', "WFLW", "WBW", 'FLW', 'BW', 'FW', 'LW',
-  'WW', 'MW', 'LHW', 'HW'
+export const weightClasses = [  // this should make it so that I can add and edit weightclasses easier in the future
+  { code: 'WSW', label: "Women's Strawweight" },
+  { code: 'WFLW', label: "Women's Flyweight" },
+  { code: 'WBW', label: "Women's Bantamweight" },
+  { code: 'FLW',  label: 'Flyweight' },
+  { code: 'BW',   label: 'Bantamweight' },
+  { code: 'FW',   label: 'Featherweight' },
+  { code: 'LW',   label: 'Lightweight' },
+  { code: 'WW',   label: 'Welterweight' },
+  { code: 'MW',   label: 'Middleweight' },
+  { code: 'LHW',  label: 'Light Heavyweight' },
+  { code: 'HW',   label: 'Heavyweight' },
 ];
 
-export default function WeightClassSelector() {
-  const [selected, setSelected] = useState(null); // For visual feedback only
+export default function WeightClassSelector({ selectedLabel, onSelect }) {
+  //MOVED TO PARENT -> const [selected, setSelected] = useState('WSW'); // Preselected first item now so that search without selection is impossible
+
+  const selectedCode = weightClasses.find(o => o.label === selectedLabel)?.code;
+  //.find is super useful for finding elements in an array without manual iteration
+  //o is the variable for object. basically just saying to match the label of the object with the matching selected label to get the oobject we want
+  // and then once the object is found ?.code takes the matching code value
 
   return (
     <View style={{ height: 66}}>
       <FlatList
         data={weightClasses}
-        keyExtractor={(item) => item}
+        keyExtractor={(o) => o.code}
         horizontal
         showsHorizontalScrollIndicator={false}
         contentContainerStyle={styles.scrollContainer}
         renderItem={({ item }) => (
           <Pressable
-            onPress={() => setSelected(item)}
+            testID={`weight-${item.code}`}
+            onPress={() => onSelect(item.label)}
             style={[
               styles.item,
-              selected === item && styles.selectedItem
+              selectedCode === item.code && styles.selectedItem
             ]}
           >
-            <Text style={selected === item ? styles.selectedText : styles.text}>
-              {item}
+            <Text style={selectedCode === item.code ? styles.selectedText : styles.text}>
+              {item.code}
             </Text>
           </Pressable>
         )}
