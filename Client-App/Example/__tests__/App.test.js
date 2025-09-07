@@ -46,14 +46,18 @@ describe('App counter', () => {   //"describe" equates to grouping related tests
     expect(getByText('Total Count: 1')).toBeTruthy();
   });
 
-  it('resets both counters when Reset is pressed', () => {  //this could probably or should probably be two seperate test but... ehh
-    const { getByTestId, getByText } = render(<App />);
-    fireEvent.press(getByTestId('increment-A'));
-    fireEvent.press(getByTestId('increment-B'));
-    expect(getByText('Total Count: 2')).toBeTruthy();
+    it('resets both counters when Reset is pressed', async () => {
+      const { getByTestId, getByText } = render(<App />);
+      
+      fireEvent.press(getByTestId('increment-A'));
+      fireEvent.press(getByTestId('increment-B'));
+      expect(getByText('Total Count: 2')).toBeTruthy();
 
-    fireEvent.press(getByText('Reset'));
-    expect(getByText('Total Count: 0')).toBeTruthy();
+      fireEvent.press(getByText('Reset'));
+
+      await waitFor(() => {
+        expect(getByText('Total Count: 0')).toBeTruthy();
+    });
   });
 });
 

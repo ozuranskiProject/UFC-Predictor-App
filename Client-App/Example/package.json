@@ -10,15 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
-    "expo": "53.0.19",
+    "@expo/config-plugins": "~10.1.1",
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "expo": "^53.0.19",
     "expo-status-bar": "~2.2.3",
     "jest-expo": "~53.0.9",
     "prop-types": "^15.8.1",
     "react": "19.0.0",
     "react-native": "0.79.5",
-    "react-native-picker-select": "^9.3.1",
-    "@react-native-async-storage/async-storage": "2.1.2",
-    "@expo/config-plugins": "~10.1.1"
+    "react-native-picker-select": "^9.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
