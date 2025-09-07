@@ -4,30 +4,29 @@ import { searchFighters, getFighterByName } from './fighterService';
 
 const PLACEHOLDER = 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541';
 
-export default function FighterSearch({ weightClassCode, weightClassLabel, placeholder = 'Search fighter…', fighters = [], style }) {
+export default function FighterSearch({ weightClassCode, weightClassLabel, placeholder = 'Search fighter…', fighters = [], style, onSelect }) {
   const [query, setQuery] = useState('');
 
   const [showResults, setShowResults] = useState(false); // for setting whether or not to show flatlist seuggestions dropdown
 
   const [selected, setSelected] = useState(null); // for storing actual chosen/selected fighter object 
 
-  //const results = searchFighters(query); //search fighters function includes fighter data set and sorts through it using the current query
-
   const inputRef = useRef(null);
 
-  // 🔑 whenever the weight class changes, clear query + selection + dropdown
+  // whenever the weight class changes, clear query + selection + dropdown
   useEffect(() => {
     setQuery('');
     setShowResults(false);
     setSelected(null);
+    onSelect?.(null); // tell parent we cleared
     // optional UX nicety:
     inputRef.current?.blur?.();
   }, [weightClassCode]); // or [weightClassLabel]
 
   const results = useMemo(() => {
-    if (!query.trim()) return [];
-    return searchFighters(query, weightClassLabel, 10); // <-- MUST pass the label
-  }, [query, weightClassLabel]);
+    if (!query.trim()) return []; //.trim is needed so that this applies for spaces too
+    return searchFighters(query, weightClassLabel, 10); // 
+  }, [query, weightClassLabel]); //dependencies for useMemo so that results ONLY rerenders/runs when they change
 
   function handleChange(text) { // idk if this is actually needed yet because of searchfighters but ill play with it for now
     setQuery(text);
@@ -35,14 +34,14 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
     if (!text) setSelected(null);
   }
 
-  function handlePick(name) {
-    setQuery(name);                // autocomplete the search box 
-    setShowResults(false);         // hide the suggestion dropdown
-    const f = getFighterByName(name); 
-    setSelected(f || null);        // save the full fighter object (so we can show photo, stats, etc.) trying to be smarter about edge cases
+  function handlePick(fighter) {
+    setQuery(fighter.name);       // autocomplete the input with the fighter’s name
+    setShowResults(false);
+    setSelected(fighter);         // store the object we already have
+    onSelect?.(fighter);          // pass it directly to App
   }
 
-  console.log('FS props:', { weightClassLabel }); //fuck me i hate my life
+  console.log('Selected weightclass:', { weightClassLabel }); //ugh debugging undefined issue
 
   return (
     <View style={[styles.wrap, style]}>
@@ -50,7 +49,7 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
         style={styles.input}
         value={query}
         onChangeText={handleChange}            
-        placeholder={placeholder}  // CHANGED
+        placeholder={placeholder}  //should I just remove this it doesnt need to be a prop
         autoCorrect={false}
         autoCapitalize="words"
         testID="fighter-search-input"
@@ -64,7 +63,7 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
           keyboardShouldPersistTaps="handled"  // what to do with keyboard after interaction
           renderItem={({ item }) => ( // vv render fighter object as button vv
             <Pressable
-              onPress={() => handlePick(item.name)} 
+              onPress={() => handlePick(item)} //item.name 
               style={styles.row}
               testID={`suggestions`}    
               >
