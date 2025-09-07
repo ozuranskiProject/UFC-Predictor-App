@@ -1,11 +1,18 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useMemo } from 'react';
 import { View, Text, StyleSheet, ActivityIndicator } from 'react-native';
-import WeightClassSelector from './weight-class-picker';
+import WeightClassSelector, { weightClasses } from './weight-class-picker';
 import FighterSearch from './fighterSearch';
 import fighters from './fighterService';
 
 export default function App() {
   const [isReady, setIsReady] = useState(false); //use of true/false useState default automatically makes isReady hold boolean
+
+  const [weightClassLabel, setWeightClassLabel] = useState("Women's Strawweight"); // label in state // preselect weight class
+
+  const weightClassCode = useMemo(
+    () => weightClasses.find(o => o.label === weightClassLabel)?.code ?? null,
+    [weightClassLabel]
+  );
 
   useEffect(() => {                     //useEffect is confusing me but from my understanding, it lets you run something once after the app loads,
                                         // without it happening again every time the screen updates or "rerenders"
@@ -27,12 +34,15 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <WeightClassSelector />
-      <Text>Welcome to the main app!</Text>
+      <WeightClassSelector 
+        selectedLabel={weightClassLabel}
+        onSelect={setWeightClassLabel}
+      />
+      <Text style={styles.welcome}>Choose your matchup!!!</Text>
 
       <View style={styles.searchRow}>
-        <FighterSearch style={styles.searchBox} />
-        <FighterSearch style={styles.searchBox} />
+        <FighterSearch style={styles.searchBox} weightClassLabel={weightClassLabel} weightClassCode={weightClassCode}/>
+        <FighterSearch style={styles.searchBox} weightClassLabel={weightClassLabel} weightClassCode={weightClassCode}/>
       </View>
     </View >
   );
@@ -64,5 +74,12 @@ const styles = StyleSheet.create({
   },
   searchBox: {
     width: 140,          // <- lock the width as parent, children should just use a percentage of this container
+  },
+  welcome: {
+    fontSize: 12,             // make it bigger
+    fontWeight: 'bold',       // bold text
+    color: '#e63946',         // red text (pick any hex/rgb color)
+    justifyContent: 'center',         // spacing below the text
+    alignItems: 'center',
   },
 });
