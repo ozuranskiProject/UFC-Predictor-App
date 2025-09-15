@@ -57,6 +57,7 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
 
       {showResults && results.length > 0 && (  // flatlist now only appears if there are results to show!!!
         <FlatList
+          testID='suggestions'
           style={styles.dropdown}
           data={results} //filtered fighter data set (filtered by query)
           keyExtractor={(item, i) => String(item.id ?? `${item.name}-${i}`)} // use id as key, if no id then just use their name
@@ -65,7 +66,7 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
             <Pressable
               onPress={() => handlePick(item)} //item.name 
               style={styles.row}
-              testID={`suggestions`}    
+              testID={`suggestion-${item.name}`}    
               >
               <Text style={styles.name}>{item.name}</Text>
             </Pressable>

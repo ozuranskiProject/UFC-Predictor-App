@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FlatList, Text, Pressable, View, StyleSheet } from 'react-native';
 
-export const weightClasses = [
+export const weightClasses = [  // this should make it so that I can add and edit weightclasses easier in the future
   { code: 'WSW', label: "Women's Strawweight" },
   { code: 'WFLW', label: "Women's Flyweight" },
   { code: 'WBW', label: "Women's Bantamweight" },
@@ -20,6 +20,10 @@ export default function WeightClassSelector({ selectedLabel, onSelect }) {
 
   const selectedCode = weightClasses.find(o => o.label === selectedLabel)?.code;
 
+  //.find is super useful for finding elements in an array without manual iteration
+  //o is the variable for object. basically just saying to match the label of the object with the matching selected label to get the oobject we want
+  // and then once the object is found ?.code takes the matching code value
+
   return (
     <View style={{ height: 66}}>
       <FlatList
@@ -30,6 +34,8 @@ export default function WeightClassSelector({ selectedLabel, onSelect }) {
         contentContainerStyle={styles.scrollContainer}
         renderItem={({ item }) => (
           <Pressable
+
+            testID={`weight-${item.code}`}
             onPress={() => onSelect(item.label)}
             style={[
               styles.item,
