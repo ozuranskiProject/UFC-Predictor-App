@@ -1,0 +1,34 @@
+{
+  "name": "Alex Garcia",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67208/profile-galery/fullbodyleft-picture/Alex-Garcia_459193_LeftFullBodyImage.png?itok=7-XYiit3",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "15",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "20",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "35",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "39.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.81",
+    "SApM": "3.03",
+    "TDAvg": "3.72",
+    "Sub.Avg": "0.13",
+    "Str.Def": "59",
+    "TDDef": "67",
+    "KDAvg": "0.38",
+    "Avg Fight Time": "11:42",
+    "Str. Acc.": "31",
+    "TD Acc.": "53"
+  }
+}

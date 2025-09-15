@@ -1,0 +1,34 @@
+{
+  "name": "Mike Ricci",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/de74c875-ab82-4f90-b8b5-ddeb9f096738%252FMike-Ricci_293591_LeftFullBodyImage.png?itok=XJe7V17g",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "9",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "56",
+    "DEC": "33",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "72.00",
+    "reach": "77.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.80",
+    "SApM": "1.64",
+    "TDAvg": "0.67",
+    "Sub.Avg": "0.00",
+    "Str.Def": "66",
+    "TDDef": "54",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "32",
+    "TD Acc.": "100"
+  }
+}

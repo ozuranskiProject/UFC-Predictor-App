@@ -1,0 +1,34 @@
+{
+  "name": "Karl Williams",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/WILLIAMS_KARL_L_08-10.png?itok=ZDhNOtkn",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "30",
+    "DEC": "70",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "35",
+    "height": "75.00",
+    "reach": "79.00",
+    "leg_reach": "43.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.68",
+    "SApM": "2.15",
+    "TDAvg": "4.20",
+    "Sub.Avg": "0.20",
+    "Str.Def": "56",
+    "TDDef": "100",
+    "KDAvg": "0.20",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "49",
+    "TD Acc.": "49"
+  }
+}

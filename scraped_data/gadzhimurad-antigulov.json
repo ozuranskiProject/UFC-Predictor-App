@@ -1,0 +1,34 @@
+{
+  "name": "Gadzhimurad Antigulov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-10/67993%252Fprofile-galery%252Ffullbodyleft-picture%252FANTIGULOV_GADZHIMURAD_L_10-17.png?itok=T19YWLOe",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "20",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "5",
+    "SUB": "75"
+  },
+  "bio": {
+    "age": "36",
+    "height": "71.00",
+    "reach": "70.50",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.08",
+    "SApM": "4.21",
+    "TDAvg": "5.08",
+    "Sub.Avg": "1.45",
+    "Str.Def": "40",
+    "TDDef": "0.00",
+    "KDAvg": "03:27",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "55",
+    "TD Acc.": "37"
+  }
+}

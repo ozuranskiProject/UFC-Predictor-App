@@ -1,0 +1,34 @@
+{
+  "name": "Mark Choinski",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/CHOINSKI_MARK_R_06-07.png?itok=fRNulpS0",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "8",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "38",
+    "SUB": "63"
+  },
+  "bio": {
+    "age": "29",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "N/A",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "3.87",
+    "SApM": "7.33",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "33",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "51",
+    "TD Acc.": "18"
+  }
+}

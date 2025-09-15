@@ -1,0 +1,34 @@
+{
+  "name": "Jai Herbert",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/HERBERT_JAI_L_03-22.png?itok=5s5_6iD0",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "69",
+    "DEC": "23",
+    "SUB": "8"
+  },
+  "bio": {
+    "age": "36",
+    "height": "73.00",
+    "reach": "77.00",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.07",
+    "SApM": "3.26",
+    "TDAvg": "0.43",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "67",
+    "KDAvg": "0.57",
+    "Avg Fight Time": "11:40",
+    "Str. Acc.": "41",
+    "TD Acc.": "21"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ji\u0159\u00ed Proch\u00e1zka",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/7/PROCHAZKA_JIRI_L_01-18.png?itok=G2utkkFt",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "31",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "87",
+    "DEC": "3",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "32",
+    "height": "75.00",
+    "reach": "80.00",
+    "leg_reach": "45.00",
+    "fighting_style": "Karate"
+  },
+  "fight_stats": {
+    "SLpM": "5.74",
+    "SApM": "5.70",
+    "TDAvg": "0.60",
+    "Sub.Avg": "0.20",
+    "Str.Def": "43",
+    "TDDef": "68",
+    "KDAvg": "0.79",
+    "Avg Fight Time": "10:47",
+    "Str. Acc.": "56",
+    "TD Acc.": "60"
+  }
+}

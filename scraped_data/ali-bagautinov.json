@@ -1,0 +1,34 @@
+{
+  "name": "Ali Bagautinov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/Ali-Bagautinov_335521_LeftFullBodyImage.png?itok=LZ_lmI-w",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "14",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "36",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "38",
+    "height": "65.00",
+    "reach": "65.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.85",
+    "SApM": "3.09",
+    "TDAvg": "2.51",
+    "Sub.Avg": "0.26",
+    "Str.Def": "52",
+    "TDDef": "65",
+    "KDAvg": "0.26",
+    "Avg Fight Time": "16:13",
+    "Str. Acc.": "42",
+    "TD Acc.": "37"
+  }
+}

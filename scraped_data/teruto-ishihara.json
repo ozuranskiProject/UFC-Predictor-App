@@ -1,0 +1,34 @@
+{
+  "name": "Teruto Ishihara",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Teruto_Ishibara/ISHIHARA_TERUTO_L.png?VersionId=2Gmc7K2eBc.Y4_5c6JRDYj0.9HCJMUMf&itok=KdLpshJd",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "11",
+    "losses": "6",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "27",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.26",
+    "SApM": "3.63",
+    "TDAvg": "0.50",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "31",
+    "KDAvg": "1.33",
+    "Avg Fight Time": "10:04",
+    "Str. Acc.": "45",
+    "TD Acc.": "17"
+  }
+}

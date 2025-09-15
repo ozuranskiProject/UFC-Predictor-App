@@ -3,7 +3,11 @@ from bs4 import BeautifulSoup #lets you pick a part said web pages
 
 import json
 import os
-
+import sys
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    
 def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
     def safe_get(dictionary, key): # basically function that will pull the stat from its list using its dictionary label but return NA if value never got scraped and is still none AKA doesnt exist
 
@@ -16,7 +20,7 @@ def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
         soup = BeautifulSoup(response.text, 'html.parser')
 
         if response.url.endswith("/404") or "Page Not Found" in soup.text:
-            print(f"⚠️ Page not found for {slug}, skipping.")
+            print(f"!!! Page not found for {slug}, skipping.")
             return
         
         name = soup.find('h1', class_="hero-profile__name").text.strip()
@@ -198,7 +202,7 @@ def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
         with open(file_path, "w") as f:
             json.dump(fighter_data, f, indent=2)
 
-        print(f"✅ Scraped: {name} → saved to {file_path}")
+        print(f"YAY! Scraped: {name} -> saved to {file_path}")
 
     except Exception as e:
-        print(f"❌ Unexpected error scraping {slug}: {e}")
+        print(f"XXX Unexpected error scraping {slug}: {e}")

@@ -1,0 +1,34 @@
+{
+  "name": "Jose Quinonez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-11/68355%252Fprofile-galery%252Ffullbodyleft-picture%252FQUINONEZ_JOSE_L_09-21.png?itok=HpORAn90",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "9",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "67",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "32",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "39.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.60",
+    "SApM": "3.00",
+    "TDAvg": "2.70",
+    "Sub.Avg": "0.63",
+    "Str.Def": "64",
+    "TDDef": "43",
+    "KDAvg": "0.48",
+    "Avg Fight Time": "10:31",
+    "Str. Acc.": "45",
+    "TD Acc.": "47"
+  }
+}

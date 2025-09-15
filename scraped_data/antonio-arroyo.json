@@ -1,0 +1,34 @@
+{
+  "name": "Antonio Arroyo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/71421%252Fprofile-galery%252Ffullbodyleft-picture%252FARROYO_ANTONIO_L_06-05.png?itok=y4MOnO3X",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "9",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "11",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "33",
+    "height": "75.00",
+    "reach": "73.50",
+    "leg_reach": "41.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.82",
+    "SApM": "2.02",
+    "TDAvg": "1.14",
+    "Sub.Avg": "0.23",
+    "Str.Def": "50",
+    "TDDef": "42",
+    "KDAvg": "0.23",
+    "Avg Fight Time": "13:11",
+    "Str. Acc.": "66",
+    "TD Acc.": "42"
+  }
+}

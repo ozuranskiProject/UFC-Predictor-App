@@ -1,0 +1,34 @@
+{
+  "name": "Anton Zafir",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/511e4718-dfb9-4daf-a34e-04663246470d%252FAnton-Zafir_568644_LeftFullBodyImage.png?itok=rNaZFpaf",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "14",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "35",
+    "height": "71.00",
+    "reach": "72.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.99",
+    "SApM": "2.31",
+    "TDAvg": "6.11",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "0.00",
+    "KDAvg": "03:41",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "65",
+    "TD Acc.": "60"
+  }
+}

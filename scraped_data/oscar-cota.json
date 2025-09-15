@@ -1,0 +1,34 @@
+{
+  "name": "Oscar Cota",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-10/68954%252Fprofile-galery%252Ffullbodyleft-picture%252FCOTA_OSCAR_L.png?itok=HwIv2stS",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "38",
+    "height": "72.00",
+    "reach": "72.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.33",
+    "SApM": "2.47",
+    "TDAvg": "0.00",
+    "Sub.Avg": "1.00",
+    "Str.Def": "41",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "42",
+    "TD Acc.": "N/A"
+  }
+}

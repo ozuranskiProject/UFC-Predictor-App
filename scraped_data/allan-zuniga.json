@@ -1,0 +1,34 @@
+{
+  "name": "Allan Zuniga",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/ZUNIGA_ALLAN_R_0.png?VersionId=U4Abn_.xFMCfJPxEJL5JNabUnB_jJwgB&itok=lidyCmwl",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "23",
+    "DEC": "46",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "31",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.93",
+    "SApM": "1.80",
+    "TDAvg": "0.00",
+    "Sub.Avg": "1.00",
+    "Str.Def": "62",
+    "TDDef": "58",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "53",
+    "TD Acc.": "N/A"
+  }
+}

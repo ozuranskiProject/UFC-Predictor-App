@@ -1,0 +1,34 @@
+{
+  "name": "Gokhan Saki",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68038/profile-galery/fullbodyleft-picture/Gokhan-Saki_634220_LeftFullBodyImage.png?VersionId=SwR59LhpUe5o51X5L2Gr_yMBehPhlZRd&itok=2AjnKTNC",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "1",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "100",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "39",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "7.09",
+    "SApM": "4.57",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "100",
+    "KDAvg": "4.72",
+    "Avg Fight Time": "03:11",
+    "Str. Acc.": "58",
+    "TD Acc.": "N/A"
+  }
+}

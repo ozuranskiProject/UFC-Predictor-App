@@ -1,0 +1,34 @@
+{
+  "name": "Darian Weeks",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/32bd070e-37f4-485d-a53b-0ebdefab826b%252FWEEKS_DARIAN_L_12-04.png?itok=bqFnGHrH",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "5",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "80",
+    "DEC": "0",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "29",
+    "height": "71.50",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.49",
+    "SApM": "4.56",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "51",
+    "TD Acc.": "30"
+  }
+}

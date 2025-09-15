@@ -1,0 +1,34 @@
+{
+  "name": "Liz Carmouche",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/CARMOUCHE_LIZ_L_0.png?VersionId=y7Lr5Uzdovy4aC3ACQ_iEnQrcs2Jn44y&itok=C1ADYJOu",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "13",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "46",
+    "DEC": "38",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "39",
+    "height": "66.00",
+    "reach": "66.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.78",
+    "SApM": "2.51",
+    "TDAvg": "2.57",
+    "Sub.Avg": "0.31",
+    "Str.Def": "62",
+    "TDDef": "66",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:46",
+    "Str. Acc.": "54",
+    "TD Acc.": "52"
+  }
+}

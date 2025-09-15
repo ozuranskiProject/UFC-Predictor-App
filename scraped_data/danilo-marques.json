@@ -1,0 +1,34 @@
+{
+  "name": "Danilo Marques",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/MARQUES_DANILO_L_06-26.png?itok=fTqxOCY3",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "11",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "18",
+    "SUB": "45"
+  },
+  "bio": {
+    "age": "37",
+    "height": "78.00",
+    "reach": "77.00",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.44",
+    "SApM": "2.52",
+    "TDAvg": "3.93",
+    "Sub.Avg": "0.79",
+    "Str.Def": "52",
+    "TDDef": "0.00",
+    "KDAvg": "09:32",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "80",
+    "TD Acc.": "29"
+  }
+}

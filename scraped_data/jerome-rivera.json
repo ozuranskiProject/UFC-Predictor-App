@@ -1,0 +1,34 @@
+{
+  "name": "Jerome Rivera",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/RIVERA_JEROME_L_07-10.png?itok=-r2Tsce_",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "10",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "10",
+    "DEC": "30",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "28",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.21",
+    "SApM": "2.60",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:36",
+    "Str. Acc.": "34",
+    "TD Acc.": "0"
+  }
+}

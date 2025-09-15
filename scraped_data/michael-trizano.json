@@ -1,0 +1,34 @@
+{
+  "name": "Michael Trizano",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/e72d00f1-3c4d-487a-b751-4b0556eb1554%252FTRIZANO_MICHAEL_L_02-05.png?itok=xzDo2_ye",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "55",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "31",
+    "height": "71.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.63",
+    "SApM": "4.40",
+    "TDAvg": "0.36",
+    "Sub.Avg": "0.54",
+    "Str.Def": "51",
+    "TDDef": "73",
+    "KDAvg": "0.54",
+    "Avg Fight Time": "11:53",
+    "Str. Acc.": "54",
+    "TD Acc.": "67"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Felipe Bunes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/BUNES_FELIPE_L_01-11.png?itok=fVpbOtaM",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "14",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "14",
+    "DEC": "21",
+    "SUB": "64"
+  },
+  "bio": {
+    "age": "35",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "38.50",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "2.93",
+    "SApM": "4.66",
+    "TDAvg": "1.13",
+    "Sub.Avg": "2.26",
+    "Str.Def": "45",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:52",
+    "Str. Acc.": "51",
+    "TD Acc.": "22"
+  }
+}

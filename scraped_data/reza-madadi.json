@@ -1,0 +1,34 @@
+{
+  "name": "Reza Madadi",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/0df986b2-c47b-4cca-8533-22b94f300e7e%252FReza-Madadi_232923_LeftFullBodyImage.png?itok=z0o6NFs-",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "14",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "23",
+    "SUB": "62"
+  },
+  "bio": {
+    "age": "45",
+    "height": "71.00",
+    "reach": "72.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.51",
+    "SApM": "3.31",
+    "TDAvg": "3.17",
+    "Sub.Avg": "0.50",
+    "Str.Def": "67",
+    "TDDef": "89",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:51",
+    "Str. Acc.": "47",
+    "TD Acc.": "34"
+  }
+}

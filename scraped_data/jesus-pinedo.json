@@ -1,0 +1,34 @@
+{
+  "name": "Jesus Pinedo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68251/profile-galery/fullbodyleft-picture/PINEDO_JESUS_L.png?VersionId=vhGmCc1.WEPCxyurvHm.Eu8RQI81eCZS&itok=hrFeWAmX",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "16",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "31",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "26",
+    "height": "69.00",
+    "reach": "74.00",
+    "leg_reach": "39.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.23",
+    "SApM": "4.37",
+    "TDAvg": "2.50",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "38",
+    "TD Acc.": "100"
+  }
+}

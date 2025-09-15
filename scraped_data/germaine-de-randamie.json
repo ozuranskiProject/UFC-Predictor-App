@@ -1,0 +1,34 @@
+{
+  "name": "Germaine de Randamie",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/DE_RANDAMIE_GERMAINE_L_04-06.png?itok=x_8goT1X",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "50",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "40",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "2.57",
+    "SApM": "2.00",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.38",
+    "Str.Def": "65",
+    "TDDef": "65",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "12:08",
+    "Str. Acc.": "47",
+    "TD Acc.": "0"
+  }
+}

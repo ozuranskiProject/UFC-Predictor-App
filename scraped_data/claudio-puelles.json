@@ -1,0 +1,34 @@
+{
+  "name": "Claudio Puelles",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/PUELLES_CLAUDIO_L_09-13.png?itok=yh-TTh14",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "31",
+    "SUB": "54"
+  },
+  "bio": {
+    "age": "29",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "1.56",
+    "SApM": "2.78",
+    "TDAvg": "3.17",
+    "Sub.Avg": "1.17",
+    "Str.Def": "46",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:14",
+    "Str. Acc.": "50",
+    "TD Acc.": "37"
+  }
+}

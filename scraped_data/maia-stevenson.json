@@ -1,0 +1,34 @@
+{
+  "name": "Maia Stevenson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69625/profile-galery/fullbodyleft-picture/Maia-Stevenson_645898_LeftFullBodyImage.png?VersionId=ifW71BAC3pKNlHDwiv4M3XWTrETiUN6j&itok=UtyaoMzf",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "6",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "17",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "41",
+    "height": "64.00",
+    "reach": "62.50",
+    "leg_reach": "35.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.57",
+    "SApM": "3.13",
+    "TDAvg": "3.91",
+    "Sub.Avg": "0.00",
+    "Str.Def": "33",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "03:50",
+    "Str. Acc.": "55",
+    "TD Acc.": "100"
+  }
+}

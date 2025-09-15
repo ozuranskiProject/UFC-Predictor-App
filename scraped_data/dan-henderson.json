@@ -1,0 +1,34 @@
+{
+  "name": "Dan Henderson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67711/profile-galery/fullbodyleft-picture/Dan-Henderson_63_LeftFullBodyImage.png?VersionId=FJDbDcy7hdlRW_Ste2Cq5MirRIJJCv0n&itok=vk8bzWU-",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "32",
+    "losses": "15",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "52",
+    "height": "71.00",
+    "reach": "74.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.44",
+    "SApM": "2.70",
+    "TDAvg": "1.52",
+    "Sub.Avg": "0.34",
+    "Str.Def": "52",
+    "TDDef": "58",
+    "KDAvg": "0.71",
+    "Avg Fight Time": "11:39",
+    "Str. Acc.": "47",
+    "TD Acc.": "53"
+  }
+}

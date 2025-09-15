@@ -1,0 +1,34 @@
+{
+  "name": "Garreth McLellan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/25e1d3b8-7e9c-48f9-bae0-082a4508e5b9%252Fgarreth-mclellan_513471_LeftFullBodyImage.png?itok=unIr1ayy",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "25",
+    "DEC": "0",
+    "SUB": "75"
+  },
+  "bio": {
+    "age": "41",
+    "height": "73.00",
+    "reach": "72.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.56",
+    "SApM": "2.94",
+    "TDAvg": "1.15",
+    "Sub.Avg": "0.86",
+    "Str.Def": "45",
+    "TDDef": "35",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:24",
+    "Str. Acc.": "54",
+    "TD Acc.": "22"
+  }
+}

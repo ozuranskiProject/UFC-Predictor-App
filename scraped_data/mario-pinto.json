@@ -1,0 +1,34 @@
+{
+  "name": "Mario Pinto",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/PINTO_MARIO_R_10-08.png?itok=xqtri0k4",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "30",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "26",
+    "height": "78.00",
+    "reach": "79.00",
+    "leg_reach": "44.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.67",
+    "SApM": "5.29",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "100",
+    "KDAvg": "4.07",
+    "Avg Fight Time": "03:41",
+    "Str. Acc.": "71",
+    "TD Acc.": "0"
+  }
+}

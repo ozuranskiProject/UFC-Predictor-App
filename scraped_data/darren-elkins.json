@@ -1,0 +1,34 @@
+{
+  "name": "Darren Elkins",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/ELKINS_DARREN_L_04-12.png?itok=KX70pI9e",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "29",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "52",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "40",
+    "height": "70.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.40",
+    "SApM": "3.34",
+    "TDAvg": "2.87",
+    "Sub.Avg": "1.07",
+    "Str.Def": "51",
+    "TDDef": "56",
+    "KDAvg": "0.09",
+    "Avg Fight Time": "11:41",
+    "Str. Acc.": "38",
+    "TD Acc.": "34"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Danny Chavez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/CHAVEZ_DANNY_L_07-31.png?itok=6kGxBuHL",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "73",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "36",
+    "height": "68.00",
+    "reach": "67.00",
+    "leg_reach": "38.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.86",
+    "SApM": "3.83",
+    "TDAvg": "1.95",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "88",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:33",
+    "Str. Acc.": "39",
+    "TD Acc.": "60"
+  }
+}

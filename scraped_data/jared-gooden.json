@@ -1,0 +1,34 @@
+{
+  "name": "Jared Gooden",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/3/GOODEN_JARED_L_05-11.png?itok=JxoQv7Cr",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "23",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "48",
+    "DEC": "22",
+    "SUB": "30"
+  },
+  "bio": {
+    "age": "31",
+    "height": "72.00",
+    "reach": "77.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.40",
+    "SApM": "6.74",
+    "TDAvg": "0.91",
+    "Sub.Avg": "0.36",
+    "Str.Def": "45",
+    "TDDef": "65",
+    "KDAvg": "0.18",
+    "Avg Fight Time": "11:46",
+    "Str. Acc.": "49",
+    "TD Acc.": "45"
+  }
+}

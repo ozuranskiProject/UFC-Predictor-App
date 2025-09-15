@@ -1,0 +1,34 @@
+{
+  "name": "Myles Jury",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68880/profile-galery/fullbodyleft-picture/Myles-Jury_269255_LeftFullBodyImage.png?itok=YIis1ouf",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "17",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "59",
+    "DEC": "24",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "34",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "42.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.94",
+    "SApM": "2.16",
+    "TDAvg": "2.16",
+    "Sub.Avg": "0.27",
+    "Str.Def": "67",
+    "TDDef": "50",
+    "KDAvg": "0.41",
+    "Avg Fight Time": "09:15",
+    "Str. Acc.": "43",
+    "TD Acc.": "55"
+  }
+}

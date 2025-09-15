@@ -1,0 +1,34 @@
+{
+  "name": "Chris Padilla",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/PADILLA_CHRIS_L_04-27.png?itok=YwtF8eEU",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "16",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "19",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "29",
+    "height": "69.00",
+    "reach": "74.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.13",
+    "SApM": "3.68",
+    "TDAvg": "1.56",
+    "Sub.Avg": "0.52",
+    "Str.Def": "58",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:36",
+    "Str. Acc.": "52",
+    "TD Acc.": "30"
+  }
+}

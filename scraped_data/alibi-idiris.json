@@ -1,0 +1,34 @@
+{
+  "name": "Alibi Idiris",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/IDIRIS_ALIBI_L_08-16.png?itok=BNsCc_Fy",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "11",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "45",
+    "DEC": "36",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "30",
+    "height": "66.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.47",
+    "SApM": "3.60",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:04",
+    "Str. Acc.": "50",
+    "TD Acc.": "0"
+  }
+}

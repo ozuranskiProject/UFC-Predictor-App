@@ -1,0 +1,34 @@
+{
+  "name": "Ashley Yoder",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/YODER_ASHLEY_L_07-31.png?itok=5FUJyF_c",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "8",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "50",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "35",
+    "height": "67.00",
+    "reach": "69.50",
+    "leg_reach": "37.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.42",
+    "SApM": "4.13",
+    "TDAvg": "1.09",
+    "Sub.Avg": "0.55",
+    "Str.Def": "47",
+    "TDDef": "67",
+    "KDAvg": "0.09",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "39",
+    "TD Acc.": "28"
+  }
+}

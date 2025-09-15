@@ -1,0 +1,34 @@
+{
+  "name": "Damir Had\u017eovi\u0107",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/HADZOVIC_DAMIR_L_05-22.png?itok=_25DcWQC",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "14",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "29",
+    "SUB": "21"
+  },
+  "bio": {
+    "age": "38",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.34",
+    "SApM": "3.74",
+    "TDAvg": "0.91",
+    "Sub.Avg": "0.15",
+    "Str.Def": "59",
+    "TDDef": "35",
+    "KDAvg": "0.30",
+    "Avg Fight Time": "09:52",
+    "Str. Acc.": "48",
+    "TD Acc.": "55"
+  }
+}

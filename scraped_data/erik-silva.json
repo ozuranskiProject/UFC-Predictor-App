@@ -1,0 +1,34 @@
+{
+  "name": "Erik Silva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/SILVA_ERIK_L_02-24.png?itok=5uH5AHE7",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "22",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "36",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.07",
+    "SApM": "1.57",
+    "TDAvg": "3.76",
+    "Sub.Avg": "0.00",
+    "Str.Def": "40",
+    "TDDef": "63",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:19",
+    "Str. Acc.": "70",
+    "TD Acc.": "80"
+  }
+}

@@ -4,7 +4,11 @@ from selenium.webdriver.support.ui import WebDriverWait          #Lets you add e
 from selenium.webdriver.support import expected_conditions as EC #ig lets you specify those waits in this case, like conditions
 from ufc_scraper import scrape_fighter
 import time
-
+import sys
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    
 options = webdriver.ChromeOptions() #creates options to let you configure browser
 options.add_argument('--headless') #do all ts behind the scenes as opposed to simulating browser on pc
 driver = webdriver.Chrome(options=options) #starts browser with options
@@ -48,7 +52,7 @@ print(f"\n Final total: {len(slugs)} fighters found.\n")
 
 # plug in every slug and scrape their infor using the function i wrote and imported
 for slug in slugs:
-    print(f" Scraping {slug}...")
+    print(f" \nScraping {slug}...")
     try:
         scrape_fighter(slug)
         time.sleep(1)

@@ -1,0 +1,34 @@
+{
+  "name": "Mounir Lazzez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-04/LAZZEZ_MOUNIR_L_04-16.png?itok=WsHhMIb_",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "27",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "35",
+    "height": "73.00",
+    "reach": "76.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "7.49",
+    "SApM": "5.42",
+    "TDAvg": "1.80",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "71",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:21",
+    "Str. Acc.": "55",
+    "TD Acc.": "57"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Steve Montgomery",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/24877c3a-feef-48d2-b7de-8344aa5fdc7c%252Fsteve-montgomery_530251_LeftFullBodyImage.png?itok=VCTx5ama",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "8",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "13",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "32",
+    "height": "76.00",
+    "reach": "75.00",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.85",
+    "SApM": "4.12",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "48",
+    "TDDef": "64",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:52",
+    "Str. Acc.": "39",
+    "TD Acc.": "N/A"
+  }
+}

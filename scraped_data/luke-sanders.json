@@ -1,0 +1,34 @@
+{
+  "name": "Luke Sanders",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-04/68632%252Fprofile-galery%252Ffullbodyleft-picture%252FSANDERS_LUKE_L_05-01.png?itok=QQ9I8SFR",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "13",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "62",
+    "DEC": "31",
+    "SUB": "8"
+  },
+  "bio": {
+    "age": "37",
+    "height": "66.00",
+    "reach": "67.00",
+    "leg_reach": "36.50",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "6.61",
+    "SApM": "4.37",
+    "TDAvg": "0.71",
+    "Sub.Avg": "0.24",
+    "Str.Def": "51",
+    "TDDef": "73",
+    "KDAvg": "0.95",
+    "Avg Fight Time": "07:21",
+    "Str. Acc.": "53",
+    "TD Acc.": "30"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Jamelle Jones",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/0a299df2-d98f-4b37-a826-d9df74f95705%252FJamelle-Jones_635828_LeftFullBodyImage.png?itok=8Le4Pnnd",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "14",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "35",
+    "height": "72.00",
+    "reach": "75.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.78",
+    "SApM": "3.11",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "65",
+    "TDDef": "0.00",
+    "KDAvg": "02:15",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "80",
+    "TD Acc.": "0"
+  }
+}

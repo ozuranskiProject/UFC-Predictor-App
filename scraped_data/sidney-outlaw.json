@@ -1,0 +1,34 @@
+{
+  "name": "Sidney Outlaw",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/4ea5d8ac-506c-451f-b983-46b8d186a171%252FSidney-Outlaw_631544_LeftFullBodyImage.png?itok=0orNGwMG",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "9",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "13",
+    "DEC": "50",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "31",
+    "height": "68.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.13",
+    "SApM": "0.80",
+    "TDAvg": "3.00",
+    "Sub.Avg": "3.00",
+    "Str.Def": "71",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "33",
+    "TD Acc.": "75"
+  }
+}

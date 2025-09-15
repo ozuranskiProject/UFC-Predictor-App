@@ -1,0 +1,34 @@
+{
+  "name": "Jamal Pogues",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/POGUES_JAMAL_L_02-18.png?itok=04qbW7_I",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "55",
+    "SUB": "9"
+  },
+  "bio": {
+    "age": "29",
+    "height": "75.00",
+    "reach": "77.00",
+    "leg_reach": "43.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "3.57",
+    "SApM": "3.97",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "70",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "47",
+    "TD Acc.": "46"
+  }
+}

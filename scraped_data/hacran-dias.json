@@ -1,0 +1,34 @@
+{
+  "name": "Hacran Dias",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/e238df05-0501-48b3-813c-3538169ba222%252FHacran-Dias_267088_LeftFullBodyImage.png?itok=Nk5wV2aG",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "23",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "48",
+    "SUB": "35"
+  },
+  "bio": {
+    "age": "39",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.08",
+    "SApM": "3.31",
+    "TDAvg": "2.50",
+    "Sub.Avg": "0.50",
+    "Str.Def": "55",
+    "TDDef": "77",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "42",
+    "TD Acc.": "39"
+  }
+}

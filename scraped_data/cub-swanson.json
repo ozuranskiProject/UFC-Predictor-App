@@ -1,0 +1,34 @@
+{
+  "name": "Cub Swanson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/SWANSON_CUB_L_12-14.png?itok=DTP44s97",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "30",
+    "losses": "14",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "47",
+    "DEC": "40",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "41",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "4.79",
+    "SApM": "4.00",
+    "TDAvg": "1.01",
+    "Sub.Avg": "0.39",
+    "Str.Def": "59",
+    "TDDef": "64",
+    "KDAvg": "0.39",
+    "Avg Fight Time": "11:41",
+    "Str. Acc.": "51",
+    "TD Acc.": "50"
+  }
+}

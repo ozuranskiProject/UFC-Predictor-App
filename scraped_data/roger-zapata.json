@@ -1,0 +1,34 @@
+{
+  "name": "Roger Zapata",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/d9e980fe-60bb-4090-8a43-74ab7dd28f5c%252Froger-zapata_480365_LeftFullBodyImage.png?itok=tFzbh4xp",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "4",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "25",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "37",
+    "height": "71.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.60",
+    "SApM": "2.13",
+    "TDAvg": "0.00",
+    "Sub.Avg": "1.39",
+    "Str.Def": "36",
+    "TDDef": "82",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:47",
+    "Str. Acc.": "52",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Kevin Jousset",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/JOUSSET_KEVIN_L_09-28.png?itok=Baxmti6i",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "50",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "31",
+    "height": "74.00",
+    "reach": "75.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Judo"
+  },
+  "fight_stats": {
+    "SLpM": "1.00",
+    "SApM": "1.20",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "63",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "48",
+    "TD Acc.": "67"
+  }
+}

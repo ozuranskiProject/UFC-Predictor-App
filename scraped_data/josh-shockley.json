@@ -1,0 +1,34 @@
+{
+  "name": "Josh Shockley",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/5f13ea5a-96be-4fc9-91e4-347721599b46%252FJosh-Shockley_485280_LeftFullBodyImage.png?itok=SrSe7HTy",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "11",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "27",
+    "SUB": "45"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.40",
+    "SApM": "1.75",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.75",
+    "Str.Def": "60",
+    "TDDef": "62",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:59",
+    "Str. Acc.": "33",
+    "TD Acc.": "0"
+  }
+}

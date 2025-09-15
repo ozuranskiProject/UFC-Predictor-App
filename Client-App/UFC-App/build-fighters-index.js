@@ -4,7 +4,7 @@ const path = require('path'); //path lets you find and use file paths
 
 console.log('build-fighters-index.js: starting…'); // I need to do this stuff more often, it really helped here when trying to debug
 
-const SRC_DIR = "../../Scraper/scraped_data"; // hard coded path to scraped_data folder
+const SRC_DIR = path.resolve(__dirname, '..', '..', 'scraped_data'); // hard coded path to scraped_data folder
 //could not get it to work without hardcoding, hopefully this isn't "improper" or comes to bite me in the arse later
 //SRC DIR => "folder directory"
 

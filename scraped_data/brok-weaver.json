@@ -1,0 +1,34 @@
+{
+  "name": "Brok Weaver",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-09/WEAVER_BROK_L_02-15.png?VersionId=14SLgZon51.R1nu.jhcACuXL41TUCpR9&itok=7A7aJ6HP",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "15",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "14",
+    "DEC": "64",
+    "SUB": "21"
+  },
+  "bio": {
+    "age": "31",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.78",
+    "SApM": "4.35",
+    "TDAvg": "0.41",
+    "Sub.Avg": "0.41",
+    "Str.Def": "46",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:12",
+    "Str. Acc.": "65",
+    "TD Acc.": "10"
+  }
+}

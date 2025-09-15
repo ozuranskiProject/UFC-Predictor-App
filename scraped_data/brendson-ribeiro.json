@@ -1,0 +1,34 @@
+{
+  "name": "Brendson Ribeiro",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/RIBEIRO_BRENDSON_L_02-17.png?itok=7u-Trfyu",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "17",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "53",
+    "DEC": "6",
+    "SUB": "41"
+  },
+  "bio": {
+    "age": "29",
+    "height": "75.00",
+    "reach": "81.00",
+    "leg_reach": "40.50",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.06",
+    "SApM": "4.00",
+    "TDAvg": "0.90",
+    "Sub.Avg": "0.60",
+    "Str.Def": "53",
+    "TDDef": "18",
+    "KDAvg": "0.60",
+    "Avg Fight Time": "07:09",
+    "Str. Acc.": "43",
+    "TD Acc.": "43"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Teddy Ash",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/faa35dea-247f-47f0-b666-ee9737f770bc%252FASH_TEDDY_R.png?itok=lH8l6QV1",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "0",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "N/A",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "7.27",
+    "SApM": "6.80",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "28",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "62",
+    "TD Acc.": "N/A"
+  }
+}

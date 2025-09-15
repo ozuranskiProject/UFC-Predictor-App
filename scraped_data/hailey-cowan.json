@@ -1,0 +1,34 @@
+{
+  "name": "Hailey Cowan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/COWAN_HAILEY_L_02_25.png?itok=maVoslI2",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "43",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "33",
+    "height": "68.00",
+    "reach": "67.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.50",
+    "SApM": "2.79",
+    "TDAvg": "1.63",
+    "Sub.Avg": "0.00",
+    "Str.Def": "34",
+    "TDDef": "80",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:17",
+    "Str. Acc.": "42",
+    "TD Acc.": "36"
+  }
+}

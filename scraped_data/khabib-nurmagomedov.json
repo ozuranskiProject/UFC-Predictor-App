@@ -1,0 +1,34 @@
+{
+  "name": "Khabib Nurmagomedov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Khabib_Nurmagomedov/1NURMAGOMEDOV_KHABIB_L.png?itok=jRlelmad",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "29",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "28",
+    "DEC": "34",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "34",
+    "height": "70.00",
+    "reach": "70.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.10",
+    "SApM": "1.75",
+    "TDAvg": "5.32",
+    "Sub.Avg": "0.79",
+    "Str.Def": "65",
+    "TDDef": "85",
+    "KDAvg": "0.17",
+    "Avg Fight Time": "13:13",
+    "Str. Acc.": "49",
+    "TD Acc.": "48"
+  }
+}

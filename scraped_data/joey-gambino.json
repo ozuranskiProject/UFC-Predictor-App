@@ -1,0 +1,34 @@
+{
+  "name": "Joey Gambino",
+  "profile_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "9",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "34",
+    "height": "67.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.47",
+    "SApM": "2.53",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.84",
+    "Str.Def": "52",
+    "TDDef": "43",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:54",
+    "Str. Acc.": "35",
+    "TD Acc.": "0"
+  }
+}

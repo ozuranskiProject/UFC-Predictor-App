@@ -1,0 +1,34 @@
+{
+  "name": "Mike Jackson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-04/1979cc08-3faf-4d7f-aeae-ea3b0f753d94%252FJACKSON_MIKE_L_04-23.png?itok=x1hd4kLx",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "1",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "100",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "38",
+    "height": "74.00",
+    "reach": "74.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.49",
+    "SApM": "3.73",
+    "TDAvg": "0.71",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "89",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:18",
+    "Str. Acc.": "57",
+    "TD Acc.": "33"
+  }
+}

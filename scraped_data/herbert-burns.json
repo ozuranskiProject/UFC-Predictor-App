@@ -1,0 +1,34 @@
+{
+  "name": "Herbert Burns",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/BURNS_HERBERT_L_3-30.png?itok=dfho9ABH",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "9",
+    "DEC": "18",
+    "SUB": "73"
+  },
+  "bio": {
+    "age": "37",
+    "height": "69.00",
+    "reach": "73.50",
+    "leg_reach": "40.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "1.86",
+    "SApM": "5.17",
+    "TDAvg": "2.94",
+    "Sub.Avg": "1.84",
+    "Str.Def": "42",
+    "TDDef": "67",
+    "KDAvg": "0.37",
+    "Avg Fight Time": "05:50",
+    "Str. Acc.": "37",
+    "TD Acc.": "35"
+  }
+}

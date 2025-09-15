@@ -1,0 +1,34 @@
+{
+  "name": "Tim Elliott",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/ELLIOTT_TIM_L_08-16.png?itok=PB7zacoo",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "22",
+    "losses": "13",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "14",
+    "DEC": "50",
+    "SUB": "36"
+  },
+  "bio": {
+    "age": "38",
+    "height": "67.00",
+    "reach": "66.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.37",
+    "SApM": "2.65",
+    "TDAvg": "3.71",
+    "Sub.Avg": "1.12",
+    "Str.Def": "58",
+    "TDDef": "59",
+    "KDAvg": "0.12",
+    "Avg Fight Time": "12:08",
+    "Str. Acc.": "45",
+    "TD Acc.": "48"
+  }
+}

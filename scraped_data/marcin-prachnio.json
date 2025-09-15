@@ -1,0 +1,34 @@
+{
+  "name": "Marcin Prachnio",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/PRACHNIO_MARCIN_L_07-27.png?itok=4Eo4b-d5",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "17",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "65",
+    "DEC": "29",
+    "SUB": "6"
+  },
+  "bio": {
+    "age": "37",
+    "height": "75.00",
+    "reach": "74.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Karate"
+  },
+  "fight_stats": {
+    "SLpM": "5.52",
+    "SApM": "3.15",
+    "TDAvg": "0.14",
+    "Sub.Avg": "0.00",
+    "Str.Def": "55",
+    "TDDef": "53",
+    "KDAvg": "0.14",
+    "Avg Fight Time": "09:46",
+    "Str. Acc.": "55",
+    "TD Acc.": "20"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Suman Mokhtarian",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-11/MOKHTARIAN_SUMAN_L.png?VersionId=SfIe53BgR5hNF_9q2dve7r2EpHtMuwhO&itok=T5jafq0A",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "13",
+    "DEC": "13",
+    "SUB": "75"
+  },
+  "bio": {
+    "age": "31",
+    "height": "68.00",
+    "reach": "72.00",
+    "leg_reach": "39.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.21",
+    "SApM": "6.85",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "0.00",
+    "KDAvg": "08:37",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "43",
+    "TD Acc.": "0"
+  }
+}

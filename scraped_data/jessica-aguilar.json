@@ -1,0 +1,34 @@
+{
+  "name": "Jessica Aguilar",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Jessica_Aguilar/AGUILAR_JESSICA_L.png?VersionId=u4Bhw7DC8WEfwM7pt2FUHKOw2N_JjbnF&itok=5Irqqh6E",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "20",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "50",
+    "SUB": "35"
+  },
+  "bio": {
+    "age": "41",
+    "height": "63.00",
+    "reach": "63.00",
+    "leg_reach": "35.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.93",
+    "SApM": "7.19",
+    "TDAvg": "0.94",
+    "Sub.Avg": "0.24",
+    "Str.Def": "54",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:44",
+    "Str. Acc.": "51",
+    "TD Acc.": "25"
+  }
+}

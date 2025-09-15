@@ -1,0 +1,34 @@
+{
+  "name": "Terrance McKinney",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/MCKINNEY_TERRANCE_L_06-28.png?itok=1_jcvXb2",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "17",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "47",
+    "DEC": "0",
+    "SUB": "53"
+  },
+  "bio": {
+    "age": "30",
+    "height": "70.00",
+    "reach": "73.50",
+    "leg_reach": "40.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "5.78",
+    "SApM": "2.58",
+    "TDAvg": "3.59",
+    "Sub.Avg": "2.25",
+    "Str.Def": "47",
+    "TDDef": "78",
+    "KDAvg": "1.35",
+    "Avg Fight Time": "02:47",
+    "Str. Acc.": "56",
+    "TD Acc.": "40"
+  }
+}

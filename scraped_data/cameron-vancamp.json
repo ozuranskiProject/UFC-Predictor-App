@@ -1,0 +1,34 @@
+{
+  "name": "Cameron VanCamp",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-11/84794%252Fprofile-galery%252Ffullbodyleft-picture%252FVANCAMP_CAMERON_L_09-18.png?itok=lpmC5IN_",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "15",
+    "losses": "7",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "13",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "30",
+    "height": "74.00",
+    "reach": "74.00",
+    "leg_reach": "41.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.31",
+    "SApM": "6.41",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "41",
+    "TDDef": "0.00",
+    "KDAvg": "03:12",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "48",
+    "TD Acc.": "N/A"
+  }
+}

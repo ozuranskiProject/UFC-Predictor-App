@@ -1,0 +1,34 @@
+{
+  "name": "Leonardo Santos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/893d4843-0353-42db-a9d2-3207f90303fe%252FSANTOS_LEONARDO_L_12-04.png?itok=CzZDm6Rq",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "18",
+    "losses": "7",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "39",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "43",
+    "height": "72.00",
+    "reach": "75.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "2.82",
+    "SApM": "3.40",
+    "TDAvg": "0.88",
+    "Sub.Avg": "0.25",
+    "Str.Def": "54",
+    "TDDef": "87",
+    "KDAvg": "0.38",
+    "Avg Fight Time": "10:50",
+    "Str. Acc.": "47",
+    "TD Acc.": "26"
+  }
+}

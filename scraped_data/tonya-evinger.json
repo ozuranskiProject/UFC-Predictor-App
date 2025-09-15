@@ -1,0 +1,34 @@
+{
+  "name": "Tonya Evinger",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-05/EVINGER_TONYA_L.png?VersionId=_mHZuvtmS8wuGJVdpA4p7SOwNjMay9ZM&itok=G2W1qhGJ",
+  "weight_class": "Women's Featherweight",
+  "record": {
+    "wins": "19",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "42",
+    "DEC": "21",
+    "SUB": "37"
+  },
+  "bio": {
+    "age": "42",
+    "height": "67.50",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.16",
+    "SApM": "4.02",
+    "TDAvg": "0.93",
+    "Sub.Avg": "0.93",
+    "Str.Def": "39",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:39",
+    "Str. Acc.": "43",
+    "TD Acc.": "30"
+  }
+}

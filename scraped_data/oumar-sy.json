@@ -1,0 +1,34 @@
+{
+  "name": "Oumar Sy",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/SY_OUMAR_L_09-06.png?itok=kKBqswJJ",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "12",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "42",
+    "DEC": "25",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "29",
+    "height": "76.00",
+    "reach": "83.00",
+    "leg_reach": "44.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.67",
+    "SApM": "1.72",
+    "TDAvg": "2.73",
+    "Sub.Avg": "0.39",
+    "Str.Def": "70",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:36",
+    "Str. Acc.": "48",
+    "TD Acc.": "37"
+  }
+}

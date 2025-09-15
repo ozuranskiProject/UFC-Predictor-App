@@ -1,0 +1,34 @@
+{
+  "name": "Sage Northcutt",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69188/profile-galery/fullbodyleft-picture/sage-northcutt_545279_LeftFullBodyImage.png?itok=1EEAOnpK",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "30",
+    "SUB": "30"
+  },
+  "bio": {
+    "age": "27",
+    "height": "72.00",
+    "reach": "71.50",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.58",
+    "SApM": "1.96",
+    "TDAvg": "1.81",
+    "Sub.Avg": "0.60",
+    "Str.Def": "59",
+    "TDDef": "42",
+    "KDAvg": "0.40",
+    "Avg Fight Time": "09:20",
+    "Str. Acc.": "52",
+    "TD Acc.": "35"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Noad Lahat",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/38a84313-31db-4e12-ba02-492efb729216%252FNoad-Lahat_471158_LeftFullBodyImage.png?itok=PXDaP26s",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "9",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "33",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "39",
+    "height": "69.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.79",
+    "SApM": "1.47",
+    "TDAvg": "2.37",
+    "Sub.Avg": "2.37",
+    "Str.Def": "64",
+    "TDDef": "17",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:31",
+    "Str. Acc.": "47",
+    "TD Acc.": "26"
+  }
+}

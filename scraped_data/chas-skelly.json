@@ -1,0 +1,34 @@
+{
+  "name": "Chas Skelly",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-02/35ef0e31-1029-41d1-9909-483d224cb614%252FSKELLY_CHAS_L_02-19.png?itok=KXaJH_KP",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "19",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "21",
+    "DEC": "26",
+    "SUB": "53"
+  },
+  "bio": {
+    "age": "38",
+    "height": "71.00",
+    "reach": "72.50",
+    "leg_reach": "42.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.01",
+    "SApM": "3.21",
+    "TDAvg": "1.74",
+    "Sub.Avg": "2.27",
+    "Str.Def": "49",
+    "TDDef": "39",
+    "KDAvg": "0.27",
+    "Avg Fight Time": "09:21",
+    "Str. Acc.": "41",
+    "TD Acc.": "34"
+  }
+}

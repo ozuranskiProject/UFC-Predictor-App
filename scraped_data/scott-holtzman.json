@@ -1,0 +1,34 @@
+{
+  "name": "Scott Holtzman",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-01/HOLTZMAN_SCOTT_L_12-03.png?itok=io8Jdn9J",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "14",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "50",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "39",
+    "height": "69.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.32",
+    "SApM": "3.66",
+    "TDAvg": "1.88",
+    "Sub.Avg": "0.18",
+    "Str.Def": "55",
+    "TDDef": "67",
+    "KDAvg": "0.36",
+    "Avg Fight Time": "12:52",
+    "Str. Acc.": "48",
+    "TD Acc.": "57"
+  }
+}

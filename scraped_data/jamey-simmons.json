@@ -1,0 +1,34 @@
+{
+  "name": "Jamey Simmons",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/71732%252Fprofile-galery%252Ffullbodyleft-picture%252FSIMMONS_JAMEY_L_08-07.png?itok=A3M945z1",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "57",
+    "DEC": "29",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "30",
+    "height": "66.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "0.79",
+    "SApM": "1.92",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "75",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:43",
+    "Str. Acc.": "22",
+    "TD Acc.": "0"
+  }
+}

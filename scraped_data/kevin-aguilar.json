@@ -1,0 +1,34 @@
+{
+  "name": "Kevin Aguilar",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-05/71419%252Fprofile-galery%252Ffullbodyleft-picture%252FAGUILAR_KEVIN_L_05-15.png?itok=-PuOy7X1",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "17",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "53",
+    "DEC": "35",
+    "SUB": "12"
+  },
+  "bio": {
+    "age": "34",
+    "height": "67.00",
+    "reach": "72.00",
+    "leg_reach": "38.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.96",
+    "SApM": "4.81",
+    "TDAvg": "0.16",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "79",
+    "KDAvg": "0.32",
+    "Avg Fight Time": "13:20",
+    "Str. Acc.": "40",
+    "TD Acc.": "17"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Chris Leben",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Chris_Leben/fighter_FULL_LEBEN.png?VersionId=Dh7hSUt5LOFYI6hv7CukEpVlpyegIGjf&itok=n3c4A-Zc",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "22",
+    "losses": "11",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "42",
+    "height": "71.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.87",
+    "SApM": "2.87",
+    "TDAvg": "1.14",
+    "Sub.Avg": "0.81",
+    "Str.Def": "52",
+    "TDDef": "54",
+    "KDAvg": "0.47",
+    "Avg Fight Time": "08:55",
+    "Str. Acc.": "43",
+    "TD Acc.": "41"
+  }
+}

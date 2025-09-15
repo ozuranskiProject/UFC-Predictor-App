@@ -1,0 +1,34 @@
+{
+  "name": "Sean Spencer",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/21c087d3-3edd-4e88-af76-c7b14332eef7%252FSean-Spencer_299613_LeftFullBodyImage.png?itok=VkVBOcHt",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "12",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "60",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "75.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.24",
+    "SApM": "4.02",
+    "TDAvg": "0.14",
+    "Sub.Avg": "0.00",
+    "Str.Def": "61",
+    "TDDef": "69",
+    "KDAvg": "0.42",
+    "Avg Fight Time": "13:26",
+    "Str. Acc.": "32",
+    "TD Acc.": "33"
+  }
+}

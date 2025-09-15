@@ -1,0 +1,34 @@
+{
+  "name": "Shane Young",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/YOUNG_SHANE_L_02-11.png?itok=HFk0sf2i",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "13",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "46",
+    "DEC": "23",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "30",
+    "height": "68.00",
+    "reach": "72.50",
+    "leg_reach": "39.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "5.19",
+    "SApM": "5.46",
+    "TDAvg": "0.63",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "64",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "10:16",
+    "Str. Acc.": "41",
+    "TD Acc.": "19"
+  }
+}

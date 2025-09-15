@@ -1,0 +1,34 @@
+{
+  "name": "Antonina Shevchenko",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-07/de82344b-e070-47cd-8fbb-23a9d9477336%252FSHEVCHENKO_ANTONINA_L_07-09.png?itok=RH0ZsGUq",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "10",
+    "DEC": "86",
+    "SUB": "3"
+  },
+  "bio": {
+    "age": "40",
+    "height": "68.00",
+    "reach": "67.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "3.86",
+    "SApM": "2.93",
+    "TDAvg": "0.43",
+    "Sub.Avg": "0.43",
+    "Str.Def": "53",
+    "TDDef": "54",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:33",
+    "Str. Acc.": "55",
+    "TD Acc.": "43"
+  }
+}

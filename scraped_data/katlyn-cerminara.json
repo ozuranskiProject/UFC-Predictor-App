@@ -1,0 +1,34 @@
+{
+  "name": "Katlyn Cerminara",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/CERMINARA_KATLYN_L_03-09.png?itok=YXeAefdd",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "18",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "83",
+    "SUB": "6"
+  },
+  "bio": {
+    "age": "36",
+    "height": "69.00",
+    "reach": "68.00",
+    "leg_reach": "42.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.58",
+    "SApM": "4.48",
+    "TDAvg": "0.31",
+    "Sub.Avg": "0.31",
+    "Str.Def": "62",
+    "TDDef": "50",
+    "KDAvg": "0.06",
+    "Avg Fight Time": "14:10",
+    "Str. Acc.": "35",
+    "TD Acc.": "16"
+  }
+}

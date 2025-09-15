@@ -1,0 +1,34 @@
+{
+  "name": "Manny Vazquez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/787b7f3c-b592-466c-8379-501ca09570c2%252FManny-Vazquez_631435_LeftFullBodyImage.png?itok=2BMKz5Qi",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "9",
+    "DEC": "36",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "29",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.47",
+    "SApM": "2.67",
+    "TDAvg": "1.00",
+    "Sub.Avg": "1.00",
+    "Str.Def": "49",
+    "TDDef": "1.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "42",
+    "TD Acc.": "33"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Chris Dempsey",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/8ee69b3d-627a-418c-bfcc-41997c8726dd%252FChris-Dempsey_492799_LeftFullBodyImage.png?itok=u6d6hzPy",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "11",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "55",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.25",
+    "SApM": "2.82",
+    "TDAvg": "2.64",
+    "Sub.Avg": "0.00",
+    "Str.Def": "66",
+    "TDDef": "17",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:41",
+    "Str. Acc.": "32",
+    "TD Acc.": "24"
+  }
+}

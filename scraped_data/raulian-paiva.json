@@ -1,0 +1,34 @@
+{
+  "name": "Raulian Paiva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/2d7d4623-b6d2-4b52-a616-6fedb4814a30%252FPAIVA_RAULIAN_L_06-25.png?itok=e-ISSykt",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "21",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "19",
+    "DEC": "67",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "27",
+    "height": "68.00",
+    "reach": "69.50",
+    "leg_reach": "38.00",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "4.14",
+    "SApM": "5.01",
+    "TDAvg": "0.65",
+    "Sub.Avg": "0.16",
+    "Str.Def": "49",
+    "TDDef": "77",
+    "KDAvg": "0.16",
+    "Avg Fight Time": "11:33",
+    "Str. Acc.": "43",
+    "TD Acc.": "24"
+  }
+}

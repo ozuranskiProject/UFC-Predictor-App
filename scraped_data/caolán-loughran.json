@@ -1,0 +1,34 @@
+{
+  "name": "Caol\u00e1n Loughran",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/LOUGHRAN_CAOLAN_R_03-30.png?itok=TonUbP6z",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "30",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "28",
+    "height": "66.00",
+    "reach": "68.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Boxer"
+  },
+  "fight_stats": {
+    "SLpM": "2.87",
+    "SApM": "5.80",
+    "TDAvg": "5.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "55",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "45",
+    "TD Acc.": "42"
+  }
+}

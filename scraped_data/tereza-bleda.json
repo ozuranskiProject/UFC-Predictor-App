@@ -1,0 +1,34 @@
+{
+  "name": "Tereza Bleda",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/BLEDA_TEREZA_L_06-17.png?itok=N-6f8gny",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "7",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "43",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "21",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "3.02",
+    "SApM": "1.86",
+    "TDAvg": "1.81",
+    "Sub.Avg": "0.72",
+    "Str.Def": "47",
+    "TDDef": "83",
+    "KDAvg": "0.36",
+    "Avg Fight Time": "13:49",
+    "Str. Acc.": "53",
+    "TD Acc.": "28"
+  }
+}

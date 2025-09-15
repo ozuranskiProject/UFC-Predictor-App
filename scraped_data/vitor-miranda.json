@@ -1,0 +1,34 @@
+{
+  "name": "Vitor Miranda",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/b69c74d8-0162-4d85-a3af-8fbafece2626%252Fvitor-miranda_477639_LeftFullBodyImage.png?itok=7RZmLuqY",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "13",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "77",
+    "DEC": "8",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "44",
+    "height": "73.00",
+    "reach": "77.00",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.98",
+    "SApM": "2.95",
+    "TDAvg": "0.95",
+    "Sub.Avg": "0.19",
+    "Str.Def": "59",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:15",
+    "Str. Acc.": "46",
+    "TD Acc.": "56"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Estevan Payan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c99d7871-6e80-4117-acba-fe5be92ac07a%252FEstevan-Payan_242539_LeftFullBodyImage.png?itok=92jlrgqb",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "14",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "43",
+    "SUB": "21"
+  },
+  "bio": {
+    "age": "41",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.25",
+    "SApM": "3.58",
+    "TDAvg": "0.36",
+    "Sub.Avg": "0.36",
+    "Str.Def": "58",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:08",
+    "Str. Acc.": "43",
+    "TD Acc.": "100"
+  }
+}

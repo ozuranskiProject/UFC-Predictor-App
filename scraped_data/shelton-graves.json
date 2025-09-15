@@ -1,0 +1,34 @@
+{
+  "name": "Shelton Graves",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/1df892d6-2e64-44f9-a8a9-a1b43efd8baf%252FShelton-Graves_635819_LeftFullBodyImage.png?itok=tImcX5DE",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "33",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "37",
+    "height": "74.00",
+    "reach": "76.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.19",
+    "SApM": "0.81",
+    "TDAvg": "4.86",
+    "Sub.Avg": "0.00",
+    "Str.Def": "33",
+    "TDDef": "0.00",
+    "KDAvg": "12:20",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "69",
+    "TD Acc.": "57"
+  }
+}

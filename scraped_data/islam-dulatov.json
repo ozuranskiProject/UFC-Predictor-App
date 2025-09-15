@@ -1,0 +1,34 @@
+{
+  "name": "Islam Dulatov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/DULATOV_ISLAM_R_07-19.png?itok=nGCfm0F_",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "12",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "0",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "27",
+    "height": "75.00",
+    "reach": "75.00",
+    "leg_reach": "43.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "8.78",
+    "SApM": "4.24",
+    "TDAvg": "2.20",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "100",
+    "KDAvg": "4.39",
+    "Avg Fight Time": "03:25",
+    "Str. Acc.": "55",
+    "TD Acc.": "100"
+  }
+}

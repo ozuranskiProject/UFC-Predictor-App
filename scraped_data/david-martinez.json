@@ -1,0 +1,34 @@
+{
+  "name": "David Martinez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/MARTINEZ_DAVID_L_03-29.png?itok=TcO-sJlb",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "13",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "77",
+    "DEC": "23",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "27",
+    "height": "65.00",
+    "reach": "67.50",
+    "leg_reach": "37.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.40",
+    "SApM": "2.70",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "67",
+    "TDDef": "100",
+    "KDAvg": "0.76",
+    "Avg Fight Time": "09:49",
+    "Str. Acc.": "52",
+    "TD Acc.": "0"
+  }
+}

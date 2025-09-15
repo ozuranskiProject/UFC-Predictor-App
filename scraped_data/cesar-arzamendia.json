@@ -1,0 +1,34 @@
+{
+  "name": "Cesar Arzamendia",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/7f43157f-e765-4718-a728-dca6b3de67ea%252FCesar-Arzamendia_570127_LeftFullBodyImage.png?itok=8PDI5z9n",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "7",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "0",
+    "SUB": "80"
+  },
+  "bio": {
+    "age": "32",
+    "height": "71.00",
+    "reach": "71.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.37",
+    "SApM": "5.20",
+    "TDAvg": "7.32",
+    "Sub.Avg": "2.44",
+    "Str.Def": "56",
+    "TDDef": "0.00",
+    "KDAvg": "03:05",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "45",
+    "TD Acc.": "75"
+  }
+}

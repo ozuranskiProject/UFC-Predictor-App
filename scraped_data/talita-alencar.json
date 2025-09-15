@@ -1,0 +1,34 @@
+{
+  "name": "Talita Alencar",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-04/ALENCAR_TALITA_L_12-09.png?itok=00N-gdkb",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "6",
+    "losses": "1",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "50",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "34",
+    "height": "61.00",
+    "reach": "58.50",
+    "leg_reach": "35.00",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "2.62",
+    "SApM": "3.77",
+    "TDAvg": "2.50",
+    "Sub.Avg": "0.25",
+    "Str.Def": "54",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "33",
+    "TD Acc.": "21"
+  }
+}

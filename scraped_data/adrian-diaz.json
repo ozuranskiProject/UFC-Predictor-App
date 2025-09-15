@@ -1,0 +1,34 @@
+{
+  "name": "Adrian Diaz",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/Adrian-Diaz_635984_LeftFullBodyImage.png?itok=LcdxgkCx",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "18",
+    "SUB": "45"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.48",
+    "SApM": "3.84",
+    "TDAvg": "2.40",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "0.00",
+    "KDAvg": "06:15",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "43",
+    "TD Acc.": "50"
+  }
+}

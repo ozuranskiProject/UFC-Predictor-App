@@ -1,0 +1,34 @@
+{
+  "name": "Barb Honchak",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/0d59b1fd-6a52-48d5-bf1a-92b2617e942c%252FBarb-Honchak_644630_LeftFullBodyImage.png?itok=M8DRnl45",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "10",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "10",
+    "DEC": "70",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "43",
+    "height": "64.00",
+    "reach": "65.50",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.04",
+    "SApM": "4.67",
+    "TDAvg": "0.00",
+    "Sub.Avg": "1.27",
+    "Str.Def": "66",
+    "TDDef": "0.00",
+    "KDAvg": "11:46",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "30",
+    "TD Acc.": "0"
+  }
+}

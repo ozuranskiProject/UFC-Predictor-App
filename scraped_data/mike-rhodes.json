@@ -1,0 +1,34 @@
+{
+  "name": "Mike Rhodes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/12be8005-91df-44d8-9660-913a3351cf6c%252FMike-Rhodes_469347_LeftFullBodyImage.png?itok=9y9heSWB",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "6",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "33",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.20",
+    "SApM": "4.13",
+    "TDAvg": "0.96",
+    "Sub.Avg": "0.48",
+    "Str.Def": "64",
+    "TDDef": "75",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:25",
+    "Str. Acc.": "39",
+    "TD Acc.": "33"
+  }
+}

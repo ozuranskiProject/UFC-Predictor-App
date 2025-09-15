@@ -1,0 +1,34 @@
+{
+  "name": "Luigi Vendramini",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/VENDRAMINI_LUIGI_L_06-12.png?itok=vNEj_HdL",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "56",
+    "DEC": "0",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "27",
+    "height": "68.00",
+    "reach": "73.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.82",
+    "SApM": "3.82",
+    "TDAvg": "1.11",
+    "Sub.Avg": "0.56",
+    "Str.Def": "58",
+    "TDDef": "100",
+    "KDAvg": "0.56",
+    "Avg Fight Time": "06:44",
+    "Str. Acc.": "41",
+    "TD Acc.": "15"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Jocelyn Jones-Lybarger",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c952d7c2-7fcb-4ae3-ac8c-a818a75a917a%252Fjocelyn-jones-lybarger_572116_LeftFullBodyImage.png?itok=9wFplVwF",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "6",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "83",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "37",
+    "height": "67.00",
+    "reach": "64.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.96",
+    "SApM": "4.83",
+    "TDAvg": "0.34",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "82",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "14:33",
+    "Str. Acc.": "31",
+    "TD Acc.": "25"
+  }
+}

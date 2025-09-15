@@ -1,0 +1,34 @@
+{
+  "name": "Jake Hadley",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/9/HADLEY_JAKE_L_10-19.png?itok=presTaV4",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "11",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "36",
+    "SUB": "45"
+  },
+  "bio": {
+    "age": "28",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.80",
+    "SApM": "4.16",
+    "TDAvg": "0.33",
+    "Sub.Avg": "1.14",
+    "Str.Def": "61",
+    "TDDef": "55",
+    "KDAvg": "0.16",
+    "Avg Fight Time": "11:29",
+    "Str. Acc.": "43",
+    "TD Acc.": "11"
+  }
+}
