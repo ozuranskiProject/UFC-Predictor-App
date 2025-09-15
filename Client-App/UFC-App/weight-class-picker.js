@@ -19,6 +19,7 @@ export default function WeightClassSelector({ selectedLabel, onSelect }) {
   //MOVED TO PARENT -> const [selected, setSelected] = useState('WSW'); // Preselected first item now so that search without selection is impossible
 
   const selectedCode = weightClasses.find(o => o.label === selectedLabel)?.code;
+
   //.find is super useful for finding elements in an array without manual iteration
   //o is the variable for object. basically just saying to match the label of the object with the matching selected label to get the oobject we want
   // and then once the object is found ?.code takes the matching code value
@@ -33,6 +34,7 @@ export default function WeightClassSelector({ selectedLabel, onSelect }) {
         contentContainerStyle={styles.scrollContainer}
         renderItem={({ item }) => (
           <Pressable
+
             testID={`weight-${item.code}`}
             onPress={() => onSelect(item.label)}
             style={[
