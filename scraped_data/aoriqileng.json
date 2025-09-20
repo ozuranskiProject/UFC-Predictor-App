@@ -1,0 +1,34 @@
+{
+  "name": "Aoriqileng",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/AORIQILENG_L_10-07.png?itok=X6t4H8k0",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "25",
+    "losses": "11",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "64",
+    "SUB": "4"
+  },
+  "bio": {
+    "age": "31",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.65",
+    "SApM": "5.46",
+    "TDAvg": "1.20",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "58",
+    "KDAvg": "0.34",
+    "Avg Fight Time": "10:55",
+    "Str. Acc.": "50",
+    "TD Acc.": "47"
+  }
+}

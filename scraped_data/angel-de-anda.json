@@ -1,0 +1,34 @@
+{
+  "name": "Angel De Anda",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/Angel-De-Anda_632734_RightFullBodyImage.png?itok=wi-4brLF",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "18",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "78",
+    "DEC": "22",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "38",
+    "height": "69.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.68",
+    "SApM": "6.32",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "4.74",
+    "KDAvg": "03:10",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "46",
+    "TD Acc.": "N/A"
+  }
+}

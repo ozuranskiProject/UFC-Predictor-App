@@ -1,0 +1,34 @@
+{
+  "name": "Adam Wieczorek",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67147/profile-galery/fullbodyleft-picture/Adam-Wieczorek_629280_LeftFullBodyImage.png?VersionId=97mOpL1Tn54FImsVO59lTWaPWiB.8t7_&itok=4tJ031mh",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "30",
+    "DEC": "10",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "31",
+    "height": "77.00",
+    "reach": "81.00",
+    "leg_reach": "46.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.68",
+    "SApM": "1.87",
+    "TDAvg": "0.41",
+    "Sub.Avg": "0.41",
+    "Str.Def": "49",
+    "TDDef": "59",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:20",
+    "Str. Acc.": "39",
+    "TD Acc.": "33"
+  }
+}

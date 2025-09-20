@@ -1,0 +1,34 @@
+{
+  "name": "Lina Lansberg",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/LANSBERG_LINA_L_02-18.png?itok=sXg187Dm",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "60",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "41",
+    "height": "67.00",
+    "reach": "65.50",
+    "leg_reach": "39.50",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.69",
+    "SApM": "3.87",
+    "TDAvg": "0.52",
+    "Sub.Avg": "0.10",
+    "Str.Def": "44",
+    "TDDef": "47",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "13:10",
+    "Str. Acc.": "55",
+    "TD Acc.": "28"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Anthony Birchak",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-05/67356%252Fprofile-galery%252Ffullbodyleft-picture%252FBIRCHAK_ANTHONY_L_04-17.png?itok=2-60eokr",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "16",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "19",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "37",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.93",
+    "SApM": "3.67",
+    "TDAvg": "0.48",
+    "Sub.Avg": "0.48",
+    "Str.Def": "57",
+    "TDDef": "62",
+    "KDAvg": "0.96",
+    "Avg Fight Time": "05:13",
+    "Str. Acc.": "37",
+    "TD Acc.": "14"
+  }
+}

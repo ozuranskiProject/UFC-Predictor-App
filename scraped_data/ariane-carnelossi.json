@@ -1,0 +1,34 @@
+{
+  "name": "Ariane Carnelossi",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/CARNELOSSI_ARIANE_L_04-24.png?itok=Qz7szLsP",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "15",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "64",
+    "DEC": "21",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "31",
+    "height": "62.00",
+    "reach": "61.50",
+    "leg_reach": "35.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "2.87",
+    "SApM": "4.74",
+    "TDAvg": "1.37",
+    "Sub.Avg": "0.27",
+    "Str.Def": "45",
+    "TDDef": "14",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:55",
+    "Str. Acc.": "40",
+    "TD Acc.": "56"
+  }
+}

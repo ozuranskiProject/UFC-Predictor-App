@@ -1,0 +1,34 @@
+{
+  "name": "Diyar Nurgozhay",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/NURGOZHAY_DIYAR_L_03-15.png?itok=fHSfBJUF",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "20",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "28",
+    "height": "74.00",
+    "reach": "74.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.04",
+    "SApM": "2.99",
+    "TDAvg": "2.54",
+    "Sub.Avg": "0.00",
+    "Str.Def": "61",
+    "TDDef": "100",
+    "KDAvg": "0.85",
+    "Avg Fight Time": "05:55",
+    "Str. Acc.": "50",
+    "TD Acc.": "100"
+  }
+}

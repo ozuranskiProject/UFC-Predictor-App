@@ -1,0 +1,34 @@
+{
+  "name": "Fatima Kline",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/KLINE_FATIMA_L_07-12.png?itok=FP6b-jm1",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "8",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "38",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "25",
+    "height": "66.00",
+    "reach": "67.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "3.94",
+    "SApM": "2.29",
+    "TDAvg": "1.21",
+    "Sub.Avg": "0.00",
+    "Str.Def": "60",
+    "TDDef": "50",
+    "KDAvg": "0.40",
+    "Avg Fight Time": "12:21",
+    "Str. Acc.": "50",
+    "TD Acc.": "60"
+  }
+}

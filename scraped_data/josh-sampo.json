@@ -1,0 +1,34 @@
+{
+  "name": "Josh Sampo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/48813c94-983a-44fc-8539-c9340b720aa6%252FJosh-Sampo_464233_LeftFullBodyImage.png?itok=Y7vOAsws",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "45",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "38",
+    "height": "64.00",
+    "reach": "66.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.99",
+    "SApM": "2.96",
+    "TDAvg": "1.06",
+    "Sub.Avg": "2.11",
+    "Str.Def": "56",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:39",
+    "Str. Acc.": "36",
+    "TD Acc.": "33"
+  }
+}

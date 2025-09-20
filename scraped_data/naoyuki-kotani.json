@@ -1,0 +1,34 @@
+{
+  "name": "Naoyuki Kotani",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/1e1dd56c-5190-40ba-a99c-40a184330480%252FNaoyuki-Kotani_487155_LeftFullBodyImage.png?itok=JNDvfbuR",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "33",
+    "losses": "13",
+    "draws": "7"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "9",
+    "SUB": "76"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "68.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.02",
+    "SApM": "2.89",
+    "TDAvg": "0.83",
+    "Sub.Avg": "0.83",
+    "Str.Def": "50",
+    "TDDef": "47",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:00",
+    "Str. Acc.": "31",
+    "TD Acc.": "17"
+  }
+}

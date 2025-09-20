@@ -1,0 +1,34 @@
+{
+  "name": "Cody Donovan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/d9124aeb-f195-4a88-955a-327aa9295263%252FCody-Donovan_296290_LeftFullBodyImage.png?itok=1rrKkgoc",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "8",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "13",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "42",
+    "height": "75.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.61",
+    "SApM": "5.44",
+    "TDAvg": "1.67",
+    "Sub.Avg": "1.67",
+    "Str.Def": "46",
+    "TDDef": "1.67",
+    "KDAvg": "04:30",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "59",
+    "TD Acc.": "29"
+  }
+}

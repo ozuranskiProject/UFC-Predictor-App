@@ -1,0 +1,34 @@
+{
+  "name": "Daniel Jolly",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/725a22d6-d2e6-4cdc-9e8b-d7f2af5fb097%252FDaniel-Jolly_631553_LeftFullBodyImage.png?itok=pnN3z8Cb",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "5",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "40",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "38",
+    "height": "73.00",
+    "reach": "75.00",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.32",
+    "SApM": "3.39",
+    "TDAvg": "2.83",
+    "Sub.Avg": "0.00",
+    "Str.Def": "45",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "03:32",
+    "Str. Acc.": "47",
+    "TD Acc.": "33"
+  }
+}

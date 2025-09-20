@@ -1,0 +1,34 @@
+{
+  "name": "Carl Deaton",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/DEATON_CARL_L_02-25.png?itok=b_3cIZk9",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "17",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "29",
+    "SUB": "53"
+  },
+  "bio": {
+    "age": "33",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.53",
+    "SApM": "1.85",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "61",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:28",
+    "Str. Acc.": "32",
+    "TD Acc.": "0"
+  }
+}

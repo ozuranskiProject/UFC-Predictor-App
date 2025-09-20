@@ -1,0 +1,34 @@
+{
+  "name": "Melissa Martinez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/5/MARTINEZ_MELISSA_L_09-10.png?itok=YoaRnef9",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "38",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "28",
+    "height": "62.00",
+    "reach": "66.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.78",
+    "SApM": "5.21",
+    "TDAvg": "0.35",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "14:12",
+    "Str. Acc.": "47",
+    "TD Acc.": "50"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Tiago Trator",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/72b2f210-21b1-4955-a467-169d992f595e%252FTiago-Trator_486132_LeftFullBodyImage.png?itok=WywvyvMF",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "20",
+    "losses": "6",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "35",
+    "DEC": "35",
+    "SUB": "30"
+  },
+  "bio": {
+    "age": "36",
+    "height": "70.00",
+    "reach": "70.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.69",
+    "SApM": "4.23",
+    "TDAvg": "0.63",
+    "Sub.Avg": "0.31",
+    "Str.Def": "60",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:00",
+    "Str. Acc.": "36",
+    "TD Acc.": "11"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Jeremy Kennedy",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/0dfb0309-93b3-4e03-a46a-b47f1710fe4a%252Fjeremy-kennedy_600176_LeftFullBodyImage.png?itok=zFS8pgIC",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "55",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "30",
+    "height": "71.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.22",
+    "SApM": "2.58",
+    "TDAvg": "5.73",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:44",
+    "Str. Acc.": "46",
+    "TD Acc.": "53"
+  }
+}

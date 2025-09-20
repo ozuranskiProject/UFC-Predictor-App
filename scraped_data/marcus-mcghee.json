@@ -1,0 +1,34 @@
+{
+  "name": "Marcus McGhee",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/MCGHEE_MARCUS_L_01-13.png?itok=nxw7zccf",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "80",
+    "DEC": "10",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "35",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "5.50",
+    "SApM": "3.64",
+    "TDAvg": "0.31",
+    "Sub.Avg": "0.31",
+    "Str.Def": "58",
+    "TDDef": "90",
+    "KDAvg": "0.94",
+    "Avg Fight Time": "09:34",
+    "Str. Acc.": "45",
+    "TD Acc.": "14"
+  }
+}

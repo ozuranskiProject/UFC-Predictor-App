@@ -1,0 +1,34 @@
+{
+  "name": "Kazula Vargas",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-04/71570%252Fprofile-galery%252Ffullbodyleft-picture%252FVARGAS_KAZULA_L_04-24.png?itok=X978mpqx",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "12",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "58",
+    "DEC": "17",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "37",
+    "height": "68.00",
+    "reach": "71.50",
+    "leg_reach": "37.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.65",
+    "SApM": "1.77",
+    "TDAvg": "0.40",
+    "Sub.Avg": "0.40",
+    "Str.Def": "58",
+    "TDDef": "30",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:28",
+    "Str. Acc.": "54",
+    "TD Acc.": "25"
+  }
+}

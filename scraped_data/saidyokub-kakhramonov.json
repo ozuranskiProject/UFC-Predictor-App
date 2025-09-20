@@ -1,0 +1,34 @@
+{
+  "name": "Saidyokub Kakhramonov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/KAKHRAMONOV_SAIDYOKUB_L_12-17.png?itok=hqzKFAuD",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "75",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "27",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.05",
+    "SApM": "0.88",
+    "TDAvg": "6.63",
+    "Sub.Avg": "1.95",
+    "Str.Def": "59",
+    "TDDef": "83",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:50",
+    "Str. Acc.": "51",
+    "TD Acc.": "49"
+  }
+}

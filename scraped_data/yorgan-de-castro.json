@@ -1,0 +1,34 @@
+{
+  "name": "Yorgan De Castro",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-04/71526%252Fprofile-galery%252Ffullbodyleft-picture%252FDE_CASTRO_YORGAN_L_04-10.png?itok=67x7pTHo",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "6",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "83",
+    "DEC": "17",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "36",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "2.46",
+    "SApM": "3.85",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "78",
+    "KDAvg": "0.76",
+    "Avg Fight Time": "07:53",
+    "Str. Acc.": "44",
+    "TD Acc.": "0"
+  }
+}

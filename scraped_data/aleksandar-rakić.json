@@ -1,0 +1,34 @@
+{
+  "name": "Aleksandar Raki\u0107",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/RAKIC_ALEKSANDAR_L_10-26.png?itok=J6dvnKmJ",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "14",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "64",
+    "DEC": "29",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "33",
+    "height": "76.00",
+    "reach": "78.00",
+    "leg_reach": "46.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.16",
+    "SApM": "2.91",
+    "TDAvg": "0.66",
+    "Sub.Avg": "0.13",
+    "Str.Def": "51",
+    "TDDef": "86",
+    "KDAvg": "0.52",
+    "Avg Fight Time": "11:26",
+    "Str. Acc.": "50",
+    "TD Acc.": "24"
+  }
+}

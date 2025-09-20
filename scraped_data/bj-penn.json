@@ -1,0 +1,34 @@
+{
+  "name": "BJ Penn",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-03/PENN_BJ_L.png?VersionId=7enVGaRzNvudsF2YM8m.U5hjkv8CmYgb&itok=PiXxAFhw",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "16",
+    "losses": "14",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "19",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "44",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "37.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.76",
+    "SApM": "3.20",
+    "TDAvg": "1.19",
+    "Sub.Avg": "0.51",
+    "Str.Def": "57",
+    "TDDef": "75",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "12:59",
+    "Str. Acc.": "49",
+    "TD Acc.": "55"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Joachim Christensen",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/11852d45-4fed-41a3-b7f0-94940dbb2dff%252Fjoachim-christensen_600881_LeftFullBodyImage.png?itok=E5o8v_DW",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "14",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "29",
+    "SUB": "36"
+  },
+  "bio": {
+    "age": "44",
+    "height": "75.00",
+    "reach": "76.00",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.78",
+    "SApM": "3.29",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "46",
+    "TDDef": "1.22",
+    "KDAvg": "06:10",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "41",
+    "TD Acc.": "0"
+  }
+}

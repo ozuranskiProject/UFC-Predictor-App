@@ -1,0 +1,34 @@
+{
+  "name": "Andre Soukhamthath",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67314/profile-galery/fullbodyleft-picture/SOUKHAMTHATH_ANDRE_L.png?VersionId=wxp.as.0Np39pZ_1pUdTS2XgUz42kneG&itok=fg5H59HC",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "13",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "62",
+    "DEC": "15",
+    "SUB": "23"
+  },
+  "bio": {
+    "age": "34",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "37.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.77",
+    "SApM": "4.31",
+    "TDAvg": "1.25",
+    "Sub.Avg": "0.16",
+    "Str.Def": "50",
+    "TDDef": "59",
+    "KDAvg": "0.94",
+    "Avg Fight Time": "13:44",
+    "Str. Acc.": "44",
+    "TD Acc.": "53"
+  }
+}

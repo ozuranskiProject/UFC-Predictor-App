@@ -1,0 +1,34 @@
+{
+  "name": "Trevin Jones",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/JONES_TREVIN_L_03-05.png?itok=poOZopa1",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "13",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "23",
+    "DEC": "46",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "32",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.13",
+    "SApM": "4.29",
+    "TDAvg": "0.62",
+    "Sub.Avg": "0.21",
+    "Str.Def": "40",
+    "TDDef": "60",
+    "KDAvg": "0.41",
+    "Avg Fight Time": "12:04",
+    "Str. Acc.": "37",
+    "TD Acc.": "15"
+  }
+}

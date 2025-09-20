@@ -1,0 +1,34 @@
+{
+  "name": "Neil Seery",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/6e61c312-20bc-4e46-b29c-f297bf1e5a16%252FNeil-Seery_473777_LeftFullBodyImage.png?itok=fMcQh-eD",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "16",
+    "losses": "13",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "25",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "43",
+    "height": "66.00",
+    "reach": "64.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.56",
+    "SApM": "3.79",
+    "TDAvg": "0.78",
+    "Sub.Avg": "1.55",
+    "Str.Def": "59",
+    "TDDef": "54",
+    "KDAvg": "0.31",
+    "Avg Fight Time": "13:49",
+    "Str. Acc.": "41",
+    "TD Acc.": "28"
+  }
+}

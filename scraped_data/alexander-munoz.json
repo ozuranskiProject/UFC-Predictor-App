@@ -1,0 +1,34 @@
+{
+  "name": "Alexander Munoz",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-07/MUNOZ_ALEXANDER_L_07-15.png?itok=rGcWyspu",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "50",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "35",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.70",
+    "SApM": "4.73",
+    "TDAvg": "3.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "55",
+    "TDDef": "100",
+    "KDAvg": "0.25",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "43",
+    "TD Acc.": "40"
+  }
+}

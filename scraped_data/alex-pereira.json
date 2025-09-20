@@ -1,0 +1,34 @@
+{
+  "name": "Alex Pereira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/PEREIRA_ALEX_L.png?itok=oKvyKasX",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "12",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "83",
+    "DEC": "17",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "38",
+    "height": "76.00",
+    "reach": "79.00",
+    "leg_reach": "44.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "5.00",
+    "SApM": "3.50",
+    "TDAvg": "0.11",
+    "Sub.Avg": "0.23",
+    "Str.Def": "54",
+    "TDDef": "79",
+    "KDAvg": "0.80",
+    "Avg Fight Time": "11:57",
+    "Str. Acc.": "62",
+    "TD Acc.": "50"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Mark De La Rosa",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/DE_LA_ROSA_MARK_L_0.png?VersionId=FOcdVpEwcXb.raj0Gw7IfH2IS5EKN0zN&itok=n5dYjRpa",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "9",
+    "DEC": "36",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "28",
+    "height": "66.00",
+    "reach": "65.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.13",
+    "SApM": "5.00",
+    "TDAvg": "0.54",
+    "Sub.Avg": "0.18",
+    "Str.Def": "49",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:55",
+    "Str. Acc.": "35",
+    "TD Acc.": "14"
+  }
+}

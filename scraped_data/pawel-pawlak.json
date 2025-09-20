@@ -1,0 +1,34 @@
+{
+  "name": "Pawel Pawlak",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/82a6d1c1-ee92-412b-98c7-15f4ecdcccf5%252FPawel-Pawlak_466042_LeftFullBodyImage.png?itok=3qKOD9gp",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "64",
+    "DEC": "18",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "34",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.67",
+    "SApM": "2.22",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "70",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "34",
+    "TD Acc.": "38"
+  }
+}

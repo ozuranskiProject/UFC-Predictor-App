@@ -1,0 +1,34 @@
+{
+  "name": "Gregor Gillespie",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-05/68048%252Fprofile-galery%252Ffullbodyleft-picture%252FGILLESPIE_GREGOR_L_05-08.png?itok=h16bxCJY",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "14",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "53",
+    "DEC": "13",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "36",
+    "height": "67.00",
+    "reach": "71.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.74",
+    "SApM": "2.30",
+    "TDAvg": "6.86",
+    "Sub.Avg": "0.76",
+    "Str.Def": "58",
+    "TDDef": "100",
+    "KDAvg": "0.51",
+    "Avg Fight Time": "07:23",
+    "Str. Acc.": "53",
+    "TD Acc.": "48"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Paul Felder",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-11/68984%252Fprofile-galery%252Ffullbodyleft-picture%252FFELDER_PAUL_L_11-14.png?itok=Xu_gPQZM",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "17",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "59",
+    "DEC": "35",
+    "SUB": "6"
+  },
+  "bio": {
+    "age": "39",
+    "height": "71.00",
+    "reach": "70.50",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.70",
+    "SApM": "3.44",
+    "TDAvg": "0.29",
+    "Sub.Avg": "0.22",
+    "Str.Def": "49",
+    "TDDef": "65",
+    "KDAvg": "0.22",
+    "Avg Fight Time": "13:45",
+    "Str. Acc.": "45",
+    "TD Acc.": "29"
+  }
+}

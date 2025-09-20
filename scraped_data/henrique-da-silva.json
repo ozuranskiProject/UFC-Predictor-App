@@ -1,0 +1,34 @@
+{
+  "name": "Henrique da Silva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/HENRIQUE_LUIZ_L.png?VersionId=oVBhbPZVOZmXf7kPtHE_mxpsWVqQA0Sd&itok=5JlLLRDP",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "12",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "92",
+    "DEC": "0",
+    "SUB": "8"
+  },
+  "bio": {
+    "age": "33",
+    "height": "75.00",
+    "reach": "76.50",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.89",
+    "SApM": "5.28",
+    "TDAvg": "0.25",
+    "Sub.Avg": "0.25",
+    "Str.Def": "40",
+    "TDDef": "22",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:43",
+    "Str. Acc.": "60",
+    "TD Acc.": "14"
+  }
+}

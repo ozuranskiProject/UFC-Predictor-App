@@ -1,0 +1,34 @@
+{
+  "name": "Julius Walker",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/WALKER_JULIUS_L_08-09.png?itok=0iKvEdqK",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "0",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "26",
+    "height": "76.00",
+    "reach": "78.00",
+    "leg_reach": "43.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.33",
+    "SApM": "3.53",
+    "TDAvg": "3.50",
+    "Sub.Avg": "0.00",
+    "Str.Def": "44",
+    "TDDef": "100",
+    "KDAvg": "0.50",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "56",
+    "TD Acc.": "37"
+  }
+}

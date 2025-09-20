@@ -1,0 +1,34 @@
+{
+  "name": "Zac Pauga",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/PAUGA_ZAC_L_02-10.png?itok=tu6SsxyY",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "67",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "35",
+    "height": "74.00",
+    "reach": "76.00",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.46",
+    "SApM": "2.73",
+    "TDAvg": "0.38",
+    "Sub.Avg": "0.00",
+    "Str.Def": "59",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:49",
+    "Str. Acc.": "63",
+    "TD Acc.": "8"
+  }
+}

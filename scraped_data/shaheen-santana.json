@@ -1,0 +1,34 @@
+{
+  "name": "Shaheen Santana",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-11/71726%252Fprofile-galery%252Ffullbodyleft-picture%252FSANTANA_SHAHEEN_L.png?itok=sE6Dm1OR",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "0",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "32",
+    "height": "N/A",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.82",
+    "SApM": "1.65",
+    "TDAvg": "0.00",
+    "Sub.Avg": "2.75",
+    "Str.Def": "40",
+    "TDDef": "0.00",
+    "KDAvg": "10:55",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "43",
+    "TD Acc.": "0"
+  }
+}

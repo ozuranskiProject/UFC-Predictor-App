@@ -1,7 +1,6 @@
-// calculateFight.js (ultra simple, diff-based)
+const LOWER_IS_BETTER = new Set(['SApM', 'losses']); //for stats that lower is better, like losses
 
-const LOWER_IS_BETTER = new Set(['SApM', 'losses']); //for stats that lower is better
-
+// paths to stats in the fighter JSON data, some stats have multiple possible paths due to inconsistencies in the data source
 const METRIC_PATHS = {
   SLpM:   ['fight_stats.SLpM'],
   SApM:   ['fight_stats.SApM'],
@@ -20,62 +19,66 @@ const METRIC_PATHS = {
   subPct: ['win_methods.SUB'],
 };
 
-//.split turns path into array of keys, obj and path, .reduce combs through to find the correct o and k, return undef if doesnt exist
+// get nested value from object by path string like 'a.b.c'
 const getVal = (obj, path) => path.split('.').reduce((o, k) => (o && k in o ? o[k] : undefined), obj);
 
-const firstVal = (obj, paths) => { // go through each path string in the array
+// get first useable value from object by trying multiple paths
+const firstVal = (obj, paths) => { 
   for (const p of paths) {
-    const v = getVal(obj, p); // try to get obj[p]
-    if (v !== undefined && v !== null) { //if v exists
-      const s = String(v).trim(); //turn into useable string
-      if (s && s.toUpperCase() !== 'N/A') return s; //only return if value isnt N/A
+    const v = getVal(obj, p); 
+    if (v !== undefined && v !== null) { 
+      const s = String(v).trim(); 
+      if (s && s.toUpperCase() !== 'N/A') return s; 
     }
   }
   return null;
 };
 
-const num = (v) => { //all the json data, even 'numbers' are strings, so they need to be converted to numbers
+const num = (v) => { 
   if (v == null) return null;
-  const n = parseFloat(String(v).replace(/[^0-9.+-]/g, '')); //ensure stat is cleaned up of anything that would keep it from being a number
-  return Number.isFinite(n) ? n : null; //only return number if it is real and finite
+  const n = parseFloat(String(v).replace(/[^0-9.+-]/g, '')); 
+  return Number.isFinite(n) ? n : null; 
 };
 
 export const DEFAULT_WEIGHTS = { //these are manual weights, I wanted/want to have these be determined off history, but that would
 // require insanely complex scraping. for now I am using my best judgement
-  SLpM: 3,
-  SApM: 3,
-  StrAcc: 2,
-  StrDef: 2,
-  TDAvg: 2,
-  TDAcc: 2,
-  TDDef: 2,
-  SubAvg: 1,
-  reach: 1,
-  height: 1,
-  wins: 1,
-  losses: 1,
-  koPct: 1,
-  subPct: 1,
-  decPct: 0.5,
+
+  SLpM: 3,     // significant strikes landed per minute
+  SApM: 3,     // significant strikes absorbed per minute
+  StrAcc: 2,   // significant strike accuracy
+  StrDef: 2,   // significant strike defense
+  StrDef: 2,   // significant strike defense
+  TDAvg: 2,    // takedown average
+  TDAcc: 2,    // takedown accuracy
+  TDDef: 2,    // takedown defense
+  SubAvg: 1,   // submission average
+  reach: 1,    // reach in inches
+  height: 1,   // height in inches
+  wins: 1,     // total wins
+  losses: 1,   // total losses
+  koPct: 1,    // knockout win percentage
+  subPct: 1,   // submission win percentage
+  decPct: 0.5, // decision win percentage
 };
 
+// main function to calculate fight outcome probabilities
 export default function calculateFight(f1, f2, weights = DEFAULT_WEIGHTS) {
   let score1 = 0;
   let score2 = 0;
 
-  for (const [key, weight] of Object.entries(weights)) { //stat name and appropriate weight
-    const paths = METRIC_PATHS[key]; //find path for stat
-    if (!paths || !Number.isFinite(weight) || weight === 0) continue; //skip it if it doesnt exist, is unusuable or weight is zero
+  for (const [key, weight] of Object.entries(weights)) { 
+    const paths = METRIC_PATHS[key]; 
+    if (!paths || !Number.isFinite(weight)) continue; 
 
-    const v1 = num(firstVal(f1, paths)); //take value for f1 turn it to a number
-    const v2 = num(firstVal(f2, paths)); //take value for f2 turn it to a number
-    if (v1 == null || v2 == null) continue; //skip if either stat is null
+    const v1 = num(firstVal(f1, paths)); 
+    const v2 = num(firstVal(f2, paths)); 
+    if (v1 == null || v2 == null) continue; 
 
     const lower = LOWER_IS_BETTER.has(key); //for stats that advatnage if lower
     const diff = lower ? (v2 - v1) : (v1 - v2); // positive means f1 better
 
-    if (diff > 0) score1 += weight * diff; //add score to fighter 1 if they have advantage
-    else if (diff < 0) score2 += weight * (-diff); //add score to fighter 2 if they have advantage
+    if (diff > 0) score1 += weight * diff; 
+    else if (diff < 0) score2 += weight * (-diff); 
   }
 
   const total = score1 + score2;

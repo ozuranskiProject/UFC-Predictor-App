@@ -1,0 +1,34 @@
+{
+  "name": "Dave Galera",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/aa50a809-6e8d-43ec-b69d-f67746bed0f9%252FDave-Galera_463240_LeftFullBodyImage.png?itok=3lPTx9yr",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "5",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "0",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "71.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.67",
+    "SApM": "0.53",
+    "TDAvg": "0.00",
+    "Sub.Avg": "2.00",
+    "Str.Def": "33",
+    "TDDef": "14",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "69",
+    "TD Acc.": "N/A"
+  }
+}

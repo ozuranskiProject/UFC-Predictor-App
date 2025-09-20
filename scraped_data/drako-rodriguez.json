@@ -1,0 +1,34 @@
+{
+  "name": "Drako Rodriguez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/71636%252Fprofile-galery%252Ffullbodyleft-picture%252FRODRIGUEZ_DRAKO_L_08-07.png?itok=TSY9Tbn_",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "14",
+    "SUB": "57"
+  },
+  "bio": {
+    "age": "27",
+    "height": "68.00",
+    "reach": "69.50",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.37",
+    "SApM": "4.40",
+    "TDAvg": "2.93",
+    "Sub.Avg": "0.73",
+    "Str.Def": "58",
+    "TDDef": "75",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "06:49",
+    "Str. Acc.": "36",
+    "TD Acc.": "67"
+  }
+}

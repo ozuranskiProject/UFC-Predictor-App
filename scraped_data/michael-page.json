@@ -1,0 +1,34 @@
+{
+  "name": "Michael Page",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/PAGE_MICHAEL_L_06-29.png?itok=CYpzMHIK",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "24",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "54",
+    "DEC": "33",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "38",
+    "height": "75.00",
+    "reach": "79.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.39",
+    "SApM": "1.68",
+    "TDAvg": "0.23",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "67",
+    "KDAvg": "0.23",
+    "Avg Fight Time": "10:44",
+    "Str. Acc.": "60",
+    "TD Acc.": "17"
+  }
+}

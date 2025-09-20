@@ -1,0 +1,34 @@
+{
+  "name": "Tabatha Ricci",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/RICCI_TABATHA_L_08-24.png?itok=-cy3vrxu",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "12",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "58",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "30",
+    "height": "61.00",
+    "reach": "61.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Judo"
+  },
+  "fight_stats": {
+    "SLpM": "4.18",
+    "SApM": "5.19",
+    "TDAvg": "2.69",
+    "Sub.Avg": "0.12",
+    "Str.Def": "58",
+    "TDDef": "79",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:49",
+    "Str. Acc.": "37",
+    "TD Acc.": "37"
+  }
+}

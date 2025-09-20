@@ -1,0 +1,34 @@
+{
+  "name": "Nate Diaz",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/DIAZ_NATE_L_09-10.png?itok=qVxkZhnz",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "22",
+    "losses": "13",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "23",
+    "DEC": "18",
+    "SUB": "59"
+  },
+  "bio": {
+    "age": "38",
+    "height": "73.00",
+    "reach": "76.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.57",
+    "SApM": "3.77",
+    "TDAvg": "1.05",
+    "Sub.Avg": "1.29",
+    "Str.Def": "53",
+    "TDDef": "42",
+    "KDAvg": "0.16",
+    "Avg Fight Time": "11:35",
+    "Str. Acc.": "45",
+    "TD Acc.": "31"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Robbie Peralta",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/ed1190b1-53dd-400b-8b98-9eb4de19d573%252FRobert-Peralta_226172_LeftFullBodyImage.png?itok=NS3rWLNY",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "18",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "72",
+    "DEC": "17",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "37",
+    "height": "68.00",
+    "reach": "71.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.76",
+    "SApM": "2.97",
+    "TDAvg": "0.59",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "65",
+    "KDAvg": "0.74",
+    "Avg Fight Time": "11:20",
+    "Str. Acc.": "45",
+    "TD Acc.": "67"
+  }
+}

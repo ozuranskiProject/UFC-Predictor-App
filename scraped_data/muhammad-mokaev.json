@@ -1,0 +1,34 @@
+{
+  "name": "Muhammad Mokaev",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/911ce7a0-a97f-497c-9a2d-b3bbfa3e50d8%252FMOKAEV_MUHAMMAD_L_03-19.png?itok=ixUb-xHC",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "13",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "38",
+    "SUB": "46"
+  },
+  "bio": {
+    "age": "23",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "1.61",
+    "SApM": "1.35",
+    "TDAvg": "5.29",
+    "Sub.Avg": "0.85",
+    "Str.Def": "58",
+    "TDDef": "25",
+    "KDAvg": "0.17",
+    "Avg Fight Time": "12:34",
+    "Str. Acc.": "45",
+    "TD Acc.": "41"
+  }
+}

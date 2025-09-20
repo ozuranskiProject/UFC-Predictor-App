@@ -1,0 +1,34 @@
+{
+  "name": "Lisa Ellis",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/9b1a6c21-1809-4477-b267-fa6baf644773%252FLisa-Ellis_501700_LeftFullBodyImage.png?itok=3S3V1tDd",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "15",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "27",
+    "SUB": "73"
+  },
+  "bio": {
+    "age": "40",
+    "height": "64.00",
+    "reach": "62.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.68",
+    "SApM": "2.32",
+    "TDAvg": "4.19",
+    "Sub.Avg": "0.60",
+    "Str.Def": "57",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:21",
+    "Str. Acc.": "49",
+    "TD Acc.": "64"
+  }
+}

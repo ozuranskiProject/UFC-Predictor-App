@@ -1,0 +1,34 @@
+{
+  "name": "Wallid Ismail",
+  "profile_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "0",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "55",
+    "height": "70.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.92",
+    "SApM": "0.83",
+    "TDAvg": "1.85",
+    "Sub.Avg": "0.46",
+    "Str.Def": "45",
+    "TDDef": "0.00",
+    "KDAvg": "16:15",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "31",
+    "TD Acc.": "29"
+  }
+}

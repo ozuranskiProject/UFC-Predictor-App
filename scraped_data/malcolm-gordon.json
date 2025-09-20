@@ -1,0 +1,34 @@
+{
+  "name": "Malcolm Gordon",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-01/GORDON_MALCOLM_L_01-20.png?itok=bFP8j15v",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "14",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "21",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "33",
+    "height": "67.00",
+    "reach": "71.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "2.50",
+    "SApM": "2.00",
+    "TDAvg": "1.72",
+    "Sub.Avg": "1.03",
+    "Str.Def": "44",
+    "TDDef": "27",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "06:13",
+    "Str. Acc.": "45",
+    "TD Acc.": "36"
+  }
+}

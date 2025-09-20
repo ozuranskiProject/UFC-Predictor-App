@@ -1,0 +1,34 @@
+{
+  "name": "Nadia Kassem",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68883/profile-galery/fullbodyleft-picture/KASSEM_NADIA_L.png?VersionId=U9VBE2molwZkcSsxpG57I06jKYSemfW6&itok=E0hasXYo",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "5",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "80",
+    "DEC": "20",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "27",
+    "height": "65.00",
+    "reach": "66.00",
+    "leg_reach": "38.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.13",
+    "SApM": "4.48",
+    "TDAvg": "0.46",
+    "Sub.Avg": "2.76",
+    "Str.Def": "49",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:52",
+    "Str. Acc.": "42",
+    "TD Acc.": "33"
+  }
+}

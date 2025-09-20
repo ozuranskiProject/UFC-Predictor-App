@@ -1,0 +1,34 @@
+{
+  "name": "Akihiro Gono",
+  "profile_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "28",
+    "losses": "14",
+    "draws": "7"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "48",
+    "height": "69.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.35",
+    "SApM": "11.35",
+    "TDAvg": "1.57",
+    "Sub.Avg": "0.39",
+    "Str.Def": "64",
+    "TDDef": "46",
+    "KDAvg": "0.39",
+    "Avg Fight Time": "12:46",
+    "Str. Acc.": "53",
+    "TD Acc.": "80"
+  }
+}

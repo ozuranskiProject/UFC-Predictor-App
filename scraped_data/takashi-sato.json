@@ -1,0 +1,34 @@
+{
+  "name": "Takashi Sato",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-05/SATO_TAKASHI_L_05-20.png?itok=138GmvEB",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "16",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "69",
+    "DEC": "19",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "33",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.21",
+    "SApM": "3.73",
+    "TDAvg": "0.76",
+    "Sub.Avg": "0.00",
+    "Str.Def": "44",
+    "TDDef": "61",
+    "KDAvg": "0.51",
+    "Avg Fight Time": "08:28",
+    "Str. Acc.": "42",
+    "TD Acc.": "38"
+  }
+}

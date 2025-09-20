@@ -1,0 +1,34 @@
+{
+  "name": "Gustavo Lopez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-09/71633%252Fprofile-galery%252Ffullbodyleft-picture%252FLOPEZ_GUSTAVO_L_09-18.png?itok=Qw6-XmO2",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "8",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "33",
+    "height": "65.00",
+    "reach": "67.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.48",
+    "SApM": "3.87",
+    "TDAvg": "1.74",
+    "Sub.Avg": "0.70",
+    "Str.Def": "57",
+    "TDDef": "32",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:48",
+    "Str. Acc.": "40",
+    "TD Acc.": "42"
+  }
+}

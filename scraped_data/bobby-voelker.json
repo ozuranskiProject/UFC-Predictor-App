@@ -1,0 +1,34 @@
+{
+  "name": "Bobby Voelker",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Bobby_Voelker/BobbyVoelker_FOX8_020.png?VersionId=bV8RGG4.jiLxAuw.M3P.lXKXwzAirIxH&itok=rHtPHuPX",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "24",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "79",
+    "DEC": "21",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "44",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.01",
+    "SApM": "5.84",
+    "TDAvg": "1.04",
+    "Sub.Avg": "0.00",
+    "Str.Def": "42",
+    "TDDef": "67",
+    "KDAvg": "0.26",
+    "Avg Fight Time": "11:04",
+    "Str. Acc.": "36",
+    "TD Acc.": "50"
+  }
+}

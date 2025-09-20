@@ -1,0 +1,34 @@
+{
+  "name": "Matt Schnell",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/SCHNELL_MATT_L_04-26.png?itok=lml1Bsp6",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "17",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "12",
+    "DEC": "35",
+    "SUB": "53"
+  },
+  "bio": {
+    "age": "35",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "4.13",
+    "SApM": "4.17",
+    "TDAvg": "0.49",
+    "Sub.Avg": "1.24",
+    "Str.Def": "55",
+    "TDDef": "43",
+    "KDAvg": "0.12",
+    "Avg Fight Time": "08:06",
+    "Str. Acc.": "40",
+    "TD Acc.": "40"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Michael Chandler",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/CHANDLER_MICHAEL_L_04-12.png?itok=z7ny_g4e",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "23",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "48",
+    "DEC": "22",
+    "SUB": "30"
+  },
+  "bio": {
+    "age": "39",
+    "height": "68.00",
+    "reach": "71.50",
+    "leg_reach": "37.50",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "4.04",
+    "SApM": "4.52",
+    "TDAvg": "1.96",
+    "Sub.Avg": "0.56",
+    "Str.Def": "43",
+    "TDDef": "62",
+    "KDAvg": "0.42",
+    "Avg Fight Time": "09:37",
+    "Str. Acc.": "50",
+    "TD Acc.": "41"
+  }
+}

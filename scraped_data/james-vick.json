@@ -1,0 +1,34 @@
+{
+  "name": "James Vick",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-02/VICK_JAMES_L.png?VersionId=tRTOdm6pLZnYO_vB0I5R3bKqbTioB3B8&itok=oPV6SQIK",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "13",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "23",
+    "DEC": "38",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "36",
+    "height": "75.00",
+    "reach": "76.00",
+    "leg_reach": "43.00",
+    "fighting_style": "Boxer"
+  },
+  "fight_stats": {
+    "SLpM": "4.13",
+    "SApM": "3.31",
+    "TDAvg": "0.26",
+    "Sub.Avg": "0.66",
+    "Str.Def": "61",
+    "TDDef": "58",
+    "KDAvg": "0.52",
+    "Avg Fight Time": "08:10",
+    "Str. Acc.": "40",
+    "TD Acc.": "33"
+  }
+}

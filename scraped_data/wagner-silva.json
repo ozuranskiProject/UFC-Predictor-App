@@ -1,0 +1,34 @@
+{
+  "name": "Wagner Silva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/77b67615-638e-4d4a-8dd9-46dc27146bc6%252Fwagner-silva-gomes_477656_LeftFullBodyImage.png?itok=L0CzYmjA",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "3",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "33",
+    "SUB": "67"
+  },
+  "bio": {
+    "age": "36",
+    "height": "72.00",
+    "reach": "71.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.69",
+    "SApM": "2.87",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "66",
+    "TDDef": "58",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:46",
+    "Str. Acc.": "30",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Alex Oliveira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-04/67204%252Fprofile-galery%252Ffullbodyleft-picture%252FOLIVEIRA_ALEX_L_04-24.png?itok=Ql8r_CVS",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "22",
+    "losses": "12",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "23",
+    "SUB": "23"
+  },
+  "bio": {
+    "age": "35",
+    "height": "71.00",
+    "reach": "76.50",
+    "leg_reach": "43.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "2.99",
+    "SApM": "2.55",
+    "TDAvg": "2.35",
+    "Sub.Avg": "0.57",
+    "Str.Def": "47",
+    "TDDef": "64",
+    "KDAvg": "0.43",
+    "Avg Fight Time": "09:34",
+    "Str. Acc.": "51",
+    "TD Acc.": "38"
+  }
+}

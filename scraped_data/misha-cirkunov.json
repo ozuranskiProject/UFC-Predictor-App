@@ -1,0 +1,34 @@
+{
+  "name": "Misha Cirkunov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-10/CIRKUNOV_MISHA_L_10-15.png?itok=SQLQpFrR",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "15",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "13",
+    "SUB": "53"
+  },
+  "bio": {
+    "age": "37",
+    "height": "75.00",
+    "reach": "77.00",
+    "leg_reach": "43.50",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.86",
+    "SApM": "3.06",
+    "TDAvg": "4.15",
+    "Sub.Avg": "1.71",
+    "Str.Def": "58",
+    "TDDef": "77",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "04:44",
+    "Str. Acc.": "52",
+    "TD Acc.": "40"
+  }
+}

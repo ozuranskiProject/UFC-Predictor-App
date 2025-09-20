@@ -1,0 +1,34 @@
+{
+  "name": "Martin Svensson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/cfb259a1-9985-40bd-9ecf-ad689d48b53d%252FMartin-Svensson_574488_LeftFullBodyImage.png?itok=QKsgUGcG",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "14",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "7",
+    "DEC": "36",
+    "SUB": "57"
+  },
+  "bio": {
+    "age": "38",
+    "height": "73.00",
+    "reach": "72.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.02",
+    "SApM": "5.91",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "39",
+    "TDDef": "0.00",
+    "KDAvg": "06:26",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "38",
+    "TD Acc.": "0"
+  }
+}

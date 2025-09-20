@@ -1,0 +1,34 @@
+{
+  "name": "Nicolle Caliari",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/CALIARI_NICOLLE_L_01-11.png?itok=DYRuOgcO",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "8",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "0",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "28",
+    "height": "63.00",
+    "reach": "62.00",
+    "leg_reach": "34.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.46",
+    "SApM": "7.01",
+    "TDAvg": "2.88",
+    "Sub.Avg": "0.96",
+    "Str.Def": "54",
+    "TDDef": "0.00",
+    "KDAvg": "10:25",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "38",
+    "TD Acc.": "24"
+  }
+}

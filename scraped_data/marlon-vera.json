@@ -1,0 +1,34 @@
+{
+  "name": "Marlon Vera",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/VERA_MARLON_L_08-03.png?itok=ys9RC6Ml",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "23",
+    "losses": "10",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "35",
+    "DEC": "22",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "32",
+    "height": "68.00",
+    "reach": "70.50",
+    "leg_reach": "40.50",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "4.27",
+    "SApM": "5.37",
+    "TDAvg": "0.51",
+    "Sub.Avg": "0.83",
+    "Str.Def": "50",
+    "TDDef": "73",
+    "KDAvg": "0.56",
+    "Avg Fight Time": "13:29",
+    "Str. Acc.": "49",
+    "TD Acc.": "39"
+  }
+}

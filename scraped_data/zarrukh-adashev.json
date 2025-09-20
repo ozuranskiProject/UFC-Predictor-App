@@ -1,0 +1,34 @@
+{
+  "name": "Zarrukh Adashev",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-05/71630%252Fprofile-galery%252Ffullbodyleft-picture%252FADASHEV_ZARRUKH_L_05-08.png?itok=klRLaJPw",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "4",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "30",
+    "height": "65.00",
+    "reach": "65.00",
+    "leg_reach": "35.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.65",
+    "SApM": "3.04",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.48",
+    "Str.Def": "65",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:53",
+    "Str. Acc.": "40",
+    "TD Acc.": "0"
+  }
+}

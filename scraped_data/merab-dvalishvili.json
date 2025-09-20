@@ -1,0 +1,34 @@
+{
+  "name": "Merab Dvalishvili",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/DVALISHVILI_MERAB_L_BELT_06-07.png?itok=JlIVGmN1",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "20",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "75",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "34",
+    "height": "66.00",
+    "reach": "68.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.31",
+    "SApM": "2.48",
+    "TDAvg": "5.84",
+    "Sub.Avg": "0.30",
+    "Str.Def": "56",
+    "TDDef": "83",
+    "KDAvg": "0.06",
+    "Avg Fight Time": "16:36",
+    "Str. Acc.": "42",
+    "TD Acc.": "36"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Vince Murdock",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69462/profile-galery/fullbodyleft-picture/MURDOCK_VINCE_L.png?itok=b8fSoYd2",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "12",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "25",
+    "SUB": "8"
+  },
+  "bio": {
+    "age": "32",
+    "height": "66.00",
+    "reach": "66.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "1.21",
+    "SApM": "7.17",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "41",
+    "TDDef": "0.00",
+    "KDAvg": "10:44",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "22",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Thomas Gifford",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/71465/profile-galery/fullbodyleft-picture/GIFFORD_THOMAS_L.png?VersionId=3k9PqFwHN2XKFBmszeGaMqvHGaBCvvo4&itok=YcHgqQEf",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "17",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "6",
+    "SUB": "76"
+  },
+  "bio": {
+    "age": "30",
+    "height": "73.00",
+    "reach": "75.50",
+    "leg_reach": "43.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.97",
+    "SApM": "6.45",
+    "TDAvg": "0.50",
+    "Sub.Avg": "0.00",
+    "Str.Def": "37",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "14:53",
+    "Str. Acc.": "38",
+    "TD Acc.": "33"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Dominique Steele",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/44edd59a-c76b-4c3e-a4d9-0bd8f56e4ee6%252Fdominique-steele_538285_LeftFullBodyImage.png?itok=0oK5I1aU",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "14",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "41",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "35",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.32",
+    "SApM": "2.42",
+    "TDAvg": "2.95",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "76",
+    "KDAvg": "0.63",
+    "Avg Fight Time": "11:52",
+    "Str. Acc.": "49",
+    "TD Acc.": "42"
+  }
+}

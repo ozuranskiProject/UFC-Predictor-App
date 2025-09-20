@@ -1,0 +1,34 @@
+{
+  "name": "Johnny Munoz",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/71685%252Fprofile-galery%252Ffullbodyleft-picture%252FMUNOZ_JOHNNY_L_08-07.png?itok=I-56tuOK",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "25",
+    "SUB": "58"
+  },
+  "bio": {
+    "age": "30",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.44",
+    "SApM": "2.66",
+    "TDAvg": "2.40",
+    "Sub.Avg": "1.75",
+    "Str.Def": "55",
+    "TDDef": "45",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:27",
+    "Str. Acc.": "37",
+    "TD Acc.": "26"
+  }
+}

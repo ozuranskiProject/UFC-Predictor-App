@@ -1,0 +1,34 @@
+{
+  "name": "Sirwan Kakai",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/49ab6d89-b530-4c83-81e3-cc6f1d008688%252Fsirwan-kakai_453463_LeftFullBodyImage.png?itok=p_NY6vrT",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "23",
+    "SUB": "46"
+  },
+  "bio": {
+    "age": "33",
+    "height": "66.00",
+    "reach": "66.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.57",
+    "SApM": "4.63",
+    "TDAvg": "4.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "83",
+    "KDAvg": "0.50",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "41",
+    "TD Acc.": "42"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Takenori Sato",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/e458a39d-f2ed-476f-a807-dca19ab24144%252FTakenori-Sato_468642_LeftFullBodyImage.png?itok=apxHwvaN",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "17",
+    "losses": "10",
+    "draws": "7"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "47",
+    "SUB": "35"
+  },
+  "bio": {
+    "age": "38",
+    "height": "70.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.46",
+    "SApM": "12.92",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "10",
+    "TDDef": "0.00",
+    "KDAvg": "01:05",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "33",
+    "TD Acc.": "0"
+  }
+}

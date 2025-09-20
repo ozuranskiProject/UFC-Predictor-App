@@ -1,0 +1,34 @@
+{
+  "name": "Leonardo Augusto Leleco",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/e691a598-eeac-46f7-970d-053fe89e0fa7%252FLeonardo-Augusto-Guimaraes_573986_LeftFullBodyImage.png?itok=KqZYyhbi",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "18",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "41",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.35",
+    "SApM": "2.99",
+    "TDAvg": "0.00",
+    "Sub.Avg": "1.01",
+    "Str.Def": "45",
+    "TDDef": "53",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "14:53",
+    "Str. Acc.": "56",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Aleksa Camur",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/71497%252Fprofile-galery%252Ffullbodyleft-picture%252FCAMUR_ALEKSA_L_06-19.png?itok=SAZgtYnd",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "6",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "83",
+    "DEC": "17",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "27",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "42.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.73",
+    "SApM": "4.26",
+    "TDAvg": "0.46",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "50",
+    "KDAvg": "0.23",
+    "Avg Fight Time": "13:10",
+    "Str. Acc.": "57",
+    "TD Acc.": "22"
+  }
+}

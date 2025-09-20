@@ -1,0 +1,34 @@
+{
+  "name": "Thiago Alves",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-01/ALVES_THIAGO_L.png?VersionId=_iXg0Zp.wNih3AwI7LIRzu9dvtBESmRn&itok=6TCdrEl2",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "28",
+    "losses": "15",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "46",
+    "DEC": "50",
+    "SUB": "4"
+  },
+  "bio": {
+    "age": "39",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "37.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.73",
+    "SApM": "3.42",
+    "TDAvg": "0.71",
+    "Sub.Avg": "0.30",
+    "Str.Def": "63",
+    "TDDef": "63",
+    "KDAvg": "0.66",
+    "Avg Fight Time": "10:59",
+    "Str. Acc.": "42",
+    "TD Acc.": "61"
+  }
+}

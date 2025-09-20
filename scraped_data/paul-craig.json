@@ -1,0 +1,34 @@
+{
+  "name": "Paul Craig",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-05/CRAIG_PAUL_L_05-04.png?itok=XzC3QFe5",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "17",
+    "losses": "10",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "24",
+    "DEC": "0",
+    "SUB": "76"
+  },
+  "bio": {
+    "age": "37",
+    "height": "75.50",
+    "reach": "76.00",
+    "leg_reach": "43.00",
+    "fighting_style": "Kung-Fu"
+  },
+  "fight_stats": {
+    "SLpM": "2.50",
+    "SApM": "3.04",
+    "TDAvg": "1.43",
+    "Sub.Avg": "1.34",
+    "Str.Def": "43",
+    "TDDef": "35",
+    "KDAvg": "0.09",
+    "Avg Fight Time": "08:01",
+    "Str. Acc.": "45",
+    "TD Acc.": "19"
+  }
+}

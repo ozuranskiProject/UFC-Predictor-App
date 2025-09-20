@@ -1,0 +1,34 @@
+{
+  "name": "Matt Bessette",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68767/profile-galery/fullbodyleft-picture/Matt-Bessette_631437_LeftFullBodyImage.png?VersionId=nmMj2947yMkdiHY2z.EvjvzYDlshYECk&itok=Qz-4mzO2",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "22",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "32",
+    "SUB": "36"
+  },
+  "bio": {
+    "age": "38",
+    "height": "70.00",
+    "reach": "70.50",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.36",
+    "SApM": "4.45",
+    "TDAvg": "0.64",
+    "Sub.Avg": "0.32",
+    "Str.Def": "59",
+    "TDDef": "61",
+    "KDAvg": "0.32",
+    "Avg Fight Time": "09:21",
+    "Str. Acc.": "41",
+    "TD Acc.": "29"
+  }
+}

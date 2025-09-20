@@ -1,0 +1,34 @@
+{
+  "name": "Luke Flores",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/ae3b519b-7cbf-451c-9e3f-6ea32ecd8845%252FLuke-Flores_636464_LeftFullBodyImage.png?itok=CQVQ8moh",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "14",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "35",
+    "height": "72.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.56",
+    "SApM": "1.88",
+    "TDAvg": "0.00",
+    "Sub.Avg": "1.17",
+    "Str.Def": "61",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:03",
+    "Str. Acc.": "44",
+    "TD Acc.": "0"
+  }
+}

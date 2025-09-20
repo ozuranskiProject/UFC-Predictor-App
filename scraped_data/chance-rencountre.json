@@ -1,0 +1,34 @@
+{
+  "name": "Chance Rencountre",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69732/profile-galery/fullbodyleft-picture/RENCOUNTRE_CHANCE_L.png?VersionId=p8uwwdAbDFr2WIk6LFkIbYTeF3SmqVAX&itok=DLzF0i1L",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "14",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "46",
+    "DEC": "31",
+    "SUB": "23"
+  },
+  "bio": {
+    "age": "36",
+    "height": "74.00",
+    "reach": "75.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "1.10",
+    "SApM": "3.62",
+    "TDAvg": "1.35",
+    "Sub.Avg": "0.34",
+    "Str.Def": "49",
+    "TDDef": "17",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:07",
+    "Str. Acc.": "21",
+    "TD Acc.": "27"
+  }
+}

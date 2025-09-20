@@ -1,0 +1,34 @@
+{
+  "name": "Guto Inocente",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/bca47fa2-e87a-47a9-9a21-93140273506f%252FGuto-Inocente_242155_LeftFullBodyImage.png?itok=kd_vk1la",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "6",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "17",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "37",
+    "height": "75.00",
+    "reach": "77.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.13",
+    "SApM": "2.92",
+    "TDAvg": "0.67",
+    "Sub.Avg": "0.67",
+    "Str.Def": "55",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:25",
+    "Str. Acc.": "67",
+    "TD Acc.": "33"
+  }
+}

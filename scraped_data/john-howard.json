@@ -1,0 +1,34 @@
+{
+  "name": "John Howard",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/60582f01-faf1-480d-b322-02ee8bbc21db%252FJohn-Howard_450424_LeftFullBodyImage.png?itok=dgoBw6u-",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "23",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "39",
+    "DEC": "35",
+    "SUB": "26"
+  },
+  "bio": {
+    "age": "40",
+    "height": "67.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.15",
+    "SApM": "3.08",
+    "TDAvg": "2.70",
+    "Sub.Avg": "0.44",
+    "Str.Def": "51",
+    "TDDef": "54",
+    "KDAvg": "0.17",
+    "Avg Fight Time": "12:17",
+    "Str. Acc.": "51",
+    "TD Acc.": "49"
+  }
+}

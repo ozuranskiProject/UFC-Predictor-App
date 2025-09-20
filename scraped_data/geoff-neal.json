@@ -1,0 +1,34 @@
+{
+  "name": "Geoff Neal",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/NEAL_GEOFF_L_08-16.png?itok=q0dLdq5o",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "16",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "25",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "35",
+    "height": "71.00",
+    "reach": "75.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "5.05",
+    "SApM": "5.48",
+    "TDAvg": "0.54",
+    "Sub.Avg": "0.11",
+    "Str.Def": "57",
+    "TDDef": "88",
+    "KDAvg": "0.98",
+    "Avg Fight Time": "09:52",
+    "Str. Acc.": "51",
+    "TD Acc.": "45"
+  }
+}

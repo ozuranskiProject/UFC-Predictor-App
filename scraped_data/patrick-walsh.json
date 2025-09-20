@@ -1,0 +1,34 @@
+{
+  "name": "Patrick Walsh",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/3df6d00d-adc1-4619-9df0-c95e8bc76640%252Fpatrick-walsh_480079_LeftFullBodyImage.png?itok=rOeJWSfh",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "5",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "40",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "34",
+    "height": "71.00",
+    "reach": "73.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.03",
+    "SApM": "2.83",
+    "TDAvg": "3.00",
+    "Sub.Avg": "1.50",
+    "Str.Def": "65",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "19",
+    "TD Acc.": "55"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Alexandre Pantoja",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/PANTOJA_ALEXANDRE_L_BELT_06-28.png?itok=yHJ-9vwc",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "30",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "33",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "35",
+    "height": "65.00",
+    "reach": "67.00",
+    "leg_reach": "36.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.36",
+    "SApM": "3.88",
+    "TDAvg": "2.80",
+    "Sub.Avg": "0.98",
+    "Str.Def": "50",
+    "TDDef": "69",
+    "KDAvg": "0.28",
+    "Avg Fight Time": "12:37",
+    "Str. Acc.": "50",
+    "TD Acc.": "48"
+  }
+}

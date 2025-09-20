@@ -1,0 +1,34 @@
+{
+  "name": "Tanner Boser",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-08/BOSER_TANNER_L_08-05.png?itok=P5cYhy4L",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "21",
+    "losses": "10",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "35",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "32",
+    "height": "74.00",
+    "reach": "75.50",
+    "leg_reach": "43.00",
+    "fighting_style": "Karate"
+  },
+  "fight_stats": {
+    "SLpM": "4.70",
+    "SApM": "2.75",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "63",
+    "KDAvg": "0.27",
+    "Avg Fight Time": "10:59",
+    "Str. Acc.": "53",
+    "TD Acc.": "N/A"
+  }
+}

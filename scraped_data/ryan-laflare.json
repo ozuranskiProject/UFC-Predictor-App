@@ -1,0 +1,34 @@
+{
+  "name": "Ryan LaFlare",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69171/profile-galery/fullbodyleft-picture/Ryan-LaFlare_242414_LeftFullBodyImage.png?itok=RvwMFzqv",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "13",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "46",
+    "SUB": "23"
+  },
+  "bio": {
+    "age": "39",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "42.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.89",
+    "SApM": "1.86",
+    "TDAvg": "2.13",
+    "Sub.Avg": "0.20",
+    "Str.Def": "63",
+    "TDDef": "59",
+    "KDAvg": "0.20",
+    "Avg Fight Time": "14:47",
+    "Str. Acc.": "40",
+    "TD Acc.": "45"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Michael Cora",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/8369eacb-c2fb-4dd8-b858-b536602ebe0f%252FMichael-Cora_631545_LeftFullBodyImage.png?itok=fLPwdJDk",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "4",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "100",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "71.00",
+    "reach": "77.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.80",
+    "SApM": "0.13",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "67",
+    "TDDef": "25",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "29",
+    "TD Acc.": "N/A"
+  }
+}

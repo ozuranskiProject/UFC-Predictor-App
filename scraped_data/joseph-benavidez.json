@@ -1,0 +1,34 @@
+{
+  "name": "Joseph Benavidez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Joseph_Benavidez/BENAVIDEZ_JOSEPH_L.png?VersionId=a8wJrP2mqxdlJbDOx5fZtlHCdVZrg3tZ&itok=H0h-b_YU",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "28",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "39",
+    "SUB": "32"
+  },
+  "bio": {
+    "age": "40",
+    "height": "64.00",
+    "reach": "65.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.52",
+    "SApM": "2.67",
+    "TDAvg": "1.41",
+    "Sub.Avg": "0.59",
+    "Str.Def": "61",
+    "TDDef": "62",
+    "KDAvg": "0.36",
+    "Avg Fight Time": "11:23",
+    "Str. Acc.": "35",
+    "TD Acc.": "31"
+  }
+}

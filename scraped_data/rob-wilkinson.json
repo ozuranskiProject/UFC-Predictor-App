@@ -1,0 +1,34 @@
+{
+  "name": "Rob Wilkinson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/f80c5bc4-3969-4ad1-b379-aabb15654dd1%252FRob-Wilkinson_637988_LeftFullBodyImage.png?itok=OPJbvRM8",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "9",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "31",
+    "height": "75.00",
+    "reach": "80.00",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.74",
+    "SApM": "5.66",
+    "TDAvg": "4.47",
+    "Sub.Avg": "0.00",
+    "Str.Def": "39",
+    "TDDef": "0.00",
+    "KDAvg": "08:24",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "50",
+    "TD Acc.": "25"
+  }
+}

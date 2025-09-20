@@ -1,0 +1,34 @@
+{
+  "name": "Farid Basharat",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BASHARAT_FARID_L_10-26.png?itok=ilnZqEXO",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "13",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "8",
+    "DEC": "46",
+    "SUB": "46"
+  },
+  "bio": {
+    "age": "28",
+    "height": "68.00",
+    "reach": "71.00",
+    "leg_reach": "38.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.36",
+    "SApM": "2.57",
+    "TDAvg": "3.97",
+    "Sub.Avg": "0.47",
+    "Str.Def": "60",
+    "TDDef": "80",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:51",
+    "Str. Acc.": "55",
+    "TD Acc.": "45"
+  }
+}

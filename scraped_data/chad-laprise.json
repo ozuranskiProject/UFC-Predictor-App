@@ -1,0 +1,34 @@
+{
+  "name": "Chad Laprise",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/a614fd14-e600-435d-a5db-895caf41dc32%252FLAPRISE_CHAD_L.png?itok=jNX0s9xM",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "14",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "57",
+    "DEC": "36",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "36",
+    "height": "70.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.78",
+    "SApM": "3.59",
+    "TDAvg": "1.05",
+    "Sub.Avg": "0.00",
+    "Str.Def": "65",
+    "TDDef": "79",
+    "KDAvg": "0.52",
+    "Avg Fight Time": "08:35",
+    "Str. Acc.": "43",
+    "TD Acc.": "55"
+  }
+}

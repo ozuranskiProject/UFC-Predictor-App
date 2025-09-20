@@ -1,0 +1,34 @@
+{
+  "name": "Ryan Hall",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/69177%252Fprofile-galery%252Ffullbodyleft-picture%252FHALL_RYAN_L_07-10.png?itok=VOxaamYk",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "9",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "8",
+    "DEC": "79",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "38",
+    "height": "70.00",
+    "reach": "70.50",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.38",
+    "SApM": "1.33",
+    "TDAvg": "0.22",
+    "Sub.Avg": "2.22",
+    "Str.Def": "66",
+    "TDDef": "0.44",
+    "KDAvg": "11:16",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "50",
+    "TD Acc.": "9"
+  }
+}

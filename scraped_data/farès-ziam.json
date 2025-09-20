@@ -1,0 +1,34 @@
+{
+  "name": "Far\u00e8s Ziam",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/ZIAM_FARES_L_02-01.png?itok=BiJOenDo",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "17",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "35",
+    "DEC": "41",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "27",
+    "height": "73.00",
+    "reach": "75.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "2.85",
+    "SApM": "1.62",
+    "TDAvg": "1.62",
+    "Sub.Avg": "0.25",
+    "Str.Def": "65",
+    "TDDef": "70",
+    "KDAvg": "0.12",
+    "Avg Fight Time": "13:21",
+    "Str. Acc.": "52",
+    "TD Acc.": "41"
+  }
+}

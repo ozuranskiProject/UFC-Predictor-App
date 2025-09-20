@@ -1,0 +1,34 @@
+{
+  "name": "Angel Pacheco",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/PACHECO_ANGEL_L_03-30.png?itok=7wx7dThc",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "0",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "32",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "9.50",
+    "SApM": "11.47",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "41",
+    "TDDef": "29",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "39",
+    "TD Acc.": "0"
+  }
+}

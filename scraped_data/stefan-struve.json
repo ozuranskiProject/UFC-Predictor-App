@@ -1,0 +1,34 @@
+{
+  "name": "Stefan Struve",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-02/STRUVE_STEFAN_L.png?VersionId=.cG0rPsvhW3ZmC.Q1Qr355L1ZQDRBAqU&itok=rlLdIqo6",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "33",
+    "losses": "13",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "24",
+    "DEC": "21",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "35",
+    "height": "84.00",
+    "reach": "84.50",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.12",
+    "SApM": "4.04",
+    "TDAvg": "0.56",
+    "Sub.Avg": "1.68",
+    "Str.Def": "47",
+    "TDDef": "56",
+    "KDAvg": "0.24",
+    "Avg Fight Time": "07:49",
+    "Str. Acc.": "47",
+    "TD Acc.": "47"
+  }
+}

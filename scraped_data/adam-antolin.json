@@ -1,0 +1,34 @@
+{
+  "name": "Adam Antolin",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/Adam-Antolin_636457_LeftFullBodyImage.png?itok=mJNEa8H4",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "13",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "15",
+    "SUB": "69"
+  },
+  "bio": {
+    "age": "41",
+    "height": "65.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.73",
+    "SApM": "5.00",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "69",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:45",
+    "Str. Acc.": "52",
+    "TD Acc.": "0"
+  }
+}

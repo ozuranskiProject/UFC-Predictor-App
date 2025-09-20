@@ -1,0 +1,34 @@
+{
+  "name": "Augusto Mendes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/a56562a0-ad95-4de7-9d52-718ba76d7488%252FAugusto-Mendes_576605_LeftFullBodyImage.png?itok=t5k4UYMV",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "6",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "17",
+    "SUB": "67"
+  },
+  "bio": {
+    "age": "40",
+    "height": "66.00",
+    "reach": "65.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.42",
+    "SApM": "3.91",
+    "TDAvg": "1.75",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "80",
+    "KDAvg": "0.44",
+    "Avg Fight Time": "11:26",
+    "Str. Acc.": "35",
+    "TD Acc.": "33"
+  }
+}

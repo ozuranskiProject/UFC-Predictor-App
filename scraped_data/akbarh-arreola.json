@@ -1,0 +1,34 @@
+{
+  "name": "Akbarh Arreola",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/Akbarh-Arreola_486122_LeftFullBodyImage.png?itok=1sE_85gl",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "23",
+    "losses": "9",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "4",
+    "SUB": "74"
+  },
+  "bio": {
+    "age": "40",
+    "height": "70.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.32",
+    "SApM": "4.01",
+    "TDAvg": "1.07",
+    "Sub.Avg": "0.36",
+    "Str.Def": "57",
+    "TDDef": "33",
+    "KDAvg": "0.72",
+    "Avg Fight Time": "10:28",
+    "Str. Acc.": "45",
+    "TD Acc.": "100"
+  }
+}

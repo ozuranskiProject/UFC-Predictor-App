@@ -1,0 +1,34 @@
+{
+  "name": "Armando Villarreal",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/97344601-ef63-4410-bd6b-98ea6b3171b2%252FVILLARREAL_ARMANDO_R.png?itok=4qP8kn3O",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "5",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "67.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.23",
+    "SApM": "4.30",
+    "TDAvg": "3.23",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "0.00",
+    "KDAvg": "04:39",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "56",
+    "TD Acc.": "25"
+  }
+}

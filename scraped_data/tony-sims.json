@@ -1,0 +1,34 @@
+{
+  "name": "Tony Sims",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/dbe0b933-320f-485a-bd72-72ba2e892c7f%252Ftony-sims_536416_LeftFullBodyImage.png?itok=yA3hgDuS",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "12",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "83",
+    "DEC": "0",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "37",
+    "height": "71.00",
+    "reach": "70.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.81",
+    "SApM": "0.76",
+    "TDAvg": "0.71",
+    "Sub.Avg": "0.71",
+    "Str.Def": "66",
+    "TDDef": "50",
+    "KDAvg": "0.71",
+    "Avg Fight Time": "07:00",
+    "Str. Acc.": "63",
+    "TD Acc.": "50"
+  }
+}

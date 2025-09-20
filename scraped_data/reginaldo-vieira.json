@@ -1,0 +1,34 @@
+{
+  "name": "Reginaldo Vieira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/e10f9cc1-d11c-42f2-957c-361ae8aa2a63%252Freginaldo-vieira_539490_LeftFullBodyImage.png?itok=Xq_zf26_",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "14",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "29",
+    "SUB": "71"
+  },
+  "bio": {
+    "age": "40",
+    "height": "67.00",
+    "reach": "65.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.76",
+    "SApM": "2.89",
+    "TDAvg": "1.97",
+    "Sub.Avg": "0.79",
+    "Str.Def": "59",
+    "TDDef": "25",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:41",
+    "Str. Acc.": "41",
+    "TD Acc.": "28"
+  }
+}

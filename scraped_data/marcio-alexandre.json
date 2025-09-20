@@ -1,0 +1,34 @@
+{
+  "name": "Marcio Alexandre",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/6cb91184-7b7e-493e-b40b-d2fd00202e6d%252Fmarcio-alexandre_477645_LeftFullBodyImage.png?itok=qxDUFrcr",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "13",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "77",
+    "DEC": "8",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "34",
+    "height": "73.00",
+    "reach": "75.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.61",
+    "SApM": "2.89",
+    "TDAvg": "0.35",
+    "Sub.Avg": "0.71",
+    "Str.Def": "42",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:34",
+    "Str. Acc.": "45",
+    "TD Acc.": "20"
+  }
+}

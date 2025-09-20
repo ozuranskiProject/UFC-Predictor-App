@@ -1,0 +1,34 @@
+{
+  "name": "Mehdi Baghdad",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/88c742b6-1fb3-49d8-8690-8dbda57d8b70%252FMehdi-Baghdad_576507_LeftFullBodyImage.png?itok=_ONJdh_c",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "11",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "0",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "38",
+    "height": "73.00",
+    "reach": "75.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.13",
+    "SApM": "4.56",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "46",
+    "TDDef": "33",
+    "KDAvg": "0.77",
+    "Avg Fight Time": "09:45",
+    "Str. Acc.": "31",
+    "TD Acc.": "0"
+  }
+}

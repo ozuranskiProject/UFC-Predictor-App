@@ -1,0 +1,34 @@
+{
+  "name": "Matt Hobar",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/42dd1602-d506-425d-824a-90867cc429dd%252FMatt-Hobar_480849_LeftFullBodyImage.png?itok=zUnTkQdw",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "44",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "36",
+    "height": "70.00",
+    "reach": "70.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.23",
+    "SApM": "4.27",
+    "TDAvg": "3.66",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "50",
+    "KDAvg": "0.46",
+    "Avg Fight Time": "10:56",
+    "Str. Acc.": "42",
+    "TD Acc.": "44"
+  }
+}

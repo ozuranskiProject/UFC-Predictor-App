@@ -1,0 +1,34 @@
+{
+  "name": "Shanna Young",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-08/YOUNG_SHANNA_L_08-20.png?itok=pQ8vIviB",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "9",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "44",
+    "SUB": "22"
+  },
+  "bio": {
+    "age": "32",
+    "height": "67.00",
+    "reach": "65.00",
+    "leg_reach": "39.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.18",
+    "SApM": "4.88",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.56",
+    "Str.Def": "43",
+    "TDDef": "54",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:42",
+    "Str. Acc.": "48",
+    "TD Acc.": "0"
+  }
+}

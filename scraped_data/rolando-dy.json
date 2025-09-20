@@ -1,0 +1,34 @@
+{
+  "name": "Rolando Dy",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69134/profile-galery/fullbodyleft-picture/Rolando-Dy_630706_LeftFullBodyImage.png?VersionId=.6_7i7cTapSlF7PUhtnMPGFUsN7sU8WV&itok=mpz3vqpX",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "9",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "56",
+    "SUB": "22"
+  },
+  "bio": {
+    "age": "32",
+    "height": "68.00",
+    "reach": "69.50",
+    "leg_reach": "36.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.04",
+    "SApM": "4.47",
+    "TDAvg": "0.30",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "68",
+    "KDAvg": "0.30",
+    "Avg Fight Time": "12:25",
+    "Str. Acc.": "38",
+    "TD Acc.": "20"
+  }
+}

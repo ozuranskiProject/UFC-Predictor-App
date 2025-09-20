@@ -1,0 +1,34 @@
+{
+  "name": "Kendall Grove",
+  "profile_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "14",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "40",
+    "height": "78.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.31",
+    "SApM": "2.40",
+    "TDAvg": "0.49",
+    "Sub.Avg": "1.67",
+    "Str.Def": "55",
+    "TDDef": "57",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "10:12",
+    "Str. Acc.": "41",
+    "TD Acc.": "45"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Joe Pyfer",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-06/PYFER_JOE_L_06-29.png?itok=y6A9VHvR",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "14",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "64",
+    "DEC": "14",
+    "SUB": "21"
+  },
+  "bio": {
+    "age": "28",
+    "height": "74.00",
+    "reach": "75.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "3.74",
+    "SApM": "3.20",
+    "TDAvg": "1.35",
+    "Sub.Avg": "0.68",
+    "Str.Def": "55",
+    "TDDef": "60",
+    "KDAvg": "1.13",
+    "Avg Fight Time": "08:20",
+    "Str. Acc.": "43",
+    "TD Acc.": "43"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Mark Godbeer",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68716/profile-galery/fullbodyleft-picture/mark-godbeer_607546_LeftFullBodyImage.png?VersionId=FOuv8o5s4HHcnYOkljUpcE3f53evSQjL&itok=8p4ybMSm",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "13",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "69",
+    "DEC": "15",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "39",
+    "height": "76.00",
+    "reach": "77.50",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.97",
+    "SApM": "3.30",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "29",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:49",
+    "Str. Acc.": "54",
+    "TD Acc.": "0"
+  }
+}

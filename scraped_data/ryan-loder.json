@@ -1,0 +1,34 @@
+{
+  "name": "Ryan Loder",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/LODER_RYAN_L_05-03.png?itok=GPvIW6AS",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "38",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "73.00",
+    "reach": "76.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "5.76",
+    "SApM": "2.51",
+    "TDAvg": "1.57",
+    "Sub.Avg": "1.57",
+    "Str.Def": "50",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "04:47",
+    "Str. Acc.": "71",
+    "TD Acc.": "14"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Kelly Velasco",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/78eca572-728c-4edb-b166-7d09b5bbc713%252FKelly-Velasco_636456_LeftFullBodyImage.png?itok=QKu8MmFt",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "2",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "28",
+    "height": "69.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.27",
+    "SApM": "5.67",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "48",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "35",
+    "TD Acc.": "0"
+  }
+}

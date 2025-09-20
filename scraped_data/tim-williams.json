@@ -1,0 +1,34 @@
+{
+  "name": "Tim Williams",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/WILLIAMS_TIM_R_0.png?VersionId=Exw.9BJDhZbvsf5kDnz2FycDqkOUOwZ6&itok=WXoqFO4-",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "15",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "13",
+    "DEC": "27",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "36",
+    "height": "74.00",
+    "reach": "76.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.07",
+    "SApM": "3.55",
+    "TDAvg": "1.81",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:18",
+    "Str. Acc.": "39",
+    "TD Acc.": "40"
+  }
+}

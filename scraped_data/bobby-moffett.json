@@ -1,0 +1,34 @@
+{
+  "name": "Bobby Moffett",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67477/profile-galery/fullbodyleft-picture/MOFFETT_BOBBY_L.png?VersionId=StruM.JDt14QPAW4qmQryMwFU31Q9fOI&itok=7x8udUTK",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "12",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "7",
+    "DEC": "29",
+    "SUB": "64"
+  },
+  "bio": {
+    "age": "33",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.41",
+    "SApM": "3.15",
+    "TDAvg": "2.74",
+    "Sub.Avg": "1.37",
+    "Str.Def": "61",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:56",
+    "Str. Acc.": "40",
+    "TD Acc.": "67"
+  }
+}

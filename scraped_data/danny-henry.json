@@ -1,0 +1,34 @@
+{
+  "name": "Danny Henry",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Danny_Henry/HENRY_DANNY_L.png?VersionId=Z2n4_27vdgjBjRVmzAJSWC9BtGhF2Gdl&itok=AocM2Tt8",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "12",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "42",
+    "DEC": "17",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "34",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "5.20",
+    "SApM": "4.16",
+    "TDAvg": "0.74",
+    "Sub.Avg": "2.23",
+    "Str.Def": "46",
+    "TDDef": "50",
+    "KDAvg": "1.49",
+    "Avg Fight Time": "05:03",
+    "Str. Acc.": "52",
+    "TD Acc.": "33"
+  }
+}

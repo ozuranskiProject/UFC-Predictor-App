@@ -1,0 +1,34 @@
+{
+  "name": "Mark Madsen",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/MADSEN_MARK_O_L_11-11.png?itok=IlnRezZ0",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "25",
+    "DEC": "50",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "39",
+    "height": "68.00",
+    "reach": "72.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.56",
+    "SApM": "3.97",
+    "TDAvg": "2.86",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "63",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:30",
+    "Str. Acc.": "49",
+    "TD Acc.": "67"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Dequan Townsend",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-10/67806%252Fprofile-galery%252Ffullbodyleft-picture%252FTOWNSEND_DEQUAN_L_06-29.png?VersionId=HSRGDMGZ3T4n48VezO3xksmQRe5lcgT.&itok=hIFBBH90",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "21",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "57",
+    "DEC": "19",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "37",
+    "height": "75.00",
+    "reach": "79.00",
+    "leg_reach": "43.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "1.23",
+    "SApM": "3.92",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "39",
+    "TDDef": "47",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:14",
+    "Str. Acc.": "35",
+    "TD Acc.": "N/A"
+  }
+}

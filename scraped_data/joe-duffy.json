@@ -1,0 +1,34 @@
+{
+  "name": "Joe Duffy",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-07/DUFFY_JOE_L_03-16.png?VersionId=m1mrpphjnpe9JSd.9y5bOoeYvpmC3Vjy&itok=Arr1eCc6",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "16",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "25",
+    "DEC": "13",
+    "SUB": "63"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.68",
+    "SApM": "3.78",
+    "TDAvg": "0.96",
+    "Sub.Avg": "0.72",
+    "Str.Def": "55",
+    "TDDef": "64",
+    "KDAvg": "0.48",
+    "Avg Fight Time": "07:50",
+    "Str. Acc.": "34",
+    "TD Acc.": "67"
+  }
+}

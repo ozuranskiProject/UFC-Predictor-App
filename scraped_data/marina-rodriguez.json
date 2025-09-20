@@ -1,0 +1,34 @@
+{
+  "name": "Marina Rodriguez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/RODRIGUEZ_MARINA_L_05-03.png?itok=8xlRFvhz",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "17",
+    "losses": "6",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "53",
+    "SUB": "6"
+  },
+  "bio": {
+    "age": "38",
+    "height": "66.00",
+    "reach": "65.00",
+    "leg_reach": "38.50",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "4.51",
+    "SApM": "3.01",
+    "TDAvg": "0.27",
+    "Sub.Avg": "0.27",
+    "Str.Def": "56",
+    "TDDef": "61",
+    "KDAvg": "0.14",
+    "Avg Fight Time": "13:44",
+    "Str. Acc.": "46",
+    "TD Acc.": "50"
+  }
+}

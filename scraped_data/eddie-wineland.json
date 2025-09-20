@@ -1,0 +1,34 @@
+{
+  "name": "Eddie Wineland",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/4a72ec41-026d-4b80-a18a-227f72333cbd%252FWINELAND_EDDIE_L_06-18.png?itok=qKZFBu13",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "24",
+    "losses": "16",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "21",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "38",
+    "height": "67.50",
+    "reach": "69.00",
+    "leg_reach": "36.50",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "3.40",
+    "SApM": "3.76",
+    "TDAvg": "0.34",
+    "Sub.Avg": "0.14",
+    "Str.Def": "68",
+    "TDDef": "86",
+    "KDAvg": "0.88",
+    "Avg Fight Time": "09:38",
+    "Str. Acc.": "29",
+    "TD Acc.": "33"
+  }
+}

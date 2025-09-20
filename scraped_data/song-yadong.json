@@ -1,0 +1,34 @@
+{
+  "name": "Song Yadong",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/YADONG_SONG_L_03-09.png?itok=xw8vczlz",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "22",
+    "losses": "8",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "45",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "27",
+    "height": "68.00",
+    "reach": "67.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Boxer"
+  },
+  "fight_stats": {
+    "SLpM": "4.58",
+    "SApM": "4.00",
+    "TDAvg": "0.61",
+    "Sub.Avg": "0.15",
+    "Str.Def": "56",
+    "TDDef": "74",
+    "KDAvg": "0.54",
+    "Avg Fight Time": "13:05",
+    "Str. Acc.": "44",
+    "TD Acc.": "38"
+  }
+}

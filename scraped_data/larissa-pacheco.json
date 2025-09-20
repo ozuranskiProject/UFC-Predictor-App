@@ -1,0 +1,34 @@
+{
+  "name": "Larissa Pacheco",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/0b955f52-4b5f-471e-8c45-9b0f55c196fe%252Flarissa-pacheco_498883_LeftFullBodyImage.png?itok=oMU0s-bO",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "0",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "28",
+    "height": "64.00",
+    "reach": "69.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.21",
+    "SApM": "4.14",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "0.00",
+    "KDAvg": "05:48",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "19",
+    "TD Acc.": "0"
+  }
+}

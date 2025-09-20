@@ -1,0 +1,34 @@
+{
+  "name": "Alice Ardelean",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/1/ARDELEAN_ALICE_R_07-27.png?itok=vwGY8LDS",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "10",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "20",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "33",
+    "height": "63.00",
+    "reach": "62.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "6.73",
+    "SApM": "5.04",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "88",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "44",
+    "TD Acc.": "50"
+  }
+}

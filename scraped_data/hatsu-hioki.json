@@ -1,0 +1,34 @@
+{
+  "name": "Hatsu Hioki",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/dd2cf54c-8109-4af6-923b-c9fda3f8676c%252FHatsu-Hioki_205685_LeftFullBodyImage.png?itok=0NFcoVN2",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "27",
+    "losses": "8",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "41",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "39",
+    "height": "71.00",
+    "reach": "70.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.42",
+    "SApM": "2.12",
+    "TDAvg": "2.55",
+    "Sub.Avg": "0.61",
+    "Str.Def": "66",
+    "TDDef": "54",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:45",
+    "Str. Acc.": "42",
+    "TD Acc.": "57"
+  }
+}

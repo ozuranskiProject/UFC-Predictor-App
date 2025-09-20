@@ -1,0 +1,34 @@
+{
+  "name": "George Sullivan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68008/profile-galery/fullbodyleft-picture/George-Sullivan_469417_LeftFullBodyImage.png?itok=OOHTRhbL",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "17",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "65",
+    "DEC": "35",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "42",
+    "height": "72.00",
+    "reach": "73.50",
+    "leg_reach": "41.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.53",
+    "SApM": "2.42",
+    "TDAvg": "1.37",
+    "Sub.Avg": "0.69",
+    "Str.Def": "58",
+    "TDDef": "38",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:23",
+    "Str. Acc.": "40",
+    "TD Acc.": "21"
+  }
+}

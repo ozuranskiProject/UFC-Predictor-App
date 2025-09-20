@@ -1,0 +1,34 @@
+{
+  "name": "Chelsea Chandler",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/CHANDLER_CHELSEA_L_04-26.png?itok=UwbsUHze",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "6",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "50",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "34",
+    "height": "68.50",
+    "reach": "68.00",
+    "leg_reach": "40.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.55",
+    "SApM": "4.44",
+    "TDAvg": "0.87",
+    "Sub.Avg": "0.00",
+    "Str.Def": "40",
+    "TDDef": "29",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:21",
+    "Str. Acc.": "45",
+    "TD Acc.": "60"
+  }
+}

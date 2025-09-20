@@ -1,0 +1,34 @@
+{
+  "name": "Mizuto Hirota",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68858/profile-galery/fullbodyleft-picture/HIROTA_MIZUTO_L.png?itok=AR2T0GBj",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "19",
+    "losses": "10",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "53",
+    "DEC": "47",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "42",
+    "height": "67.00",
+    "reach": "67.50",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.36",
+    "SApM": "3.50",
+    "TDAvg": "1.36",
+    "Sub.Avg": "0.12",
+    "Str.Def": "55",
+    "TDDef": "59",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:29",
+    "Str. Acc.": "41",
+    "TD Acc.": "50"
+  }
+}

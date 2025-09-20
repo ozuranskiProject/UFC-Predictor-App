@@ -1,0 +1,34 @@
+{
+  "name": "Zach Makovsky",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/9b66dea8-99c9-4a00-a8fb-1fb2e4df6426%252FZach-Makovsky_465421_LeftFullBodyImage.png?itok=F1pNoBn8",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "19",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "6",
+    "DEC": "61",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "40",
+    "height": "64.00",
+    "reach": "64.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.94",
+    "SApM": "2.24",
+    "TDAvg": "3.71",
+    "Sub.Avg": "0.29",
+    "Str.Def": "62",
+    "TDDef": "57",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "43",
+    "TD Acc.": "31"
+  }
+}

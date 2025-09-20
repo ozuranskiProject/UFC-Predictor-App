@@ -1,0 +1,34 @@
+{
+  "name": "Preston Parsons",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/12/PARSONS_PRESTON_L_01-11.png?itok=9c2uj9xk",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "18",
+    "SUB": "82"
+  },
+  "bio": {
+    "age": "30",
+    "height": "71.00",
+    "reach": "71.00",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.54",
+    "SApM": "3.25",
+    "TDAvg": "3.46",
+    "Sub.Avg": "2.31",
+    "Str.Def": "55",
+    "TDDef": "71",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:50",
+    "Str. Acc.": "52",
+    "TD Acc.": "37"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Craig White",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/craig_white/WHITE_CRAIG_R.png?VersionId=9kZgaKXJPYCQ0BCUvjVrW5fRrQM86EMW&itok=gdbEe9jL",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "14",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "0",
+    "SUB": "64"
+  },
+  "bio": {
+    "age": "32",
+    "height": "74.00",
+    "reach": "76.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.23",
+    "SApM": "3.28",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.77",
+    "Str.Def": "40",
+    "TDDef": "50",
+    "KDAvg": "0.77",
+    "Avg Fight Time": "09:46",
+    "Str. Acc.": "41",
+    "TD Acc.": "0"
+  }
+}

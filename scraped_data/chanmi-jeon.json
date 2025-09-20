@@ -1,0 +1,34 @@
+{
+  "name": "Chanmi Jeon",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67120/profile-galery/fullbodyleft-picture/chan-mi-jeon_629960_LeftFullBodyImage.png?VersionId=T1ZAXQ5zcYGv91vD.5l77S_ewDs6hNIp&itok=6-OBfJFC",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "5",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "80",
+    "DEC": "20",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "25",
+    "height": "65.00",
+    "reach": "67.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "6.23",
+    "SApM": "7.77",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "32",
+    "TD Acc.": "N/A"
+  }
+}

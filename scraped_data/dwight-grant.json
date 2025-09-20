@@ -1,0 +1,34 @@
+{
+  "name": "Dwight Grant",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-04/568fd758-44ac-4a61-b6d5-a4885e36c80e%252FGRANT_DWIGHT_L_04-23.png?itok=BeaxzyDK",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "11",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "64",
+    "DEC": "36",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "38",
+    "height": "73.00",
+    "reach": "76.00",
+    "leg_reach": "44.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "3.29",
+    "SApM": "2.66",
+    "TDAvg": "0.61",
+    "Sub.Avg": "0.00",
+    "Str.Def": "61",
+    "TDDef": "67",
+    "KDAvg": "0.61",
+    "Avg Fight Time": "10:58",
+    "Str. Acc.": "36",
+    "TD Acc.": "100"
+  }
+}

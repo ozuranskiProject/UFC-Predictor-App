@@ -1,0 +1,34 @@
+{
+  "name": "Tae Hyun Bang",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/892e26ad-6b0a-4e0d-9419-7f626b0b716a%252FTae-Hyun-Bang_464449_LeftFullBodyImage.png?itok=35l2LK9v",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "18",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "40",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.72",
+    "SApM": "2.07",
+    "TDAvg": "0.49",
+    "Sub.Avg": "0.49",
+    "Str.Def": "66",
+    "TDDef": "58",
+    "KDAvg": "0.74",
+    "Avg Fight Time": "12:11",
+    "Str. Acc.": "38",
+    "TD Acc.": "33"
+  }
+}

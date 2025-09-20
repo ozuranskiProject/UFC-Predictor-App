@@ -1,0 +1,34 @@
+{
+  "name": "Andrew Holbrook",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/andrew-holbrook_537071_LeftFullBodyImage.png?itok=goZoDv24",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "9",
+    "SUB": "64"
+  },
+  "bio": {
+    "age": "37",
+    "height": "71.00",
+    "reach": "70.00",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.20",
+    "SApM": "3.00",
+    "TDAvg": "0.85",
+    "Sub.Avg": "2.12",
+    "Str.Def": "54",
+    "TDDef": "10",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:05",
+    "Str. Acc.": "49",
+    "TD Acc.": "18"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Michael Kuiper",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/2384a9d0-ad1f-4543-b813-fc21cd1b7ee0%252FMichael-Kuiper_230770_LeftFullBodyImage.png?itok=g46On4sG",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "12",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "58",
+    "DEC": "8",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "34",
+    "height": "72.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.28",
+    "SApM": "3.62",
+    "TDAvg": "2.30",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "79",
+    "KDAvg": "1.38",
+    "Avg Fight Time": "08:10",
+    "Str. Acc.": "55",
+    "TD Acc.": "56"
+  }
+}

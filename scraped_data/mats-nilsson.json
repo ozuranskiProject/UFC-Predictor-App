@@ -1,0 +1,34 @@
+{
+  "name": "Mats Nilsson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68752/profile-galery/fullbodyleft-picture/Mats-Nilsson_466134_LeftFullBodyImage.png?VersionId=zIwQoooDVNbe66PEBvEQGgheLG1JSz0R&itok=99BFNhnz",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "4",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "36",
+    "SUB": "45"
+  },
+  "bio": {
+    "age": "39",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.99",
+    "SApM": "5.62",
+    "TDAvg": "3.87",
+    "Sub.Avg": "2.32",
+    "Str.Def": "64",
+    "TDDef": "44",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:42",
+    "Str. Acc.": "39",
+    "TD Acc.": "83"
+  }
+}

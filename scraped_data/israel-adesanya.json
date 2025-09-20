@@ -1,0 +1,34 @@
+{
+  "name": "Israel Adesanya",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/ADESANYA_ISRAEL_L_02-01.png?itok=QylnV-fZ",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "24",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "33",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "36",
+    "height": "76.00",
+    "reach": "80.00",
+    "leg_reach": "44.50",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.02",
+    "SApM": "3.20",
+    "TDAvg": "0.05",
+    "Sub.Avg": "0.14",
+    "Str.Def": "56",
+    "TDDef": "77",
+    "KDAvg": "0.62",
+    "Avg Fight Time": "17:35",
+    "Str. Acc.": "48",
+    "TD Acc.": "11"
+  }
+}

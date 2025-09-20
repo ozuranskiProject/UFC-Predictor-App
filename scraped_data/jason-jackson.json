@@ -1,0 +1,34 @@
+{
+  "name": "Jason Jackson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/bc4d727b-580b-4843-af4a-14a48d590d03%252Fjason-jackson_530260_LeftFullBodyImage.png?itok=4GvTp1gV",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "29",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "32",
+    "height": "73.00",
+    "reach": "78.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.24",
+    "SApM": "1.31",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "2.80",
+    "KDAvg": "05:21",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "48",
+    "TD Acc.": "0"
+  }
+}

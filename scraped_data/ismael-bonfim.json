@@ -1,0 +1,34 @@
+{
+  "name": "Ismael Bonfim",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/BONFIM_ISMAEL_L_02-15.png?itok=kKrg5ner",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "20",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "45",
+    "DEC": "35",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "29",
+    "height": "68.00",
+    "reach": "71.50",
+    "leg_reach": "35.00",
+    "fighting_style": "Boxer"
+  },
+  "fight_stats": {
+    "SLpM": "5.73",
+    "SApM": "3.10",
+    "TDAvg": "0.96",
+    "Sub.Avg": "0.00",
+    "Str.Def": "71",
+    "TDDef": "77",
+    "KDAvg": "0.64",
+    "Avg Fight Time": "09:25",
+    "Str. Acc.": "55",
+    "TD Acc.": "33"
+  }
+}

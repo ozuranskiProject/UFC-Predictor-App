@@ -1,0 +1,34 @@
+{
+  "name": "Ross Pearson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Ross_Pearson/PEARSON_ROSS_L.png?VersionId=AGAmplZvoKETfW2hAJo3tmjyRV1aBUdo&itok=7HdGn-xd",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "22",
+    "losses": "16",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "45",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "38",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.68",
+    "SApM": "4.09",
+    "TDAvg": "0.74",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "75",
+    "KDAvg": "0.30",
+    "Avg Fight Time": "11:39",
+    "Str. Acc.": "40",
+    "TD Acc.": "36"
+  }
+}

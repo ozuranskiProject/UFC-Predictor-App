@@ -1,0 +1,34 @@
+{
+  "name": "Irina Alekseeva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/ALEKSEEVA_IRINA_L_06-21.png?itok=sKQPmaLX",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "5",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "40",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "34",
+    "height": "68.00",
+    "reach": "67.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Sambo"
+  },
+  "fight_stats": {
+    "SLpM": "4.01",
+    "SApM": "5.03",
+    "TDAvg": "0.47",
+    "Sub.Avg": "0.47",
+    "Str.Def": "46",
+    "TDDef": "67",
+    "KDAvg": "0.47",
+    "Avg Fight Time": "10:44",
+    "Str. Acc.": "39",
+    "TD Acc.": "20"
+  }
+}

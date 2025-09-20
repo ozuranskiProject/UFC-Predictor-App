@@ -1,0 +1,34 @@
+{
+  "name": "Thibault Gouti",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69365/profile-galery/fullbodyleft-picture/thibault-gouti_580570_LeftFullBodyImage.png?itok=UEV35KmN",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "12",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "17",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "36",
+    "height": "70.00",
+    "reach": "72.50",
+    "leg_reach": "41.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.68",
+    "SApM": "5.64",
+    "TDAvg": "1.23",
+    "Sub.Avg": "0.31",
+    "Str.Def": "50",
+    "TDDef": "83",
+    "KDAvg": "0.31",
+    "Avg Fight Time": "08:09",
+    "Str. Acc.": "34",
+    "TD Acc.": "80"
+  }
+}

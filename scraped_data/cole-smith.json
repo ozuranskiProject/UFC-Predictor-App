@@ -1,0 +1,34 @@
+{
+  "name": "Cole Smith",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-09/SMITH_COLE_L_05-04.png?VersionId=wwjdco467kPKt3IBZ30kIe16WLsBEYVI&itok=JE1Ugp2K",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "29",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "34",
+    "height": "71.00",
+    "reach": "67.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.78",
+    "SApM": "1.96",
+    "TDAvg": "1.67",
+    "Sub.Avg": "1.67",
+    "Str.Def": "50",
+    "TDDef": "45",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "35",
+    "TD Acc.": "33"
+  }
+}

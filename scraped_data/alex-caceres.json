@@ -1,0 +1,34 @@
+{
+  "name": "Alex Caceres",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/CACERES_ALEX_L_06-03.png?itok=IHWkf_-E",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "21",
+    "losses": "15",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "19",
+    "DEC": "48",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "73.50",
+    "leg_reach": "41.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.21",
+    "SApM": "3.09",
+    "TDAvg": "0.54",
+    "Sub.Avg": "0.67",
+    "Str.Def": "63",
+    "TDDef": "65",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "12:02",
+    "Str. Acc.": "50",
+    "TD Acc.": "68"
+  }
+}

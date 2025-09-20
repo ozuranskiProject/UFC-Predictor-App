@@ -1,0 +1,34 @@
+{
+  "name": "Juancamilo Ronderos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/RONDEROS_JAUNCAMILO_L_02-18.png?itok=O7T1YeDU",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "4",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "50",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "28",
+    "height": "63.00",
+    "reach": "64.50",
+    "leg_reach": "34.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.18",
+    "SApM": "2.18",
+    "TDAvg": "2.72",
+    "Sub.Avg": "0.00",
+    "Str.Def": "64",
+    "TDDef": "0.00",
+    "KDAvg": "02:46",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "31",
+    "TD Acc.": "33"
+  }
+}

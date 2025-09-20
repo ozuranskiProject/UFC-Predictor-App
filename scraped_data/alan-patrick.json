@@ -1,0 +1,34 @@
+{
+  "name": "Alan Patrick",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-08/2d452983-441e-45e0-8c54-2175f9117930%252FPATRICK_ALAN_L_05-14.png?itok=m9S78b3K",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "15",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "60",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "39",
+    "height": "70.00",
+    "reach": "74.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "1.82",
+    "SApM": "2.95",
+    "TDAvg": "3.01",
+    "Sub.Avg": "0.26",
+    "Str.Def": "43",
+    "TDDef": "44",
+    "KDAvg": "0.13",
+    "Avg Fight Time": "11:28",
+    "Str. Acc.": "41",
+    "TD Acc.": "33"
+  }
+}

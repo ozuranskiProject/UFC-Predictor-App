@@ -1,0 +1,34 @@
+{
+  "name": "Josiane Nunes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/NUNES_JOSIANE_L_03-15.png?itok=sf_AkEIL",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "70",
+    "DEC": "30",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "62.00",
+    "reach": "67.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "5.65",
+    "SApM": "5.76",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "58",
+    "KDAvg": "0.67",
+    "Avg Fight Time": "11:17",
+    "Str. Acc.": "43",
+    "TD Acc.": "0"
+  }
+}

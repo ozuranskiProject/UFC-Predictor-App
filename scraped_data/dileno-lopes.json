@@ -1,0 +1,34 @@
+{
+  "name": "Dileno Lopes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/29785c66-48cf-4ad8-ba75-2e4889b80210%252Fdileno-lopes_539488_LeftFullBodyImage.png?itok=hJC5dZdW",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "19",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "21",
+    "DEC": "16",
+    "SUB": "63"
+  },
+  "bio": {
+    "age": "38",
+    "height": "65.00",
+    "reach": "65.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.37",
+    "SApM": "3.33",
+    "TDAvg": "2.50",
+    "Sub.Avg": "1.50",
+    "Str.Def": "54",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "36",
+    "TD Acc.": "31"
+  }
+}

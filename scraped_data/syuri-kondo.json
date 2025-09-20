@@ -1,0 +1,34 @@
+{
+  "name": "Syuri Kondo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69315/profile-galery/fullbodyleft-picture/KONDO_SYURI_L.png?itok=hym9Hd70",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "6",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "83",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "34",
+    "height": "64.00",
+    "reach": "66.50",
+    "leg_reach": "40.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "5.40",
+    "SApM": "7.22",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.33",
+    "Str.Def": "58",
+    "TDDef": "83",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:23",
+    "Str. Acc.": "45",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Chepe Mariscal",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/MARISCAL_CHEPE_L_08-10.png?itok=0rEy-YwS",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "18",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "39",
+    "DEC": "44",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "32",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Brawler"
+  },
+  "fight_stats": {
+    "SLpM": "4.95",
+    "SApM": "3.07",
+    "TDAvg": "2.85",
+    "Sub.Avg": "0.22",
+    "Str.Def": "52",
+    "TDDef": "73",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:40",
+    "Str. Acc.": "56",
+    "TD Acc.": "39"
+  }
+}

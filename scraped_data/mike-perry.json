@@ -1,0 +1,34 @@
+{
+  "name": "Mike Perry",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-04/68841%252Fprofile-galery%252Ffullbodyleft-picture%252FPERRY_MIKE_L_04-10.png?itok=tt73vAH3",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "14",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "79",
+    "DEC": "21",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "70.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.32",
+    "SApM": "5.16",
+    "TDAvg": "0.81",
+    "Sub.Avg": "0.18",
+    "Str.Def": "53",
+    "TDDef": "79",
+    "KDAvg": "0.72",
+    "Avg Fight Time": "11:08",
+    "Str. Acc.": "47",
+    "TD Acc.": "41"
+  }
+}

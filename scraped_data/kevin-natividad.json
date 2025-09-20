@@ -1,0 +1,34 @@
+{
+  "name": "Kevin Natividad",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-01/NATIVIDAD_KEVIN_L.png?itok=naM22p0q",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "9",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "56",
+    "DEC": "33",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "30",
+    "height": "66.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.68",
+    "SApM": "4.29",
+    "TDAvg": "3.66",
+    "Sub.Avg": "0.00",
+    "Str.Def": "48",
+    "TDDef": "83",
+    "KDAvg": "0.52",
+    "Avg Fight Time": "09:34",
+    "Str. Acc.": "34",
+    "TD Acc.": "50"
+  }
+}

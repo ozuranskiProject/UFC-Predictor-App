@@ -1,0 +1,34 @@
+{
+  "name": "Miesha Tate",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/TATE_MIESHA_L_12-02.png?itok=33Mu8swx",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "20",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "40",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "39",
+    "height": "66.00",
+    "reach": "65.00",
+    "leg_reach": "37.50",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "2.62",
+    "SApM": "3.05",
+    "TDAvg": "1.97",
+    "Sub.Avg": "1.22",
+    "Str.Def": "51",
+    "TDDef": "56",
+    "KDAvg": "0.05",
+    "Avg Fight Time": "12:49",
+    "Str. Acc.": "44",
+    "TD Acc.": "31"
+  }
+}

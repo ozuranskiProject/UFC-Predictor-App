@@ -1,0 +1,34 @@
+{
+  "name": "Lu Kai",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/102cd70e-1692-4e81-9f1e-08bc2acf9125%252FKAI_LU_L.png?itok=OmnOkqjo",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "1",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "29",
+    "height": "N/A",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.76",
+    "SApM": "5.51",
+    "TDAvg": "2.62",
+    "Sub.Avg": "2.62",
+    "Str.Def": "56",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "03:49",
+    "Str. Acc.": "44",
+    "TD Acc.": "50"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Seokhyeon Ko",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/KO_SEOKHYEON_L_06-21.png?itok=a1jcLQx-",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "70.00",
+    "reach": "71.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Judo"
+  },
+  "fight_stats": {
+    "SLpM": "2.90",
+    "SApM": "2.00",
+    "TDAvg": "4.00",
+    "Sub.Avg": "0.50",
+    "Str.Def": "59",
+    "TDDef": "75",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "53",
+    "TD Acc.": "53"
+  }
+}

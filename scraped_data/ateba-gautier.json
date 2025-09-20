@@ -1,0 +1,34 @@
+{
+  "name": "Ateba Gautier",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/GAUTIER_ATEBA_L_07-19.png?itok=tQw4jZcm",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "8",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "88",
+    "DEC": "13",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "23",
+    "height": "76.00",
+    "reach": "81.00",
+    "leg_reach": "44.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "6.93",
+    "SApM": "2.19",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "91",
+    "KDAvg": "3.28",
+    "Avg Fight Time": "04:34",
+    "Str. Acc.": "62",
+    "TD Acc.": "N/A"
+  }
+}

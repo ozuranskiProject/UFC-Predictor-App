@@ -1,0 +1,34 @@
+{
+  "name": "Christian Aguilera",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-05/71629%252Fprofile-galery%252Ffullbodyleft-picture%252FAGUILERA_CHRISTIAN_L_05-08.png?itok=BBbhoKSY",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "14",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "27",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "2.54",
+    "SApM": "4.04",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "03:33",
+    "Str. Acc.": "38",
+    "TD Acc.": "0"
+  }
+}

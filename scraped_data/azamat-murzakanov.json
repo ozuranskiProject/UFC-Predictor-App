@@ -1,0 +1,34 @@
+{
+  "name": "Azamat Murzakanov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/MURZAKANOV_AZAMAT_L_06-07.png?itok=c9W1Ryfv",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "15",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "20",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "36",
+    "height": "70.00",
+    "reach": "71.50",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.93",
+    "SApM": "2.86",
+    "TDAvg": "0.58",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "83",
+    "KDAvg": "1.74",
+    "Avg Fight Time": "08:38",
+    "Str. Acc.": "58",
+    "TD Acc.": "15"
+  }
+}

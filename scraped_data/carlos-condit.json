@@ -1,0 +1,34 @@
+{
+  "name": "Carlos Condit",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/67555%252Fprofile-galery%252Ffullbodyleft-picture%252FCONDIT_CARLOS_L_07-10.png?itok=y7eN0SWo",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "32",
+    "losses": "14",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "47",
+    "DEC": "13",
+    "SUB": "41"
+  },
+  "bio": {
+    "age": "39",
+    "height": "74.00",
+    "reach": "75.50",
+    "leg_reach": "44.00",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "3.66",
+    "SApM": "2.67",
+    "TDAvg": "0.59",
+    "Sub.Avg": "0.99",
+    "Str.Def": "55",
+    "TDDef": "39",
+    "KDAvg": "0.39",
+    "Avg Fight Time": "12:10",
+    "Str. Acc.": "39",
+    "TD Acc.": "46"
+  }
+}

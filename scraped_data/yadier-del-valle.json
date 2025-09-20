@@ -1,0 +1,34 @@
+{
+  "name": "Yadier del Valle",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/DEL_VALLE_YADIER_L_05-17.png?itok=1mZzAoFJ",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "9",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "44",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "28",
+    "height": "69.00",
+    "reach": "69.00",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "7.49",
+    "SApM": "3.46",
+    "TDAvg": "2.51",
+    "Sub.Avg": "1.68",
+    "Str.Def": "52",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:57",
+    "Str. Acc.": "67",
+    "TD Acc.": "43"
+  }
+}

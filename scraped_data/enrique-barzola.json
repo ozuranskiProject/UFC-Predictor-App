@@ -1,0 +1,34 @@
+{
+  "name": "Enrique Barzola",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-03/BARZOLA_ENRIQUE_L.png?VersionId=mQkqiuRZVTjFXGW2NFNTClbtbHNmbagv&itok=9BrT0pSD",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "17",
+    "losses": "5",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "47",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "34",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.91",
+    "SApM": "2.97",
+    "TDAvg": "4.20",
+    "Sub.Avg": "0.30",
+    "Str.Def": "69",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "42",
+    "TD Acc.": "46"
+  }
+}

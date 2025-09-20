@@ -1,0 +1,34 @@
+{
+  "name": "Colton Smith",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/e194e899-0ab6-4621-8c36-25aed813b4de%252FColton-Smith_293597_LeftFullBodyImage.png?itok=obS1GIvF",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "6",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "33",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "35",
+    "height": "72.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.64",
+    "SApM": "2.30",
+    "TDAvg": "4.09",
+    "Sub.Avg": "1.36",
+    "Str.Def": "52",
+    "TDDef": "25",
+    "KDAvg": "0.45",
+    "Avg Fight Time": "08:15",
+    "Str. Acc.": "42",
+    "TD Acc.": "36"
+  }
+}

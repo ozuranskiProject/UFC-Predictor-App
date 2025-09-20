@@ -1,0 +1,34 @@
+{
+  "name": "Shane Burgos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-07/BURGOS_SHANE_L_07-16.png?itok=yWkV-tAK",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "15",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "28",
+    "DEC": "44",
+    "SUB": "28"
+  },
+  "bio": {
+    "age": "32",
+    "height": "71.00",
+    "reach": "75.50",
+    "leg_reach": "40.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "7.40",
+    "SApM": "6.78",
+    "TDAvg": "0.43",
+    "Sub.Avg": "0.43",
+    "Str.Def": "56",
+    "TDDef": "92",
+    "KDAvg": "0.64",
+    "Avg Fight Time": "12:46",
+    "Str. Acc.": "52",
+    "TD Acc.": "44"
+  }
+}

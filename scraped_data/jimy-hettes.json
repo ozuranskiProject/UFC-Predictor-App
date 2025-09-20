@@ -1,0 +1,34 @@
+{
+  "name": "Jimy Hettes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68261/profile-galery/fullbodyleft-picture/Jim-Hettes_206616_LeftFullBodyImage.png?VersionId=q7CGrjYv6KB.3DOJAPYSGtkk3M5DEOQ2&itok=q1iqrqNj",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "9",
+    "SUB": "91"
+  },
+  "bio": {
+    "age": "36",
+    "height": "70.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.47",
+    "SApM": "3.50",
+    "TDAvg": "5.20",
+    "Sub.Avg": "1.42",
+    "Str.Def": "58",
+    "TDDef": "62",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:34",
+    "Str. Acc.": "57",
+    "TD Acc.": "45"
+  }
+}

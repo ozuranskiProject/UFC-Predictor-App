@@ -1,0 +1,34 @@
+{
+  "name": "Loopy Godinez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/GODINEZ_LOOPY_L_03-29.png?itok=4AQkhUL2",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "14",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "7",
+    "DEC": "79",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "32",
+    "height": "62.00",
+    "reach": "61.00",
+    "leg_reach": "35.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.51",
+    "SApM": "4.03",
+    "TDAvg": "2.96",
+    "Sub.Avg": "0.86",
+    "Str.Def": "62",
+    "TDDef": "82",
+    "KDAvg": "0.08",
+    "Avg Fight Time": "13:47",
+    "Str. Acc.": "49",
+    "TD Acc.": "41"
+  }
+}

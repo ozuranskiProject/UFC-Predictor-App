@@ -1,0 +1,34 @@
+{
+  "name": "Ilia Topuria",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/TOPURIA_ILIA_L_BELT_10-26.png?itok=63v_RyKk",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "17",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "12",
+    "SUB": "47"
+  },
+  "bio": {
+    "age": "28",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "4.81",
+    "SApM": "3.83",
+    "TDAvg": "1.96",
+    "Sub.Avg": "1.07",
+    "Str.Def": "64",
+    "TDDef": "94",
+    "KDAvg": "1.25",
+    "Avg Fight Time": "09:22",
+    "Str. Acc.": "48",
+    "TD Acc.": "61"
+  }
+}

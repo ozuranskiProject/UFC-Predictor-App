@@ -1,0 +1,34 @@
+{
+  "name": "Thomas Petersen",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/PETERSEN_THOMAS_L_05-03.png?itok=qbZkZ7FW",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "70",
+    "DEC": "20",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "30",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Boxer"
+  },
+  "fight_stats": {
+    "SLpM": "3.74",
+    "SApM": "2.94",
+    "TDAvg": "4.42",
+    "Sub.Avg": "0.55",
+    "Str.Def": "58",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:52",
+    "Str. Acc.": "60",
+    "TD Acc.": "67"
+  }
+}

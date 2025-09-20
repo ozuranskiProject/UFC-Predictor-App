@@ -1,0 +1,34 @@
+{
+  "name": "Tainara Lisboa",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/LISBOA_TAINARA_L_10-14.png?itok=EOfc_gAm",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "14",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "34",
+    "height": "67.00",
+    "reach": "67.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "1.68",
+    "SApM": "1.42",
+    "TDAvg": "1.53",
+    "Sub.Avg": "0.38",
+    "Str.Def": "49",
+    "TDDef": "58",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:06",
+    "Str. Acc.": "43",
+    "TD Acc.": "36"
+  }
+}

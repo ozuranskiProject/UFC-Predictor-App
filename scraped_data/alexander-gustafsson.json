@@ -1,0 +1,34 @@
+{
+  "name": "Alexander Gustafsson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-07/GUSTAFSSON_ALEXANDER_L_07-23.png?itok=_bY7ruxx",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "18",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "61",
+    "DEC": "22",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "38",
+    "height": "77.00",
+    "reach": "79.00",
+    "leg_reach": "46.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.03",
+    "SApM": "3.53",
+    "TDAvg": "1.53",
+    "Sub.Avg": "0.40",
+    "Str.Def": "51",
+    "TDDef": "84",
+    "KDAvg": "0.72",
+    "Avg Fight Time": "10:22",
+    "Str. Acc.": "41",
+    "TD Acc.": "40"
+  }
+}

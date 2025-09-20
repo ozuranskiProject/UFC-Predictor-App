@@ -1,0 +1,34 @@
+{
+  "name": "Vinicius Moreira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-09/MOREIRA_VINICIUS_L.png?VersionId=H9.mJUYIi_cdgM1WoE8JIidyvJqx1Swn&itok=EYa4tSZx",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "9",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "0",
+    "SUB": "89"
+  },
+  "bio": {
+    "age": "34",
+    "height": "76.00",
+    "reach": "76.00",
+    "leg_reach": "43.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.15",
+    "SApM": "5.07",
+    "TDAvg": "1.97",
+    "Sub.Avg": "1.31",
+    "Str.Def": "43",
+    "TDDef": "0.00",
+    "KDAvg": "04:34",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "59",
+    "TD Acc.": "19"
+  }
+}

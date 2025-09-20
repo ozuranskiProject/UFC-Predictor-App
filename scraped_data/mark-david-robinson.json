@@ -1,0 +1,34 @@
+{
+  "name": "Mark David Robinson",
+  "profile_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "1",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "53",
+    "height": "72.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.00",
+    "SApM": "5.80",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "13",
+    "TDDef": "0.00",
+    "KDAvg": "03:27",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "0",
+    "TD Acc.": "N/A"
+  }
+}

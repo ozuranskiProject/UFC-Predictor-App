@@ -1,0 +1,34 @@
+{
+  "name": "Matheus Camilo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/CAMILO_MATHEUS_R.png?itok=VsC5gY1z",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "33",
+    "SUB": "22"
+  },
+  "bio": {
+    "age": "24",
+    "height": "70.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "1.49",
+    "SApM": "1.38",
+    "TDAvg": "3.44",
+    "Sub.Avg": "1.72",
+    "Str.Def": "56",
+    "TDDef": "0.00",
+    "KDAvg": "08:43",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "48",
+    "TD Acc.": "67"
+  }
+}

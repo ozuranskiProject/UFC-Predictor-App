@@ -1,0 +1,34 @@
+{
+  "name": "Bryce Mitchell",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/MITCHELL_BRYCE_L_07-26.png?itok=yN2JyFV0",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "18",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "6",
+    "DEC": "44",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "30",
+    "height": "70.00",
+    "reach": "70.00",
+    "leg_reach": "40.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.27",
+    "SApM": "1.60",
+    "TDAvg": "3.24",
+    "Sub.Avg": "1.19",
+    "Str.Def": "59",
+    "TDDef": "33",
+    "KDAvg": "0.11",
+    "Avg Fight Time": "11:35",
+    "Str. Acc.": "59",
+    "TD Acc.": "36"
+  }
+}

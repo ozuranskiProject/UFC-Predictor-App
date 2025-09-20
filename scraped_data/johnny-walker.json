@@ -1,0 +1,34 @@
+{
+  "name": "Johnny Walker",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/WALKER_JOHNNY_L_08-23.png?itok=681lCzLW",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "22",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "77",
+    "DEC": "9",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "33",
+    "height": "78.00",
+    "reach": "82.00",
+    "leg_reach": "44.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.06",
+    "SApM": "3.09",
+    "TDAvg": "0.42",
+    "Sub.Avg": "0.83",
+    "Str.Def": "45",
+    "TDDef": "57",
+    "KDAvg": "0.69",
+    "Avg Fight Time": "06:47",
+    "Str. Acc.": "55",
+    "TD Acc.": "60"
+  }
+}

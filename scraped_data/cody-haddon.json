@@ -1,0 +1,34 @@
+{
+  "name": "Cody Haddon",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/HADDON_CODY_L_10-12.png?itok=T8MDMzAE",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "8",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "13",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "26",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "9.20",
+    "SApM": "3.47",
+    "TDAvg": "2.48",
+    "Sub.Avg": "0.83",
+    "Str.Def": "64",
+    "TDDef": "83",
+    "KDAvg": "0.83",
+    "Avg Fight Time": "09:05",
+    "Str. Acc.": "51",
+    "TD Acc.": "38"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "William Knight",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/KNIGHT_WILLIAM_L_02-18.png?itok=NfDTUXmj",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "82",
+    "DEC": "18",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Brawler"
+  },
+  "fight_stats": {
+    "SLpM": "2.62",
+    "SApM": "3.30",
+    "TDAvg": "1.78",
+    "Sub.Avg": "0.41",
+    "Str.Def": "36",
+    "TDDef": "48",
+    "KDAvg": "0.27",
+    "Avg Fight Time": "12:08",
+    "Str. Acc.": "57",
+    "TD Acc.": "41"
+  }
+}

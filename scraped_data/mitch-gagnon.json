@@ -1,0 +1,34 @@
+{
+  "name": "Mitch Gagnon",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-05/GAGNON_MITCH_L.png?VersionId=.mr.GjzcEdJSiwvQ_l0uJ1c8xMae1.Bu&itok=rXdIrGLk",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "8",
+    "DEC": "8",
+    "SUB": "83"
+  },
+  "bio": {
+    "age": "38",
+    "height": "65.00",
+    "reach": "65.50",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.76",
+    "SApM": "2.21",
+    "TDAvg": "1.16",
+    "Sub.Avg": "1.93",
+    "Str.Def": "62",
+    "TDDef": "66",
+    "KDAvg": "0.58",
+    "Avg Fight Time": "09:44",
+    "Str. Acc.": "46",
+    "TD Acc.": "25"
+  }
+}

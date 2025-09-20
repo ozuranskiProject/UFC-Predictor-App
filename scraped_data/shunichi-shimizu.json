@@ -1,0 +1,34 @@
+{
+  "name": "Shunichi Shimizu",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c20b4577-2a27-4e26-b0e2-2d0fc26f9748%252FShunichi-Shimizu_462282_LeftFullBodyImage.png?itok=XUL1f2qo",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "28",
+    "losses": "9",
+    "draws": "10"
+  },
+  "win_methods": {
+    "KO": "14",
+    "DEC": "18",
+    "SUB": "68"
+  },
+  "bio": {
+    "age": "38",
+    "height": "65.00",
+    "reach": "66.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.14",
+    "SApM": "4.68",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "31",
+    "TDDef": "0.00",
+    "KDAvg": "13:53",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "33",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sergey Morozov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-12/MOROZOV_SERGEY_L_12-17.png?itok=RrHEg5HR",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "19",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "39",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "34",
+    "height": "66.00",
+    "reach": "67.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.01",
+    "SApM": "2.97",
+    "TDAvg": "3.63",
+    "Sub.Avg": "0.00",
+    "Str.Def": "61",
+    "TDDef": "68",
+    "KDAvg": "0.24",
+    "Avg Fight Time": "12:25",
+    "Str. Acc.": "43",
+    "TD Acc.": "32"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Arjan Singh Bhullar",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Arjan_Bhullar/BHULLAR_ARJAN_L.png?VersionId=1jyJSV3zinpCH1.cWTZdKW7ZGSwdeXlF&itok=TVecgO_s",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "9",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "63",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "37",
+    "height": "73.00",
+    "reach": "75.50",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.33",
+    "SApM": "3.25",
+    "TDAvg": "1.73",
+    "Sub.Avg": "0.00",
+    "Str.Def": "59",
+    "TDDef": "100",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "13:00",
+    "Str. Acc.": "57",
+    "TD Acc.": "75"
+  }
+}

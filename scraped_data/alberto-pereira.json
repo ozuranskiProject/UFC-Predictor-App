@@ -1,0 +1,34 @@
+{
+  "name": "Alberto Pereira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67192/profile-galery/fullbodyleft-picture/alberto-uda_586048_LeftFullBodyImage.png?VersionId=FEbaJLU6kf6SAitgfHLc5yuCPV7FEjf.&itok=wI-bXF9j",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "9",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "11",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "38",
+    "height": "75.00",
+    "reach": "77.00",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.79",
+    "SApM": "3.49",
+    "TDAvg": "2.83",
+    "Sub.Avg": "0.00",
+    "Str.Def": "46",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:18",
+    "Str. Acc.": "53",
+    "TD Acc.": "50"
+  }
+}

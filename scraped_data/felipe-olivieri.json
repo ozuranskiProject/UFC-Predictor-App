@@ -1,0 +1,34 @@
+{
+  "name": "Felipe Olivieri",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/10ba2225-1075-4dd0-a0ad-fdd68fb8c126%252FFelipe-Olivieri_568410_LeftFullBodyImage.png?itok=Ag_bgX8-",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "14",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "7",
+    "SUB": "21"
+  },
+  "bio": {
+    "age": "38",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "6.68",
+    "SApM": "4.60",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "71",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:02",
+    "Str. Acc.": "58",
+    "TD Acc.": "0"
+  }
+}

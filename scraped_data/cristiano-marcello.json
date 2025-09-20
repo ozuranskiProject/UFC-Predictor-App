@@ -1,0 +1,34 @@
+{
+  "name": "Cristiano Marcello",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Cristiano_Marcello/CristianoMarcello_RedCorner.png?VersionId=Cl6g1Y.UUi1XMfdFaFWgfvsvHxQMszmP&itok=NxeAPm1R",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "15",
+    "SUB": "69"
+  },
+  "bio": {
+    "age": "45",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.56",
+    "SApM": "3.61",
+    "TDAvg": "0.44",
+    "Sub.Avg": "0.88",
+    "Str.Def": "58",
+    "TDDef": "20",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:35",
+    "Str. Acc.": "33",
+    "TD Acc.": "12"
+  }
+}

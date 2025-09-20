@@ -1,0 +1,34 @@
+{
+  "name": "Alexandra Albu",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67245/profile-galery/fullbodyleft-picture/ALBU_ALEXANDRA_L.png?itok=q8VISpFt",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "57",
+    "DEC": "14",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "32",
+    "height": "62.00",
+    "reach": "63.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.83",
+    "SApM": "5.56",
+    "TDAvg": "2.27",
+    "Sub.Avg": "0.38",
+    "Str.Def": "39",
+    "TDDef": "78",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:54",
+    "Str. Acc.": "47",
+    "TD Acc.": "50"
+  }
+}

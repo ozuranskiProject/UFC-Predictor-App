@@ -1,0 +1,34 @@
+{
+  "name": "Justin Tafa",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/TAFA_JUSTIN_L_02-08.png?itok=YAXBve-H",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "100",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.05",
+    "SApM": "5.11",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "53",
+    "KDAvg": "1.10",
+    "Avg Fight Time": "05:27",
+    "Str. Acc.": "54",
+    "TD Acc.": "0"
+  }
+}

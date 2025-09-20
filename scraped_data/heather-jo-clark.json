@@ -1,0 +1,34 @@
+{
+  "name": "Heather Jo Clark",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/70f41d6f-a729-4e31-9ece-bf980bd65dba%252FHeather-Clark_501696_LeftFullBodyImage.png?itok=J6i35Ysb",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "7",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "29",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "42",
+    "height": "66.00",
+    "reach": "64.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.69",
+    "SApM": "5.62",
+    "TDAvg": "0.33",
+    "Sub.Avg": "0.33",
+    "Str.Def": "51",
+    "TDDef": "80",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "49",
+    "TD Acc.": "4"
+  }
+}

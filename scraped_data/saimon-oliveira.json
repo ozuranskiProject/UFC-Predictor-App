@@ -1,0 +1,34 @@
+{
+  "name": "Saimon Oliveira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/OLIVEIRA_SAIMON_L_01_22.png?itok=DyUEee0w",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "18",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "28",
+    "DEC": "11",
+    "SUB": "61"
+  },
+  "bio": {
+    "age": "33",
+    "height": "64.00",
+    "reach": "72.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.67",
+    "SApM": "4.13",
+    "TDAvg": "1.07",
+    "Sub.Avg": "1.43",
+    "Str.Def": "47",
+    "TDDef": "39",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:29",
+    "Str. Acc.": "40",
+    "TD Acc.": "25"
+  }
+}

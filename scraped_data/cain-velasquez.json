@@ -1,0 +1,34 @@
+{
+  "name": "Cain Velasquez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67538/profile-galery/fullbodyleft-picture/Cain-Velasquez_899_LeftFullBodyImage.png?VersionId=EonoSX_uAxLzMjcEPHdUcqt44I2rooYr&itok=1Cj-jjfA",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "14",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "86",
+    "DEC": "14",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "40",
+    "height": "73.50",
+    "reach": "77.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "6.37",
+    "SApM": "2.33",
+    "TDAvg": "5.13",
+    "Sub.Avg": "0.38",
+    "Str.Def": "57",
+    "TDDef": "86",
+    "KDAvg": "1.28",
+    "Avg Fight Time": "06:53",
+    "Str. Acc.": "58",
+    "TD Acc.": "45"
+  }
+}

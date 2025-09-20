@@ -1,0 +1,34 @@
+{
+  "name": "Joanderson Brito",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/BRITO_JOANDERSON_L_07-01.png?itok=cxoMwxDh",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "17",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "47",
+    "DEC": "12",
+    "SUB": "41"
+  },
+  "bio": {
+    "age": "30",
+    "height": "68.00",
+    "reach": "72.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.48",
+    "SApM": "2.49",
+    "TDAvg": "2.49",
+    "Sub.Avg": "0.96",
+    "Str.Def": "43",
+    "TDDef": "56",
+    "KDAvg": "0.19",
+    "Avg Fight Time": "08:42",
+    "Str. Acc.": "50",
+    "TD Acc.": "68"
+  }
+}

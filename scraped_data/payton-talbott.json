@@ -1,0 +1,34 @@
+{
+  "name": "Payton Talbott",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/TALBOTT_PAYTON_L_06-28.png?itok=jal_Wbtd",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "70",
+    "DEC": "20",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "26",
+    "height": "70.00",
+    "reach": "70.50",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "6.05",
+    "SApM": "3.26",
+    "TDAvg": "0.24",
+    "Sub.Avg": "0.24",
+    "Str.Def": "46",
+    "TDDef": "77",
+    "KDAvg": "0.49",
+    "Avg Fight Time": "10:16",
+    "Str. Acc.": "55",
+    "TD Acc.": "25"
+  }
+}

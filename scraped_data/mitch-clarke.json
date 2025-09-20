@@ -1,0 +1,34 @@
+{
+  "name": "Mitch Clarke",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68856/profile-galery/fullbodyleft-picture/Mitch-Clarke_226175_LeftFullBodyImage.png?VersionId=hOE5iyyZAvvzdfb6nFBRjK31r5f7xJN9&itok=vI80UqXp",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "9",
+    "DEC": "27",
+    "SUB": "64"
+  },
+  "bio": {
+    "age": "37",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.35",
+    "SApM": "3.27",
+    "TDAvg": "0.64",
+    "Sub.Avg": "0.43",
+    "Str.Def": "48",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:05",
+    "Str. Acc.": "34",
+    "TD Acc.": "15"
+  }
+}

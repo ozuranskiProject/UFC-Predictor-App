@@ -1,0 +1,34 @@
+{
+  "name": "Sergei Pavlovich",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/PAVLOVICH_SERGEI_L_08-23.png?itok=8cnjzABQ",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "20",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "25",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "75.00",
+    "reach": "84.00",
+    "leg_reach": "45.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.43",
+    "SApM": "3.62",
+    "TDAvg": "0.48",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "75",
+    "KDAvg": "1.67",
+    "Avg Fight Time": "05:42",
+    "Str. Acc.": "44",
+    "TD Acc.": "25"
+  }
+}

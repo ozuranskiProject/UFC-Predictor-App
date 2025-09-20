@@ -1,0 +1,34 @@
+{
+  "name": "Brendon Marotte",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/MAROTTE_BRENDON_R_09-07.png?itok=epBvfSSs",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "27",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "29",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "N/A",
+    "fighting_style": "Boxer"
+  },
+  "fight_stats": {
+    "SLpM": "0.41",
+    "SApM": "5.70",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "29",
+    "TDDef": "0.00",
+    "KDAvg": "04:50",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "50",
+    "TD Acc.": "N/A"
+  }
+}

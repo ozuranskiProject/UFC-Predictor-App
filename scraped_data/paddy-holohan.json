@@ -1,0 +1,34 @@
+{
+  "name": "Paddy Holohan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68965/profile-galery/fullbodyleft-picture/Patrick-Holohan_453461_LeftFullBodyImage.png?VersionId=.eW8yV1bXfNw3030Fo7HzhChmhPHFzNS&itok=psLfa25n",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "8",
+    "DEC": "25",
+    "SUB": "67"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.13",
+    "SApM": "2.81",
+    "TDAvg": "2.88",
+    "Sub.Avg": "1.31",
+    "Str.Def": "46",
+    "TDDef": "71",
+    "KDAvg": "0.26",
+    "Avg Fight Time": "11:27",
+    "Str. Acc.": "46",
+    "TD Acc.": "48"
+  }
+}

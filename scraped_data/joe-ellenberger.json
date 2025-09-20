@@ -1,0 +1,34 @@
+{
+  "name": "Joe Ellenberger",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68277/profile-galery/fullbodyleft-picture/Joe-Ellenberger_468641_LeftFullBodyImage.png?VersionId=rj7gH_mx1tXYp_Ainy_GQcgO2TqL2Y19&itok=8pNN7nGW",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "15",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "53",
+    "DEC": "20",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "38",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.62",
+    "SApM": "3.45",
+    "TDAvg": "3.17",
+    "Sub.Avg": "1.06",
+    "Str.Def": "48",
+    "TDDef": "0.00",
+    "KDAvg": "14:12",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "47",
+    "TD Acc.": "40"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Axel Sola",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/SOLA_AXEL_L_09-06.png?itok=TrNwjEq_",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "0",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "36",
+    "SUB": "9"
+  },
+  "bio": {
+    "age": "27",
+    "height": "71.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "Karate"
+  },
+  "fight_stats": {
+    "SLpM": "3.74",
+    "SApM": "2.74",
+    "TDAvg": "1.25",
+    "Sub.Avg": "0.00",
+    "Str.Def": "76",
+    "TDDef": "1.25",
+    "KDAvg": "12:02",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "43",
+    "TD Acc.": "25"
+  }
+}

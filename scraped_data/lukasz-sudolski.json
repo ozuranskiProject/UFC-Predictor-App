@@ -1,0 +1,34 @@
+{
+  "name": "Lukasz Sudolski",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-09/71773%252Fprofile-galery%252Ffullbodyleft-picture%252FSUDOLSKI_LUKASZ_L.png?itok=s9G6hqhO",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "0",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "30",
+    "height": "76.00",
+    "reach": "75.50",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.70",
+    "SApM": "4.89",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "28",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "03:41",
+    "Str. Acc.": "68",
+    "TD Acc.": "N/A"
+  }
+}

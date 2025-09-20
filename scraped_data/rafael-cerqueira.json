@@ -1,0 +1,34 @@
+{
+  "name": "Rafael Cerqueira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/CERQUEIRA_RAFAEL_L_10-26.png?itok=Cf1Qe0vE",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "9",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "35",
+    "height": "75.00",
+    "reach": "76.00",
+    "leg_reach": "44.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.61",
+    "SApM": "4.88",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "37",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "06:01",
+    "Str. Acc.": "45",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Jaime Alvarez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/b0abf801-526d-462e-9ba0-63f9c6067a01%252FJamie-Alvarez_635980_LeftFullBodyImage.png?itok=yGZoqrpW",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "7",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "57",
+    "DEC": "29",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "35",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.73",
+    "SApM": "4.53",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "40",
+    "TD Acc.": "33"
+  }
+}

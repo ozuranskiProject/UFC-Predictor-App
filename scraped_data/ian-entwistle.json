@@ -1,0 +1,34 @@
+{
+  "name": "Ian Entwistle",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/195995a9-aa00-41c9-ba11-cc248280d8d3%252FIan-Entwistle_485168_LeftFullBodyImage.png?itok=olhqdeKj",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "11",
+    "SUB": "78"
+  },
+  "bio": {
+    "age": "36",
+    "height": "66.00",
+    "reach": "64.00",
+    "leg_reach": "35.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.11",
+    "SApM": "7.36",
+    "TDAvg": "0.00",
+    "Sub.Avg": "12.07",
+    "Str.Def": "32",
+    "TDDef": "0.00",
+    "KDAvg": "02:54",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "8",
+    "TD Acc.": "0"
+  }
+}

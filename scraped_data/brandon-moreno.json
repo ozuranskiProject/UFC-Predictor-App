@@ -1,0 +1,34 @@
+{
+  "name": "Brandon Moreno",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/MORENO_BRANDON_L_03-29.png?itok=8hXD6xir",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "23",
+    "losses": "8",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "30",
+    "SUB": "48"
+  },
+  "bio": {
+    "age": "31",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.96",
+    "SApM": "3.62",
+    "TDAvg": "1.51",
+    "Sub.Avg": "0.39",
+    "Str.Def": "61",
+    "TDDef": "64",
+    "KDAvg": "0.19",
+    "Avg Fight Time": "17:08",
+    "Str. Acc.": "44",
+    "TD Acc.": "44"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Jamie Moyle",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/5cea4e50-656f-48da-ae1d-4614a0802922%252Fjamie-moyle_587590_LeftFullBodyImage.png?itok=j_EFzBpH",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "4",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "75",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "34",
+    "height": "61.00",
+    "reach": "65.00",
+    "leg_reach": "35.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.51",
+    "SApM": "4.00",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "66",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "52",
+    "TD Acc.": "21"
+  }
+}

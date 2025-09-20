@@ -1,0 +1,34 @@
+{
+  "name": "Stewart Nicoll",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/NICOLL_STEWART_L_08-17.png?itok=jEXl71v-",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "8",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "13",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "30",
+    "height": "65.00",
+    "reach": "65.50",
+    "leg_reach": "37.00",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "3.02",
+    "SApM": "1.13",
+    "TDAvg": "5.66",
+    "Sub.Avg": "0.00",
+    "Str.Def": "40",
+    "TDDef": "0.00",
+    "KDAvg": "02:39",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "47",
+    "TD Acc.": "100"
+  }
+}

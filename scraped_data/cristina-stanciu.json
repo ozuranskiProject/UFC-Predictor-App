@@ -1,0 +1,34 @@
+{
+  "name": "Cristina Stanciu",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/4a8c7da8-4c69-4c70-a85f-ae66f634e340%252FCristina-Stanciu_583148_LeftFullBodyImage.png?itok=YPcFbknu",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "5",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "20",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "29",
+    "height": "64.00",
+    "reach": "64.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.50",
+    "SApM": "3.07",
+    "TDAvg": "0.85",
+    "Sub.Avg": "1.70",
+    "Str.Def": "52",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:48",
+    "Str. Acc.": "50",
+    "TD Acc.": "100"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Justin Scoggins",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68419/profile-galery/fullbodyleft-picture/Justin-Scoggins_453365_LeftFullBodyImage.png?VersionId=14uFbhQISxls8zgCQ3D6wsawhcwoJhpR&itok=XiSHcJY0",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "36",
+    "SUB": "9"
+  },
+  "bio": {
+    "age": "31",
+    "height": "67.00",
+    "reach": "66.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.56",
+    "SApM": "2.16",
+    "TDAvg": "3.42",
+    "Sub.Avg": "0.45",
+    "Str.Def": "56",
+    "TDDef": "83",
+    "KDAvg": "0.15",
+    "Avg Fight Time": "11:12",
+    "Str. Acc.": "52",
+    "TD Acc.": "64"
+  }
+}

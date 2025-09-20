@@ -1,0 +1,34 @@
+{
+  "name": "Alen Amedovski",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/67201%252Fprofile-galery%252Ffullbodyleft-picture%252FAMEDOVSKI_ALEN_L_07-10.png?itok=TFs8C0N4",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "8",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "100",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "74.00",
+    "leg_reach": "41.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "0.99",
+    "SApM": "3.85",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "46",
+    "TDDef": "0.00",
+    "KDAvg": "05:04",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "30",
+    "TD Acc.": "N/A"
+  }
+}

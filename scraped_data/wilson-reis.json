@@ -1,0 +1,34 @@
+{
+  "name": "Wilson Reis",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Wilson_Reis/REIS_WILSON_L.png?VersionId=bmtu0x9i61MePE5T_6la_e831_HbulPC&itok=Isnd7cEE",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "23",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "57",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "38",
+    "height": "64.00",
+    "reach": "65.00",
+    "leg_reach": "36.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.83",
+    "SApM": "3.04",
+    "TDAvg": "5.15",
+    "Sub.Avg": "0.61",
+    "Str.Def": "56",
+    "TDDef": "47",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:25",
+    "Str. Acc.": "30",
+    "TD Acc.": "43"
+  }
+}

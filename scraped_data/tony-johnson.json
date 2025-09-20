@@ -1,0 +1,34 @@
+{
+  "name": "Tony Johnson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/bd8d0f04-b1b9-4fb7-9717-d672ac0d84a0%252FJOHNSON_TONY_L.png?itok=2iEyX-d1",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "40",
+    "height": "74.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "Boxer"
+  },
+  "fight_stats": {
+    "SLpM": "2.00",
+    "SApM": "4.73",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "31",
+    "TDDef": "0.00",
+    "KDAvg": "14:42",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "54",
+    "TD Acc.": "22"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Anthony Ivy",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-06/IVY_ANTHONY_L.png?VersionId=M3BKvx_svofiU64zjKyknppUQJMYjAOE&itok=7OJ_3NjP",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "8",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "0",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "33",
+    "height": "74.00",
+    "reach": "74.00",
+    "leg_reach": "42.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.50",
+    "SApM": "4.57",
+    "TDAvg": "4.69",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:00",
+    "Str. Acc.": "42",
+    "TD Acc.": "21"
+  }
+}

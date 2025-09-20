@@ -1,0 +1,34 @@
+{
+  "name": "Uriah Hall",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/8b787623-45ca-45ae-9642-49677bf57ce9%252FHALL_URIAH_L_07-02.png?itok=Syo3ewLJ",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "18",
+    "losses": "11",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "78",
+    "DEC": "17",
+    "SUB": "6"
+  },
+  "bio": {
+    "age": "38",
+    "height": "72.00",
+    "reach": "79.50",
+    "leg_reach": "43.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "3.23",
+    "SApM": "3.85",
+    "TDAvg": "0.54",
+    "Sub.Avg": "0.15",
+    "Str.Def": "54",
+    "TDDef": "64",
+    "KDAvg": "0.61",
+    "Avg Fight Time": "10:19",
+    "Str. Acc.": "49",
+    "TD Acc.": "39"
+  }
+}

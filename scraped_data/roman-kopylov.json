@@ -1,0 +1,34 @@
+{
+  "name": "Roman Kopylov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/KOPYLOV_ROMAN_L_01-11.png?itok=TiK1_NK4",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "14",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "86",
+    "DEC": "14",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "72.00",
+    "reach": "75.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.74",
+    "SApM": "5.08",
+    "TDAvg": "1.02",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "88",
+    "KDAvg": "0.77",
+    "Avg Fight Time": "11:43",
+    "Str. Acc.": "50",
+    "TD Acc.": "42"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Dan Ige",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/IGE_DAN_L_07-19.png?itok=INhysHX6",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "19",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "37",
+    "DEC": "37",
+    "SUB": "26"
+  },
+  "bio": {
+    "age": "34",
+    "height": "67.00",
+    "reach": "71.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.64",
+    "SApM": "3.56",
+    "TDAvg": "0.89",
+    "Sub.Avg": "0.22",
+    "Str.Def": "56",
+    "TDDef": "57",
+    "KDAvg": "0.45",
+    "Avg Fight Time": "12:49",
+    "Str. Acc.": "45",
+    "TD Acc.": "26"
+  }
+}

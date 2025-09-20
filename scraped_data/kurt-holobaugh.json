@@ -1,0 +1,34 @@
+{
+  "name": "Kurt Holobaugh",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/HOLOBAUGH_KURT_L_05-31.png?itok=ZalDirGm",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "22",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "18",
+    "SUB": "45"
+  },
+  "bio": {
+    "age": "38",
+    "height": "71.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "4.58",
+    "SApM": "4.24",
+    "TDAvg": "0.65",
+    "Sub.Avg": "0.78",
+    "Str.Def": "50",
+    "TDDef": "38",
+    "KDAvg": "0.26",
+    "Avg Fight Time": "10:32",
+    "Str. Acc.": "45",
+    "TD Acc.": "33"
+  }
+}

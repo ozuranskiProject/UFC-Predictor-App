@@ -1,0 +1,34 @@
+{
+  "name": "Rodolfo Vieira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/VIEIRA_RODOLFO_L_08-02.png?itok=oAfxCpuO",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "9",
+    "DEC": "9",
+    "SUB": "82"
+  },
+  "bio": {
+    "age": "35",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "39.50",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.77",
+    "SApM": "4.12",
+    "TDAvg": "3.09",
+    "Sub.Avg": "1.03",
+    "Str.Def": "52",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:43",
+    "Str. Acc.": "56",
+    "TD Acc.": "23"
+  }
+}

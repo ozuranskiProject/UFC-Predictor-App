@@ -1,0 +1,34 @@
+{
+  "name": "Matthew Semelsberger",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/SEMELSBERGER_MATTHEW_L_11-09.png?itok=EmmavYPn",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "36",
+    "SUB": "9"
+  },
+  "bio": {
+    "age": "32",
+    "height": "73.00",
+    "reach": "75.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.77",
+    "SApM": "4.24",
+    "TDAvg": "1.01",
+    "Sub.Avg": "0.38",
+    "Str.Def": "54",
+    "TDDef": "46",
+    "KDAvg": "1.26",
+    "Avg Fight Time": "10:49",
+    "Str. Acc.": "43",
+    "TD Acc.": "57"
+  }
+}

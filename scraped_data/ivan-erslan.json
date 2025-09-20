@@ -1,0 +1,34 @@
+{
+  "name": "Ivan Erslan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/ERSLAN_IVAN_R_09-28.png?itok=jT2NsGF7",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "14",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "21",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "33",
+    "height": "74.00",
+    "reach": "72.50",
+    "leg_reach": "42.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "2.50",
+    "SApM": "5.17",
+    "TDAvg": "0.50",
+    "Sub.Avg": "0.00",
+    "Str.Def": "55",
+    "TDDef": "65",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "44",
+    "TD Acc.": "20"
+  }
+}

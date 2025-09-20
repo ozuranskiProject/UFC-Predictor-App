@@ -1,0 +1,34 @@
+{
+  "name": "Jesse Butler",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/BUTLER_JESSE_L_06-03.png?itok=99j9-p3Q",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "8",
+    "DEC": "25",
+    "SUB": "67"
+  },
+  "bio": {
+    "age": "32",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "2.02",
+    "SApM": "4.62",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "40",
+    "TDDef": "0.00",
+    "KDAvg": "07:42",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "35",
+    "TD Acc.": "N/A"
+  }
+}

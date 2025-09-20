@@ -1,0 +1,34 @@
+{
+  "name": "Fabio Cherant",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/71484%252Fprofile-galery%252Ffullbodyleft-picture%252FCHERANT_FABIO_L_08-21.png?itok=7M4KiD9J",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "29",
+    "SUB": "71"
+  },
+  "bio": {
+    "age": "28",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "43.00",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "1.35",
+    "SApM": "4.89",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "38",
+    "TDDef": "0.00",
+    "KDAvg": "06:29",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "40",
+    "TD Acc.": "N/A"
+  }
+}

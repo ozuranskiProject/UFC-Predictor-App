@@ -1,0 +1,34 @@
+{
+  "name": "Siyar Bahadurzada",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-09/BAHADURZADA_SIYAR_L.png?VersionId=6NZMWBSOprM5vttUb3GN0i7Umrz9B9.U&itok=TF7Qxiia",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "24",
+    "losses": "8",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "58",
+    "DEC": "17",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "39",
+    "height": "71.00",
+    "reach": "72.50",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.91",
+    "SApM": "3.23",
+    "TDAvg": "1.32",
+    "Sub.Avg": "0.33",
+    "Str.Def": "49",
+    "TDDef": "63",
+    "KDAvg": "0.83",
+    "Avg Fight Time": "11:20",
+    "Str. Acc.": "41",
+    "TD Acc.": "62"
+  }
+}

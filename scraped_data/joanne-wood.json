@@ -1,0 +1,34 @@
+{
+  "name": "Joanne Wood",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/WOOD_JOANNE_L_03-09.png?itok=dWPBoeKQ",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "17",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "65",
+    "SUB": "6"
+  },
+  "bio": {
+    "age": "38",
+    "height": "66.00",
+    "reach": "65.50",
+    "leg_reach": "38.50",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "7.10",
+    "SApM": "4.89",
+    "TDAvg": "1.52",
+    "Sub.Avg": "0.32",
+    "Str.Def": "51",
+    "TDDef": "59",
+    "KDAvg": "0.24",
+    "Avg Fight Time": "11:00",
+    "Str. Acc.": "51",
+    "TD Acc.": "56"
+  }
+}

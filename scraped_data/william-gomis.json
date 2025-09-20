@@ -1,0 +1,34 @@
+{
+  "name": "William Gomis",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/GOMIS_WILLIAM_L_09-06.png?itok=57c7ZBEQ",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "15",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "47",
+    "DEC": "47",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "28",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.48",
+    "SApM": "2.76",
+    "TDAvg": "0.86",
+    "Sub.Avg": "0.34",
+    "Str.Def": "61",
+    "TDDef": "72",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "14:33",
+    "Str. Acc.": "50",
+    "TD Acc.": "38"
+  }
+}

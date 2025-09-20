@@ -1,0 +1,34 @@
+{
+  "name": "Julia Polastri",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/POLASTRI_JULIA_L_10-12.png?itok=y7ROGwo2",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "13",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "46",
+    "SUB": "23"
+  },
+  "bio": {
+    "age": "27",
+    "height": "62.00",
+    "reach": "63.50",
+    "leg_reach": "35.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "5.62",
+    "SApM": "5.37",
+    "TDAvg": "0.87",
+    "Sub.Avg": "0.43",
+    "Str.Def": "56",
+    "TDDef": "58",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:49",
+    "Str. Acc.": "55",
+    "TD Acc.": "80"
+  }
+}

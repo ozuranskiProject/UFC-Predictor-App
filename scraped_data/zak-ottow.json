@@ -1,0 +1,34 @@
+{
+  "name": "Zak Ottow",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69557/profile-galery/fullbodyleft-picture/OTTOW_ZAK_L.png?VersionId=PVxe79ZsN75XuRhlxJ1awF.6BMopciow&itok=ayxbRFZj",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "17",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "24",
+    "DEC": "24",
+    "SUB": "53"
+  },
+  "bio": {
+    "age": "36",
+    "height": "71.00",
+    "reach": "72.00",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.63",
+    "SApM": "2.73",
+    "TDAvg": "0.97",
+    "Sub.Avg": "0.39",
+    "Str.Def": "59",
+    "TDDef": "57",
+    "KDAvg": "0.39",
+    "Avg Fight Time": "09:40",
+    "Str. Acc.": "37",
+    "TD Acc.": "29"
+  }
+}

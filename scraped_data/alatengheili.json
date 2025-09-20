@@ -1,0 +1,34 @@
+{
+  "name": "Alatengheili",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/ALATENGHEILI_L_05-18.png?itok=igtqFMOb",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "17",
+    "losses": "10",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "53",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "33",
+    "height": "65.00",
+    "reach": "66.50",
+    "leg_reach": "35.00",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "2.82",
+    "SApM": "5.12",
+    "TDAvg": "1.74",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "75",
+    "KDAvg": "0.12",
+    "Avg Fight Time": "13:25",
+    "Str. Acc.": "33",
+    "TD Acc.": "44"
+  }
+}

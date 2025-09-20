@@ -1,0 +1,34 @@
+{
+  "name": "Angela Magana",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-08/Angela-Magana_501824_LeftFullBodyImage.png?itok=L3vtJIWS",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "11",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "27",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "39",
+    "height": "61.00",
+    "reach": "65.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.53",
+    "SApM": "4.92",
+    "TDAvg": "0.40",
+    "Sub.Avg": "0.40",
+    "Str.Def": "42",
+    "TDDef": "29",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:24",
+    "Str. Acc.": "29",
+    "TD Acc.": "25"
+  }
+}

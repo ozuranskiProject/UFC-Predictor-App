@@ -1,0 +1,34 @@
+{
+  "name": "Diego Rivas",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/ce902d6e-72dc-4576-b92b-b26cc88c7e39%252Fdiego-rivas_498761_LeftFullBodyImage.png?itok=3DyNkiQd",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "29",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "31",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.37",
+    "SApM": "2.14",
+    "TDAvg": "1.79",
+    "Sub.Avg": "0.89",
+    "Str.Def": "52",
+    "TDDef": "64",
+    "KDAvg": "0.30",
+    "Avg Fight Time": "12:36",
+    "Str. Acc.": "40",
+    "TD Acc.": "60"
+  }
+}

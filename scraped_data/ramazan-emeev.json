@@ -1,0 +1,34 @@
+{
+  "name": "Ramazan Emeev",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-01/EMEEV_RAMAZAN_L_10-16.png?itok=hf4Mv9Ow",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "20",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "50",
+    "SUB": "35"
+  },
+  "bio": {
+    "age": "36",
+    "height": "70.00",
+    "reach": "76.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.53",
+    "SApM": "2.14",
+    "TDAvg": "2.37",
+    "Sub.Avg": "0.70",
+    "Str.Def": "65",
+    "TDDef": "67",
+    "KDAvg": "0.14",
+    "Avg Fight Time": "13:27",
+    "Str. Acc.": "45",
+    "TD Acc.": "30"
+  }
+}

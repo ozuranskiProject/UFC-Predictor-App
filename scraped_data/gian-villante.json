@@ -1,0 +1,34 @@
+{
+  "name": "Gian Villante",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-11/68015%252Fprofile-galery%252Ffullbodyleft-picture%252FVILLANTE_GIAN_L_11-06.png?itok=6CSbZ6l6",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "17",
+    "losses": "14",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "59",
+    "DEC": "29",
+    "SUB": "12"
+  },
+  "bio": {
+    "age": "37",
+    "height": "75.00",
+    "reach": "76.00",
+    "leg_reach": "43.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.38",
+    "SApM": "5.47",
+    "TDAvg": "0.45",
+    "Sub.Avg": "0.00",
+    "Str.Def": "55",
+    "TDDef": "83",
+    "KDAvg": "0.32",
+    "Avg Fight Time": "10:52",
+    "Str. Acc.": "44",
+    "TD Acc.": "23"
+  }
+}

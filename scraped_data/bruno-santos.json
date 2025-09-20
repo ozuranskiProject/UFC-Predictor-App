@@ -1,0 +1,34 @@
+{
+  "name": "Bruno Santos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/8380da56-7f28-41e5-996b-0955beac7519%252FBruno-Santos_456020_LeftFullBodyImage.png?itok=M77JC86e",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "14",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "7",
+    "DEC": "86",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "35",
+    "height": "69.00",
+    "reach": "69.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.18",
+    "SApM": "2.27",
+    "TDAvg": "3.00",
+    "Sub.Avg": "0.33",
+    "Str.Def": "57",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "46",
+    "TD Acc.": "38"
+  }
+}

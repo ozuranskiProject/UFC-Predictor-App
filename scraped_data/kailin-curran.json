@@ -1,0 +1,34 @@
+{
+  "name": "Kailin Curran",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/fc635208-7eb7-4220-b002-03afaeb0871e%252FKailin-Curran_497150_LeftFullBodyImage.png?itok=_RHhPWoX",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "4",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "75",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "32",
+    "height": "64.00",
+    "reach": "65.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.89",
+    "SApM": "4.75",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.55",
+    "Str.Def": "53",
+    "TDDef": "62",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:46",
+    "Str. Acc.": "44",
+    "TD Acc.": "58"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ismail Naurdiev",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/NAURDIEV_ISMAIL_L_06-21.png?itok=XdZ8B-5r",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "24",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "25",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "28",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "40.50",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "3.69",
+    "SApM": "1.77",
+    "TDAvg": "1.50",
+    "Sub.Avg": "0.17",
+    "Str.Def": "65",
+    "TDDef": "73",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "53",
+    "TD Acc.": "41"
+  }
+}

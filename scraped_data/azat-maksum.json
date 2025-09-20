@@ -1,0 +1,34 @@
+{
+  "name": "Azat Maksum",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/MAKSUM_AZAT_L_02-03.png?itok=jk9Dz_IM",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "15",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "33",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "30",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.24",
+    "SApM": "5.00",
+    "TDAvg": "2.33",
+    "Sub.Avg": "0.33",
+    "Str.Def": "52",
+    "TDDef": "86",
+    "KDAvg": "0.33",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "29",
+    "TD Acc.": "28"
+  }
+}

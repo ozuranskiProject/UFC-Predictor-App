@@ -1,0 +1,34 @@
+{
+  "name": "Ning Guangyou",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/1c273b88-a9a6-42f7-9b02-68a1e35883f7%252FGuangyou-Ning_471293_LeftFullBodyImage.png?itok=hbTRanE-",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "6",
+    "losses": "4",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "17",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "41",
+    "height": "68.00",
+    "reach": "64.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.66",
+    "SApM": "1.91",
+    "TDAvg": "1.09",
+    "Sub.Avg": "0.27",
+    "Str.Def": "61",
+    "TDDef": "63",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:45",
+    "Str. Acc.": "42",
+    "TD Acc.": "50"
+  }
+}

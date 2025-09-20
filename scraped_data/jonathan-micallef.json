@@ -1,0 +1,34 @@
+{
+  "name": "Jonathan Micallef",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/MICALLEF_JONATHAN_L_02-08.png?itok=QwaVjKxW",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "8",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "25",
+    "DEC": "38",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "25",
+    "height": "72.00",
+    "reach": "77.00",
+    "leg_reach": "44.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.77",
+    "SApM": "4.00",
+    "TDAvg": "0.83",
+    "Sub.Avg": "0.83",
+    "Str.Def": "59",
+    "TDDef": "50",
+    "KDAvg": "0.83",
+    "Avg Fight Time": "09:01",
+    "Str. Acc.": "44",
+    "TD Acc.": "50"
+  }
+}

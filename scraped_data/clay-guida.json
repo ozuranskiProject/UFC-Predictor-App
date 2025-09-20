@@ -1,0 +1,34 @@
+{
+  "name": "Clay Guida",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/GUIDA_CLAY_L_12-07.png?itok=HsX4-L2r",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "38",
+    "losses": "22",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "45",
+    "SUB": "37"
+  },
+  "bio": {
+    "age": "43",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.63",
+    "SApM": "3.00",
+    "TDAvg": "3.10",
+    "Sub.Avg": "0.61",
+    "Str.Def": "61",
+    "TDDef": "66",
+    "KDAvg": "0.18",
+    "Avg Fight Time": "12:12",
+    "Str. Acc.": "34",
+    "TD Acc.": "36"
+  }
+}

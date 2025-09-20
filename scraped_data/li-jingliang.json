@@ -1,0 +1,34 @@
+{
+  "name": "Li Jingliang",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/JINGLIANG_LI_L_08-17.png?itok=WLDXMtV3",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "19",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "53",
+    "DEC": "26",
+    "SUB": "21"
+  },
+  "bio": {
+    "age": "36",
+    "height": "72.00",
+    "reach": "71.50",
+    "leg_reach": "40.50",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "4.46",
+    "SApM": "3.95",
+    "TDAvg": "1.19",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "60",
+    "KDAvg": "0.79",
+    "Avg Fight Time": "10:32",
+    "Str. Acc.": "42",
+    "TD Acc.": "42"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Aaron Pico",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/PICO_AARON_R_08-16.png?itok=tl9oSywI",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "13",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "69",
+    "DEC": "15",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "28",
+    "height": "68.00",
+    "reach": "70.50",
+    "leg_reach": "N/A",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "3.88",
+    "SApM": "2.39",
+    "TDAvg": "8.96",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "0.00",
+    "KDAvg": "03:21",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "45",
+    "TD Acc.": "67"
+  }
+}

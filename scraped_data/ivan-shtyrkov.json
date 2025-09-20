@@ -1,0 +1,34 @@
+{
+  "name": "Ivan Shtyrkov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-04/SHTYRKOV_IVAN_L.png?VersionId=wZKPzuo5jl9bphYTDrNI3SSD08ZUiVON&itok=9ivmsGQ-",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "16",
+    "losses": "0",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "31",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "34",
+    "height": "72.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "00:00",
+    "SApM": "N/A",
+    "TDAvg": "N/A",
+    "Sub.Avg": "N/A",
+    "Str.Def": "N/A",
+    "TDDef": "N/A",
+    "KDAvg": "N/A",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "N/A",
+    "TD Acc.": "N/A"
+  }
+}

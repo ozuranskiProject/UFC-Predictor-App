@@ -1,0 +1,34 @@
+{
+  "name": "Jamie Colleen",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/9be369e5-c6c7-4119-86d6-3ad53544deda%252FJamie-Colleen_635978_LeftFullBodyImage.png?itok=rkS5STnY",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "4",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "0",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "37",
+    "height": "63.00",
+    "reach": "65.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.11",
+    "SApM": "5.66",
+    "TDAvg": "0.52",
+    "Sub.Avg": "1.55",
+    "Str.Def": "33",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "14:29",
+    "Str. Acc.": "62",
+    "TD Acc.": "33"
+  }
+}

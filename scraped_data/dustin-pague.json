@@ -1,0 +1,34 @@
+{
+  "name": "Dustin Pague",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/8b78f53c-271d-43aa-ab66-cf3a379ae290%252FDustin-Pague_231411_LeftFullBodyImage.png?itok=VjReJp8X",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "11",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "0",
+    "SUB": "73"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "69.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.65",
+    "SApM": "2.96",
+    "TDAvg": "1.03",
+    "Sub.Avg": "2.57",
+    "Str.Def": "41",
+    "TDDef": "56",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:44",
+    "Str. Acc.": "54",
+    "TD Acc.": "44"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Kalindra Faria",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68438/profile-galery/fullbodyleft-picture/Kalindra-Faria_640579_LeftFullBodyImage.png?itok=245mWMMX",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "18",
+    "losses": "8",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "39",
+    "DEC": "33",
+    "SUB": "28"
+  },
+  "bio": {
+    "age": "36",
+    "height": "67.00",
+    "reach": "63.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.23",
+    "SApM": "1.44",
+    "TDAvg": "1.31",
+    "Sub.Avg": "0.66",
+    "Str.Def": "45",
+    "TDDef": "20",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:37",
+    "Str. Acc.": "56",
+    "TD Acc.": "67"
+  }
+}

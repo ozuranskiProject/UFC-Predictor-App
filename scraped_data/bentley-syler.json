@@ -1,0 +1,34 @@
+{
+  "name": "Bentley Syler",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c77f3825-d480-44cf-a350-f09b6d0eeb62%252Fbentley-syler_498753_LeftFullBodyImage.png?itok=UiCVSDRP",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "5",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "20",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "40",
+    "height": "64.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.30",
+    "SApM": "1.73",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "80",
+    "TDDef": "75",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:34",
+    "Str. Acc.": "19",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ben Saunders",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67448/profile-galery/fullbodyleft-picture/SAUNDERS_BEN_L.png?VersionId=WCnPGuqeVmHgwUhh7M0nFW16w1xdUuua&itok=LC509MGH",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "22",
+    "losses": "13",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "23",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "40",
+    "height": "74.00",
+    "reach": "77.50",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.23",
+    "SApM": "3.58",
+    "TDAvg": "0.20",
+    "Sub.Avg": "1.30",
+    "Str.Def": "51",
+    "TDDef": "67",
+    "KDAvg": "0.30",
+    "Avg Fight Time": "07:55",
+    "Str. Acc.": "50",
+    "TD Acc.": "40"
+  }
+}

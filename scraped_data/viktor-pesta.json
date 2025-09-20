@@ -1,0 +1,34 @@
+{
+  "name": "Viktor Pesta",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/ed979e1d-0009-4343-bff8-e52a7b1d817b%252FViktor-Pesta_472617_LeftFullBodyImage.png?itok=3n1czQZL",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "30",
+    "SUB": "30"
+  },
+  "bio": {
+    "age": "32",
+    "height": "76.00",
+    "reach": "77.00",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.58",
+    "SApM": "2.54",
+    "TDAvg": "3.29",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:01",
+    "Str. Acc.": "36",
+    "TD Acc.": "29"
+  }
+}

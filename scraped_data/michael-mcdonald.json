@@ -1,0 +1,34 @@
+{
+  "name": "Michael McDonald",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-03/Michael-McDonald_106902_LeftFullBodyImage.png?VersionId=A3788V9dtu7FceUxeG7zrhanR9JdY_XS&itok=x0TYgWPZ",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "17",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "32",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.69",
+    "SApM": "2.76",
+    "TDAvg": "1.09",
+    "Sub.Avg": "1.45",
+    "Str.Def": "57",
+    "TDDef": "52",
+    "KDAvg": "1.09",
+    "Avg Fight Time": "08:17",
+    "Str. Acc.": "43",
+    "TD Acc.": "67"
+  }
+}

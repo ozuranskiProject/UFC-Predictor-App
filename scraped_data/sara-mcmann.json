@@ -1,0 +1,34 @@
+{
+  "name": "Sara McMann",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/MCMANN_SARA_L_03-26.png?itok=jPsaQ4-l",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "54",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "42",
+    "height": "66.00",
+    "reach": "66.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "2.26",
+    "SApM": "1.92",
+    "TDAvg": "4.38",
+    "Sub.Avg": "0.50",
+    "Str.Def": "48",
+    "TDDef": "50",
+    "KDAvg": "0.08",
+    "Avg Fight Time": "10:41",
+    "Str. Acc.": "46",
+    "TD Acc.": "65"
+  }
+}

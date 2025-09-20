@@ -1,0 +1,34 @@
+{
+  "name": "Gilbert Urbina",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/URBINA_GILBERT_L_02-03.png?itok=2A3W6HtX",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "7",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "43",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "29",
+    "height": "69.00",
+    "reach": "75.00",
+    "leg_reach": "43.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "5.57",
+    "SApM": "4.62",
+    "TDAvg": "2.86",
+    "Sub.Avg": "0.71",
+    "Str.Def": "45",
+    "TDDef": "1.43",
+    "KDAvg": "05:15",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "57",
+    "TD Acc.": "44"
+  }
+}

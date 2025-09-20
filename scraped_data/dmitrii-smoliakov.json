@@ -1,0 +1,34 @@
+{
+  "name": "Dmitrii Smoliakov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Dimitry_Smolyavko/SMOLIAKOV_DMITRII_L.png?VersionId=ibMkXkMAi60mS2ts3PtQk3RMktxi1NwY&itok=BKipVo3h",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "0",
+    "SUB": "56"
+  },
+  "bio": {
+    "age": "40",
+    "height": "74.00",
+    "reach": "74.00",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.44",
+    "SApM": "3.81",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "75",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "04:38",
+    "Str. Acc.": "43",
+    "TD Acc.": "0"
+  }
+}

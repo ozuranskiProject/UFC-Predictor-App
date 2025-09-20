@@ -1,0 +1,34 @@
+{
+  "name": "Randa Markos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-04/69044%252Fprofile-galery%252Ffullbodyleft-picture%252FMARKOS_RANDA_L_05-01.png?itok=-WRtkZkg",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "11",
+    "losses": "12",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "85",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "37",
+    "height": "64.00",
+    "reach": "63.50",
+    "leg_reach": "39.00",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "2.97",
+    "SApM": "3.10",
+    "TDAvg": "1.12",
+    "Sub.Avg": "0.20",
+    "Str.Def": "59",
+    "TDDef": "53",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:37",
+    "Str. Acc.": "44",
+    "TD Acc.": "29"
+  }
+}

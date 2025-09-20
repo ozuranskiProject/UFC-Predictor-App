@@ -1,0 +1,34 @@
+{
+  "name": "Dominick Cruz",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CRUZ_DOMINICK_L_12-11.png?itok=vndk6bwE",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "24",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "67",
+    "SUB": "4"
+  },
+  "bio": {
+    "age": "40",
+    "height": "68.00",
+    "reach": "68.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "3.91",
+    "SApM": "2.61",
+    "TDAvg": "2.82",
+    "Sub.Avg": "0.05",
+    "Str.Def": "71",
+    "TDDef": "84",
+    "KDAvg": "0.05",
+    "Avg Fight Time": "16:51",
+    "Str. Acc.": "33",
+    "TD Acc.": "43"
+  }
+}

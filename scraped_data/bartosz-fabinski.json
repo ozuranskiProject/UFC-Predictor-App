@@ -1,0 +1,34 @@
+{
+  "name": "Bartosz Fabinski",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-04/67439%252Fprofile-galery%252Ffullbodyleft-picture%252FFABINSKI_BARTOSZ_L_04-17.png?itok=H1gTelud",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "15",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "53",
+    "DEC": "47",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "37",
+    "height": "72.00",
+    "reach": "75.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Judo"
+  },
+  "fight_stats": {
+    "SLpM": "2.23",
+    "SApM": "1.46",
+    "TDAvg": "7.10",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "80",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:27",
+    "Str. Acc.": "68",
+    "TD Acc.": "71"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Andre Petroski",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/3/PETROSKI_ANDRE_L_09-07.png?itok=jcJLBIzr",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "13",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "38",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "34",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.82",
+    "SApM": "2.75",
+    "TDAvg": "3.21",
+    "Sub.Avg": "1.31",
+    "Str.Def": "53",
+    "TDDef": "86",
+    "KDAvg": "0.12",
+    "Avg Fight Time": "11:27",
+    "Str. Acc.": "49",
+    "TD Acc.": "52"
+  }
+}

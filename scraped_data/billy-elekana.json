@@ -1,0 +1,34 @@
+{
+  "name": "Billy Elekana",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/ELEKANA_BILLY_L_01-18.png?itok=8X4MHGpR",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "50",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "30",
+    "height": "75.00",
+    "reach": "77.00",
+    "leg_reach": "43.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.34",
+    "SApM": "3.18",
+    "TDAvg": "0.64",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "0.00",
+    "KDAvg": "11:47",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "57",
+    "TD Acc.": "25"
+  }
+}

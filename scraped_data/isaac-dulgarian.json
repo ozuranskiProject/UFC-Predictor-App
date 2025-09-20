@@ -1,0 +1,34 @@
+{
+  "name": "Isaac Dulgarian",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/DULGARIAN_ISAAC_L_09-07.png?itok=blodMfhH",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "7",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "57",
+    "DEC": "0",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "28",
+    "height": "67.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "3.37",
+    "SApM": "1.82",
+    "TDAvg": "5.15",
+    "Sub.Avg": "2.06",
+    "Str.Def": "41",
+    "TDDef": "0.00",
+    "KDAvg": "09:42",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "64",
+    "TD Acc.": "53"
+  }
+}

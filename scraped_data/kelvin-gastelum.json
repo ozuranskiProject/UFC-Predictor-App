@@ -1,0 +1,34 @@
+{
+  "name": "Kelvin Gastelum",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/GASTELUM_KELVIN_L_09-13.png?itok=AWk8kp6Y",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "21",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "43",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "33",
+    "height": "69.00",
+    "reach": "71.50",
+    "leg_reach": "39.50",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "3.67",
+    "SApM": "3.49",
+    "TDAvg": "1.05",
+    "Sub.Avg": "0.09",
+    "Str.Def": "57",
+    "TDDef": "59",
+    "KDAvg": "0.41",
+    "Avg Fight Time": "13:40",
+    "Str. Acc.": "42",
+    "TD Acc.": "34"
+  }
+}

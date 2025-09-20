@@ -1,0 +1,34 @@
+{
+  "name": "Claudio Ribeiro",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/RIBEIRO_CLAUDIO_L_03-02.png?itok=e7cqIq2v",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "100",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "73.00",
+    "reach": "77.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "3.59",
+    "SApM": "4.90",
+    "TDAvg": "0.56",
+    "Sub.Avg": "0.00",
+    "Str.Def": "31",
+    "TDDef": "67",
+    "KDAvg": "1.12",
+    "Avg Fight Time": "05:21",
+    "Str. Acc.": "52",
+    "TD Acc.": "50"
+  }
+}

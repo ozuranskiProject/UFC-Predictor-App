@@ -1,0 +1,34 @@
+{
+  "name": "Jarred Brooks",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68192/profile-galery/fullbodyleft-picture/jarred-brooks_619388_LeftFullBodyImage.png?VersionId=lUcS4L42r7SzMtzt34dYW_Qh23Yf0Uzm&itok=oFwVHz4j",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "14",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "42",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "30",
+    "height": "63.00",
+    "reach": "62.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.12",
+    "SApM": "1.66",
+    "TDAvg": "4.54",
+    "Sub.Avg": "0.57",
+    "Str.Def": "63",
+    "TDDef": "69",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:14",
+    "Str. Acc.": "46",
+    "TD Acc.": "57"
+  }
+}

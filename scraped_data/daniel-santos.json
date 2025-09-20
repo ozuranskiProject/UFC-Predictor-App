@@ -1,0 +1,34 @@
+{
+  "name": "Daniel Santos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/SANTOS_DANIEL_L_05-10.png?itok=KGmnbHtO",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "13",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "46",
+    "DEC": "38",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "30",
+    "height": "67.00",
+    "reach": "67.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "4.74",
+    "SApM": "4.96",
+    "TDAvg": "3.03",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "73",
+    "KDAvg": "0.28",
+    "Avg Fight Time": "13:37",
+    "Str. Acc.": "40",
+    "TD Acc.": "39"
+  }
+}

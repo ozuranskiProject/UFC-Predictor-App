@@ -1,0 +1,34 @@
+{
+  "name": "Jorge de Oliveira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/79fe69fb-c27a-4c43-9d69-f8835d679d6e%252Fjorge-de-oliveira_508624_LeftFullBodyImage.png?itok=LAc_0vVl",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "0",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "43",
+    "height": "68.00",
+    "reach": "71.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.26",
+    "SApM": "4.84",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "22",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:06",
+    "Str. Acc.": "32",
+    "TD Acc.": "N/A"
+  }
+}

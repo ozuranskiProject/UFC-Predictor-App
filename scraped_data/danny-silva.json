@@ -1,0 +1,34 @@
+{
+  "name": "Danny Silva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/SILVA_DANNY_L_08-02.png?itok=MjjHgjF-",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "28",
+    "height": "71.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "6.67",
+    "SApM": "7.47",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.25",
+    "Str.Def": "61",
+    "TDDef": "82",
+    "KDAvg": "0.25",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "55",
+    "TD Acc.": "33"
+  }
+}

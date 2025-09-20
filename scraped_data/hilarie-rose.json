@@ -1,0 +1,34 @@
+{
+  "name": "Hilarie Rose",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c6af9eb8-d81b-4d20-8a16-75ffc638434f%252FROSE_HILARIE_R.png?itok=5g4RsdH0",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "4",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "30",
+    "height": "N/A",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.33",
+    "SApM": "6.13",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "44",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "34",
+    "TD Acc.": "0"
+  }
+}

@@ -1,14 +1,14 @@
 import React, { useEffect, useState, useMemo } from 'react';
-import { View, Text, StyleSheet, ActivityIndicator, Pressable } from 'react-native';
+import { View, Text, StyleSheet, ActivityIndicator, Pressable, Platform } from 'react-native';
 import WeightClassSelector, { weightClasses } from './weight-class-picker';
 import FighterSearch from './fighterSearch';
-import fighters from './fighterService';
 import calculateFight, { DEFAULT_WEIGHTS } from './calculateFight';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 export default function App() {
-  const [isReady, setIsReady] = useState(false); //use of true/false useState default automatically makes isReady hold boolean
+  const [isReady, setIsReady] = useState(false); 
 
-  const [weightClassLabel, setWeightClassLabel] = useState("Women's Strawweight"); // label in state // preselect weight class
+  const [weightClassLabel, setWeightClassLabel] = useState("Women's Strawweight"); // preselected weight class
 
   const [fighterA, setFighterA] = useState(null);
   const [fighterB, setFighterB] = useState(null);
@@ -19,28 +19,27 @@ export default function App() {
     [weightClassLabel]
   );
 
-  useEffect(() => {                     //useEffect is confusing me but from my understanding, it lets you run something once after the app loads,
+  // simulate loading time for splash screen
+  useEffect(() => {                     
     const SPLASH_DELAY = 2500;
-                                        // without it happening again every time the screen updates or "rerenders"
-    const timer = setTimeout(() => {  // setTimeout ({code to execute}, time to wait before doing so)
+                                        
+    const timer = setTimeout(() => { 
       setIsReady(true);                  
-    }, SPLASH_DELAY); // 2.5 second splash delay
-    return () => clearTimeout(timer); // cleanup on "unmount" aka get ridda dis shit when you done we dont need it
+    }, SPLASH_DELAY); 
+    return () => clearTimeout(timer);  
   }, []);
 
   // clear last result whenever the weight class changes
   useEffect(() => {
     setResult(null);
-    // If you also want to clear the picks themselves, uncomment:
     setFighterA(null);
     setFighterB(null);
   }, [weightClassLabel]);
 
   const readyToFight = !!(fighterA && fighterB);
 
-  
-
-  if (!isReady) {  //while setTimeout is still riding its delay, this will run as in the useState statement, isReady is set to false
+  //splash screen
+  if (!isReady) {  
     return (
       <View style={styles.splashContainer}>
         <Text style={styles.splashText}>UFC App</Text>
@@ -49,47 +48,64 @@ export default function App() {
     );
   }
 
+  //main app UI
   return (
-    <View style={styles.container}>
-      <WeightClassSelector 
-        selectedLabel={weightClassLabel}
-        onSelect={setWeightClassLabel}
-      />
-      <Text style={styles.welcome}>Choose your matchup!!!</Text>
+    <SafeAreaView style={styles.root} edges={['bottom', 'left', 'right']}>
+      <View style={styles.content}>
+        <WeightClassSelector 
+          selectedLabel={weightClassLabel}
+          onSelect={setWeightClassLabel}
+        />
+        <Text style={styles.welcome}>Choose your matchup!!!</Text>
 
-      <View style={styles.searchRow}>
-        <FighterSearch style={styles.searchBox} weightClassLabel={weightClassLabel} weightClassCode={weightClassCode} onSelect={setFighterA}/>
-        <FighterSearch style={styles.searchBox} weightClassLabel={weightClassLabel} weightClassCode={weightClassCode} onSelect={setFighterB}/>
+        <View style={styles.searchRow}>
+          <FighterSearch style={styles.searchBox} weightClassLabel={weightClassLabel} weightClassCode={weightClassCode} onSelect={setFighterA}/>
+          <FighterSearch style={styles.searchBox} weightClassLabel={weightClassLabel} weightClassCode={weightClassCode} onSelect={setFighterB}/>
+        </View>
+
+        {result && (
+          <View style={styles.resultBox}>
+            <Text style={styles.resultTitle}>Result</Text>
+            <Text style={styles.resultText}>{fighterA?.name}: {result.percent1}%</Text>
+            <Text style={styles.resultText}>{fighterB?.name}: {result.percent2}%</Text>
+          </View>
+        )}
       </View>
 
-      <Pressable
-        onPress={() => {
-          console.log('pressed fight', { 
-          readyToFight, 
-          fighterA: fighterA?.name, 
-          fighterB: fighterB?.name 
-        });
-          if (!readyToFight) return;
-          const r = calculateFight(fighterA, fighterB, DEFAULT_WEIGHTS);
-          setResult(r);
-        }}
-        style={[styles.fightButton, !readyToFight && styles.fightButtonDisabled]}
-      >
-        <Text style={{ color: 'white', fontWeight: 'bold', textAlign: 'center' }}>FIGHT!</Text>
-      </Pressable>
-
-      {result && (
-      <View style={styles.resultBox}>
-        <Text style={styles.resultTitle}>Result</Text>
-        <Text style={styles.resultText}>{fighterA?.name}: {result.percent1}%</Text>
-        <Text style={styles.resultText}>{fighterB?.name}: {result.percent2}%</Text>
+      <View style={styles.footer}> 
+        <Pressable
+          onPress={() => {
+            console.log('pressed fight', { 
+              readyToFight, 
+              fighterA: fighterA?.name, 
+              fighterB: fighterB?.name 
+            });
+            if (!readyToFight) return;
+            const r = calculateFight(fighterA, fighterB, DEFAULT_WEIGHTS);
+            setResult(r);
+          }}
+          style={[styles.fightButton, !readyToFight && styles.fightButtonDisabled]}
+          android_ripple={{ color: '#ffffff33' }} 
+        >
+          <Text style={styles.fightText}>FIGHT!</Text> 
+        </Pressable>
       </View>
-      )}
-    </View >
+    </SafeAreaView>
   );
 }
 
+
 const styles = StyleSheet.create({
+  root: { 
+    flex: 1, 
+    backgroundColor: 'white' 
+  }, 
+  content: {                                   
+    flex: 1,
+    paddingHorizontal: 20,
+    paddingTop: 50,
+    paddingBottom: 88, // keep content clear of the fixed footer
+  },
   splashContainer: {
     flex: 1,
     justifyContent: 'center',
@@ -124,13 +140,15 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   fightButton: {
-    marginTop: 16,
     backgroundColor: '#e63946',
-    color: 'white',
-    textAlign: 'center',
-    paddingVertical: 10,
     borderRadius: 10,
+    paddingVertical: 12,
+  },
+  fightText: {                  
+    color: 'white',
     fontWeight: 'bold',
+    textAlign: 'center',
+    fontSize: 16,
   },
   fightButtonDisabled: {
     opacity: 0.4,
@@ -144,5 +162,18 @@ const styles = StyleSheet.create({
   },
   resultText: {
     fontSize: 14,
+  },
+  footer: {                     
+    position: 'absolute',
+    left: 0, right: 0, bottom: 0,
+    height: 72,
+    paddingHorizontal: 20,
+    paddingTop: 8,
+    paddingBottom: 12,
+    backgroundColor: '#ffffffff',
+    ...Platform.select({
+      ios: { shadowColor: '#000', shadowOpacity: 0.25, shadowRadius: 8, shadowOffset: { width: 0, height: -2 } },
+      android: { elevation: 12 },
+    }),
   },
 });

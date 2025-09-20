@@ -1,0 +1,34 @@
+{
+  "name": "Cory Hendricks",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/cd34d64b-d01e-4dc6-bd43-32214ec8571c%252Fcory-hendricks_587585_LeftFullBodyImage.png?itok=suLuKtaX",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "3",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "100"
+  },
+  "bio": {
+    "age": "35",
+    "height": "75.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.13",
+    "SApM": "4.07",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "43",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "40",
+    "TD Acc.": "0"
+  }
+}

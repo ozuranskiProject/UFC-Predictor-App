@@ -1,0 +1,34 @@
+{
+  "name": "Don'Tale Mayes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/MAYES_DONTALE_L_02-15.png?itok=kT53zu77",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "11",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "64",
+    "DEC": "36",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "78.00",
+    "reach": "81.00",
+    "leg_reach": "44.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "3.22",
+    "SApM": "3.61",
+    "TDAvg": "0.59",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "47",
+    "KDAvg": "0.25",
+    "Avg Fight Time": "11:55",
+    "Str. Acc.": "43",
+    "TD Acc.": "39"
+  }
+}

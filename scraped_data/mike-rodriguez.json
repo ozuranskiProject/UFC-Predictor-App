@@ -1,0 +1,34 @@
+{
+  "name": "Mike Rodriguez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-09/68843%252Fprofile-galery%252Ffullbodyleft-picture%252FRODRIGUEZ_MIKE_L_09-18.png?itok=2H073bVO",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "11",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "82",
+    "DEC": "0",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "34",
+    "height": "76.00",
+    "reach": "82.50",
+    "leg_reach": "45.50",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "4.35",
+    "SApM": "4.24",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "41",
+    "TDDef": "38",
+    "KDAvg": "1.18",
+    "Avg Fight Time": "08:28",
+    "Str. Acc.": "54",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Khama Worthy",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-10/68507%252Fprofile-galery%252Ffullbodyleft-picture%252FWORTHY_KHAMA_L_10-23.png?itok=3cPlH-Kx",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "16",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "56",
+    "DEC": "25",
+    "SUB": "19"
+  },
+  "bio": {
+    "age": "36",
+    "height": "71.00",
+    "reach": "74.00",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.18",
+    "SApM": "4.45",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.67",
+    "Str.Def": "46",
+    "TDDef": "57",
+    "KDAvg": "0.67",
+    "Avg Fight Time": "04:27",
+    "Str. Acc.": "48",
+    "TD Acc.": "N/A"
+  }
+}

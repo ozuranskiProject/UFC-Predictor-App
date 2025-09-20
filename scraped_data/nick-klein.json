@@ -1,0 +1,34 @@
+{
+  "name": "Nick Klein",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/KLEIN_NICK_L_08-02.png?itok=k2objJu7",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "6",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "17",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "29",
+    "height": "73.00",
+    "reach": "77.00",
+    "leg_reach": "43.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.51",
+    "SApM": "3.41",
+    "TDAvg": "5.79",
+    "Sub.Avg": "1.93",
+    "Str.Def": "40",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:11",
+    "Str. Acc.": "57",
+    "TD Acc.": "35"
+  }
+}

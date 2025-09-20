@@ -1,0 +1,34 @@
+{
+  "name": "Kevin Holland",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/HOLLAND_KEVIN_L_07-19.png?itok=nH8QxUeu",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "28",
+    "losses": "14",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "18",
+    "SUB": "32"
+  },
+  "bio": {
+    "age": "32",
+    "height": "75.00",
+    "reach": "81.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Kung Fu"
+  },
+  "fight_stats": {
+    "SLpM": "4.30",
+    "SApM": "3.22",
+    "TDAvg": "0.82",
+    "Sub.Avg": "0.56",
+    "Str.Def": "50",
+    "TDDef": "55",
+    "KDAvg": "0.36",
+    "Avg Fight Time": "10:29",
+    "Str. Acc.": "50",
+    "TD Acc.": "38"
+  }
+}

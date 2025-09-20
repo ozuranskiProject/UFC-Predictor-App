@@ -1,0 +1,34 @@
+{
+  "name": "Hans Stringer",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/8e0094fb-9305-412d-8ff9-862e89592085%252FHans-Stringer_472611_LeftFullBodyImage.png?itok=VEmcvTOm",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "22",
+    "losses": "7",
+    "draws": "3"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "23",
+    "SUB": "36"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "75.00",
+    "reach": "73.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.16",
+    "SApM": "2.84",
+    "TDAvg": "2.40",
+    "Sub.Avg": "0.00",
+    "Str.Def": "42",
+    "TDDef": "63",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:21",
+    "Str. Acc.": "62",
+    "TD Acc.": "36"
+  }
+}

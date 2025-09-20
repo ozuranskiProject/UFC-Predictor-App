@@ -1,0 +1,34 @@
+{
+  "name": "Irwin Rivera",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-08/RIVERA_IRWIN_L_05-16.png?VersionId=LkJVPBiEMJghdeIPxWUnVNC0jMKXtIX_&itok=cTA8l6Gl",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "40",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "34",
+    "height": "66.00",
+    "reach": "67.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.36",
+    "SApM": "5.07",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "70",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "44",
+    "TD Acc.": "17"
+  }
+}

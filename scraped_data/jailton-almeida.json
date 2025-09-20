@@ -1,0 +1,34 @@
+{
+  "name": "Jailton Almeida",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/7/ALMEIDA_JAILTON_L_01-18.png?itok=HnlmpXNa",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "22",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "5",
+    "SUB": "59"
+  },
+  "bio": {
+    "age": "34",
+    "height": "75.00",
+    "reach": "79.00",
+    "leg_reach": "43.50",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "2.62",
+    "SApM": "0.89",
+    "TDAvg": "6.58",
+    "Sub.Avg": "2.41",
+    "Str.Def": "42",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "06:50",
+    "Str. Acc.": "66",
+    "TD Acc.": "60"
+  }
+}

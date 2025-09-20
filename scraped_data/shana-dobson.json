@@ -1,0 +1,34 @@
+{
+  "name": "Shana Dobson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-02/DOBSON_SHANA_L.png?VersionId=Y4M4ba4Qt86pGNmPnStWNSberc4.46j5&itok=RCgYeAKN",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "4",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "34",
+    "height": "66.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.34",
+    "SApM": "5.20",
+    "TDAvg": "0.84",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "14",
+    "KDAvg": "0.28",
+    "Avg Fight Time": "08:59",
+    "Str. Acc.": "38",
+    "TD Acc.": "50"
+  }
+}

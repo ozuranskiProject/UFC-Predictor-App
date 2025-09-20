@@ -1,0 +1,34 @@
+{
+  "name": "J\u00e9ssica Andrade",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/ANDRADE_JESSICA_L_08-16.png?itok=IRnHw-dk",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "26",
+    "losses": "15",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "31",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "33",
+    "height": "61.50",
+    "reach": "62.00",
+    "leg_reach": "35.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "6.37",
+    "SApM": "5.58",
+    "TDAvg": "2.10",
+    "Sub.Avg": "0.31",
+    "Str.Def": "54",
+    "TDDef": "75",
+    "KDAvg": "0.37",
+    "Avg Fight Time": "09:33",
+    "Str. Acc.": "49",
+    "TD Acc.": "54"
+  }
+}

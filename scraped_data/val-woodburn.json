@@ -1,0 +1,34 @@
+{
+  "name": "Val Woodburn",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/WOODBURN_VAL_L_02-17.png?itok=Hkc59JZ-",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "29",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "30",
+    "height": "68.00",
+    "reach": "74.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "1.60",
+    "SApM": "4.93",
+    "TDAvg": "1.92",
+    "Sub.Avg": "0.00",
+    "Str.Def": "36",
+    "TDDef": "50",
+    "KDAvg": "0.96",
+    "Avg Fight Time": "07:49",
+    "Str. Acc.": "36",
+    "TD Acc.": "100"
+  }
+}

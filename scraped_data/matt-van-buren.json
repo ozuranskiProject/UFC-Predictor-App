@@ -1,0 +1,34 @@
+{
+  "name": "Matt Van Buren",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/50cb4203-8a8a-4579-a74b-5309257ead2a%252Fmatt-van-buren_480076_LeftFullBodyImage.png?itok=UoLG7Kuq",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "43",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "37",
+    "height": "77.00",
+    "reach": "76.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "7.73",
+    "SApM": "6.82",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "06:36",
+    "Str. Acc.": "46",
+    "TD Acc.": "N/A"
+  }
+}

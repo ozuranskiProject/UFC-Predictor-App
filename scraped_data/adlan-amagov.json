@@ -1,0 +1,34 @@
+{
+  "name": "Adlan Amagov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67151/profile-galery/fullbodyleft-picture/Adlan-Amagov_242025_LeftFullBodyImage.png?VersionId=K9XOpIQD6YOiC_x6vRThCH756JI2QeXT&itok=LhoeXrCT",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "13",
+    "losses": "2",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "62",
+    "DEC": "38",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "36",
+    "height": "74.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.29",
+    "SApM": "0.82",
+    "TDAvg": "5.84",
+    "Sub.Avg": "0.00",
+    "Str.Def": "79",
+    "TDDef": "100",
+    "KDAvg": "1.30",
+    "Avg Fight Time": "06:21",
+    "Str. Acc.": "48",
+    "TD Acc.": "56"
+  }
+}

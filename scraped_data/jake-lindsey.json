@@ -1,0 +1,34 @@
+{
+  "name": "Jake Lindsey",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c94252c8-fe2c-4795-89e4-af0de1ef897c%252FJake-Lindsey_484469_LeftFullBodyImage.png?itok=39X4ZxM3",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "56",
+    "DEC": "22",
+    "SUB": "22"
+  },
+  "bio": {
+    "age": "36",
+    "height": "71.00",
+    "reach": "71.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.44",
+    "SApM": "4.01",
+    "TDAvg": "0.65",
+    "Sub.Avg": "0.00",
+    "Str.Def": "46",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:39",
+    "Str. Acc.": "53",
+    "TD Acc.": "33"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Vitor Petrino",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/PETRINO_VITOR_L_07-12.png?itok=ZZcR6WhK",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "58",
+    "DEC": "25",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "27",
+    "height": "74.00",
+    "reach": "77.50",
+    "leg_reach": "42.50",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.72",
+    "SApM": "2.60",
+    "TDAvg": "3.25",
+    "Sub.Avg": "0.96",
+    "Str.Def": "47",
+    "TDDef": "71",
+    "KDAvg": "0.38",
+    "Avg Fight Time": "09:48",
+    "Str. Acc.": "45",
+    "TD Acc.": "59"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Pedro Munhoz",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/MUNHOZ_PEDRO_L_03-09.png?itok=0qaH1-AH",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "20",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "26",
+    "DEC": "32",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "38",
+    "height": "66.00",
+    "reach": "64.50",
+    "leg_reach": "36.50",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "5.38",
+    "SApM": "6.29",
+    "TDAvg": "0.48",
+    "Sub.Avg": "0.48",
+    "Str.Def": "56",
+    "TDDef": "82",
+    "KDAvg": "0.42",
+    "Avg Fight Time": "11:28",
+    "Str. Acc.": "42",
+    "TD Acc.": "16"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Jesse Ronson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/RONSON_JESSE_L_04-16.png?itok=Hgt8Ge2i",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "21",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "48",
+    "DEC": "19",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "38",
+    "height": "70.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "3.54",
+    "SApM": "3.39",
+    "TDAvg": "0.46",
+    "Sub.Avg": "0.46",
+    "Str.Def": "57",
+    "TDDef": "57",
+    "KDAvg": "0.23",
+    "Avg Fight Time": "10:58",
+    "Str. Acc.": "48",
+    "TD Acc.": "29"
+  }
+}

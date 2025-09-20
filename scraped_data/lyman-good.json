@@ -1,0 +1,34 @@
+{
+  "name": "Lyman Good",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-11/GOOD_LYMAN_L.png?VersionId=CPpkYJ_0U1HYGGM0PHYntm7lKpfx.IaC&itok=LwKx4Y9m",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "21",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "52",
+    "DEC": "33",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "38",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.34",
+    "SApM": "4.01",
+    "TDAvg": "0.27",
+    "Sub.Avg": "0.00",
+    "Str.Def": "63",
+    "TDDef": "75",
+    "KDAvg": "0.82",
+    "Avg Fight Time": "09:08",
+    "Str. Acc.": "49",
+    "TD Acc.": "100"
+  }
+}

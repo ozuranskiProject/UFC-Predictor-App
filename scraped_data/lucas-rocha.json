@@ -1,0 +1,34 @@
+{
+  "name": "Lucas Rocha",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/ROCHA_LUCAS_L_10-12.png?itok=l4o2nBRD",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "17",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "59",
+    "DEC": "18",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "24",
+    "height": "63.00",
+    "reach": "64.00",
+    "leg_reach": "35.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "2.00",
+    "SApM": "4.48",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "40",
+    "TDDef": "61",
+    "KDAvg": "1.20",
+    "Avg Fight Time": "06:15",
+    "Str. Acc.": "45",
+    "TD Acc.": "N/A"
+  }
+}

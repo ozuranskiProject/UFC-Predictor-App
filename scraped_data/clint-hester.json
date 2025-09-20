@@ -1,0 +1,34 @@
+{
+  "name": "Clint Hester",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/5ef8522f-5a8b-4a7d-a006-93fe20dbbfb2%252FClint-Hester_307108_LeftFullBodyImage.png?itok=97gopQvb",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "11",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "27",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "36",
+    "height": "74.00",
+    "reach": "77.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.36",
+    "SApM": "3.44",
+    "TDAvg": "1.02",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "60",
+    "KDAvg": "0.61",
+    "Avg Fight Time": "10:33",
+    "Str. Acc.": "43",
+    "TD Acc.": "36"
+  }
+}

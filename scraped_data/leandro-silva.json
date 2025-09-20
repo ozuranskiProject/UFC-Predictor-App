@@ -1,0 +1,34 @@
+{
+  "name": "Leandro Silva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/903b7e5a-d002-4081-b883-b472aa7fb1b3%252FLeandro-Silva_312129_LeftFullBodyImage.png?itok=Q-OULzkx",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "19",
+    "losses": "4",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "5",
+    "DEC": "42",
+    "SUB": "53"
+  },
+  "bio": {
+    "age": "37",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.39",
+    "SApM": "2.08",
+    "TDAvg": "1.76",
+    "Sub.Avg": "0.44",
+    "Str.Def": "63",
+    "TDDef": "66",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:45",
+    "Str. Acc.": "49",
+    "TD Acc.": "38"
+  }
+}

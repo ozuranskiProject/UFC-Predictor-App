@@ -1,0 +1,34 @@
+{
+  "name": "Rodolfo Rubio",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/66f60efc-193a-4540-a236-5a7204548cba%252Frodolfo-rubio_498746_LeftFullBodyImage.png?itok=jvoQNweh",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "12",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "25",
+    "DEC": "0",
+    "SUB": "75"
+  },
+  "bio": {
+    "age": "36",
+    "height": "65.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.13",
+    "SApM": "1.00",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "63",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "36",
+    "TD Acc.": "33"
+  }
+}

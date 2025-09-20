@@ -1,0 +1,34 @@
+{
+  "name": "Henry Cejudo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/CEJUDO_HENRY_L_02-22.png?itok=CMwsJT_m",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "16",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "38",
+    "height": "64.00",
+    "reach": "64.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "3.82",
+    "SApM": "3.46",
+    "TDAvg": "1.84",
+    "Sub.Avg": "0.15",
+    "Str.Def": "60",
+    "TDDef": "76",
+    "KDAvg": "0.37",
+    "Avg Fight Time": "13:34",
+    "Str. Acc.": "47",
+    "TD Acc.": "31"
+  }
+}

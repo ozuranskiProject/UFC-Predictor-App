@@ -1,0 +1,34 @@
+{
+  "name": "Charalampos Grigoriou",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/GRIGORIOU_CHARALAMPOS_L_03-16.png?itok=JSBfpep2",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "8",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "25",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "32",
+    "height": "67.00",
+    "reach": "67.50",
+    "leg_reach": "38.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.62",
+    "SApM": "3.97",
+    "TDAvg": "2.62",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "91",
+    "KDAvg": "1.31",
+    "Avg Fight Time": "07:38",
+    "Str. Acc.": "49",
+    "TD Acc.": "80"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Carlos Vera",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/VERA_CARLOS_L_03-15.png?itok=76csF_xR",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "8",
+    "DEC": "42",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "37",
+    "height": "66.00",
+    "reach": "69.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "1.53",
+    "SApM": "2.79",
+    "TDAvg": "0.00",
+    "Sub.Avg": "1.64",
+    "Str.Def": "50",
+    "TDDef": "25",
+    "KDAvg": "0.82",
+    "Avg Fight Time": "09:08",
+    "Str. Acc.": "57",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Jack May",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/07af50e6-7267-4ad2-85f5-6b1d4a9b5b12%252FJack-May_472737_LeftFullBodyImage.png?itok=dht_j28d",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "86",
+    "DEC": "14",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "80.00",
+    "reach": "80.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.52",
+    "SApM": "3.29",
+    "TDAvg": "0.91",
+    "Sub.Avg": "0.00",
+    "Str.Def": "33",
+    "TDDef": "20",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:13",
+    "Str. Acc.": "38",
+    "TD Acc.": "33"
+  }
+}

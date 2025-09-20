@@ -1,0 +1,34 @@
+{
+  "name": "Kayla Harrison",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/HARRISON_KAYLA_L_BELTMOCK.png?itok=MXSv0lOw",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "19",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "26",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "35",
+    "height": "68.00",
+    "reach": "66.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Judo"
+  },
+  "fight_stats": {
+    "SLpM": "4.29",
+    "SApM": "1.10",
+    "TDAvg": "2.84",
+    "Sub.Avg": "0.95",
+    "Str.Def": "66",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:34",
+    "Str. Acc.": "62",
+    "TD Acc.": "38"
+  }
+}

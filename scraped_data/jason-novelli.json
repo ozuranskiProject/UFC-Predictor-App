@@ -1,0 +1,34 @@
+{
+  "name": "Jason Novelli",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/b71621f4-fb8c-41e9-97ed-f65db459db5f%252FJason-Novelli_596662_LeftFullBodyImage.png?itok=SAo3vCNF",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "18",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "44",
+    "height": "72.00",
+    "reach": "75.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.73",
+    "SApM": "3.55",
+    "TDAvg": "0.70",
+    "Sub.Avg": "0.00",
+    "Str.Def": "67",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:43",
+    "Str. Acc.": "24",
+    "TD Acc.": "33"
+  }
+}

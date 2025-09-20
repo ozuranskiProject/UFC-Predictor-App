@@ -1,0 +1,34 @@
+{
+  "name": "Mizuki",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-09/INOUE_MIZUKI_L_09-23.png?itok=_2dCEPlA",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "15",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "36",
+    "SUB": "64"
+  },
+  "bio": {
+    "age": "29",
+    "height": "63.00",
+    "reach": "65.50",
+    "leg_reach": "35.00",
+    "fighting_style": "Karate"
+  },
+  "fight_stats": {
+    "SLpM": "4.56",
+    "SApM": "5.62",
+    "TDAvg": "0.33",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "85",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "51",
+    "TD Acc.": "14"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Steve Garcia",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/GARCIA_STEVE_L_09-07.png?itok=iZAOS8kx",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "18",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "78",
+    "DEC": "22",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "72.00",
+    "reach": "75.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "5.18",
+    "SApM": "2.20",
+    "TDAvg": "0.90",
+    "Sub.Avg": "0.45",
+    "Str.Def": "58",
+    "TDDef": "89",
+    "KDAvg": "2.26",
+    "Avg Fight Time": "06:02",
+    "Str. Acc.": "49",
+    "TD Acc.": "40"
+  }
+}

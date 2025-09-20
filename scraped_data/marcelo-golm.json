@@ -1,0 +1,34 @@
+{
+  "name": "Marcelo Golm",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69613/profile-galery/fullbodyleft-picture/Marcelo-Golm_641626_LeftFullBodyImage.png?VersionId=EzjpmibuXItirDqEAGXQnby8glcaxw5C&itok=08NhUt6p",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "6",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "83",
+    "DEC": "0",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "30",
+    "height": "75.00",
+    "reach": "75.50",
+    "leg_reach": "42.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.27",
+    "SApM": "4.30",
+    "TDAvg": "0.45",
+    "Sub.Avg": "0.45",
+    "Str.Def": "46",
+    "TDDef": "88",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:19",
+    "Str. Acc.": "58",
+    "TD Acc.": "50"
+  }
+}

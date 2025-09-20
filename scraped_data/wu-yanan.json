@@ -1,0 +1,34 @@
+{
+  "name": "Wu Yanan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-08/WU_YANAN_L_08-20.png?itok=FabHHrun",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "8",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "27",
+    "height": "68.00",
+    "reach": "66.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.23",
+    "SApM": "4.95",
+    "TDAvg": "0.62",
+    "Sub.Avg": "0.21",
+    "Str.Def": "50",
+    "TDDef": "63",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:11",
+    "Str. Acc.": "41",
+    "TD Acc.": "30"
+  }
+}

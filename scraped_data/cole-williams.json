@@ -1,0 +1,34 @@
+{
+  "name": "Cole Williams",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-10/67660%252Fprofile-galery%252Ffullbodyleft-picture%252FWILLIAMS_COLE_L_08-03.png?itok=c-Xhlqze",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "45",
+    "DEC": "27",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "39",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.31",
+    "SApM": "5.34",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "24",
+    "TDDef": "25",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "04:52",
+    "Str. Acc.": "27",
+    "TD Acc.": "N/A"
+  }
+}

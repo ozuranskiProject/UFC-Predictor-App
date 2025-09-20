@@ -1,0 +1,34 @@
+{
+  "name": "Said Nurmagomedov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/NURMAGOMEDOV_SAID_L_02-01.png?itok=KZZ4SeN6",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "18",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "44",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "33",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "38.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.08",
+    "SApM": "2.05",
+    "TDAvg": "0.86",
+    "Sub.Avg": "1.15",
+    "Str.Def": "56",
+    "TDDef": "63",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "09:28",
+    "Str. Acc.": "49",
+    "TD Acc.": "15"
+  }
+}

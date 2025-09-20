@@ -1,0 +1,34 @@
+{
+  "name": "Rustam Khabilov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/KHABILOV_RUSTAM_L.png?VersionId=DqMw_Xo7V8G7sQ8HSM5xwkE3X71dcpe7&itok=8PzBdQ_s",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "24",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "61",
+    "SUB": "22"
+  },
+  "bio": {
+    "age": "36",
+    "height": "68.00",
+    "reach": "73.00",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.98",
+    "SApM": "2.16",
+    "TDAvg": "3.95",
+    "Sub.Avg": "0.09",
+    "Str.Def": "66",
+    "TDDef": "61",
+    "KDAvg": "0.09",
+    "Avg Fight Time": "13:09",
+    "Str. Acc.": "34",
+    "TD Acc.": "42"
+  }
+}

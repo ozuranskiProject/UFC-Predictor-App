@@ -1,0 +1,34 @@
+{
+  "name": "Richardson Moreira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/08d8e5f0-4b51-4991-8c31-823adae36c72%252Frichardson-moreira_477653_LeftFullBodyImage.png?itok=J5S7IzhF",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "7",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "0",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "39",
+    "height": "74.00",
+    "reach": "72.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.17",
+    "SApM": "1.83",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "67",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:40",
+    "Str. Acc.": "29",
+    "TD Acc.": "0"
+  }
+}

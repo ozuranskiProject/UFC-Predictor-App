@@ -1,0 +1,34 @@
+{
+  "name": "Austen Lane",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/LANE_AUSTEN_L_03-01.png?itok=BfNZ7Enk",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "13",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "85",
+    "DEC": "8",
+    "SUB": "8"
+  },
+  "bio": {
+    "age": "37",
+    "height": "78.00",
+    "reach": "80.00",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.74",
+    "SApM": "2.23",
+    "TDAvg": "1.52",
+    "Sub.Avg": "0.00",
+    "Str.Def": "41",
+    "TDDef": "33",
+    "KDAvg": "0.38",
+    "Avg Fight Time": "04:56",
+    "Str. Acc.": "51",
+    "TD Acc.": "29"
+  }
+}

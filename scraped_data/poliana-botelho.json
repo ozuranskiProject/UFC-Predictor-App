@@ -1,0 +1,34 @@
+{
+  "name": "Poliana Botelho",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/bb68db83-d1ae-41da-bda0-851e66497b0d%252FBOTELHO_POLIANA_L_06-04.png?itok=orrVBAc5",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "8",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "25",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "34",
+    "height": "68.00",
+    "reach": "67.00",
+    "leg_reach": "39.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.90",
+    "SApM": "2.80",
+    "TDAvg": "0.85",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "77",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "10:02",
+    "Str. Acc.": "59",
+    "TD Acc.": "57"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Alexander Volkov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/VOLKOV_ALEXANDER_L_06-22.png?itok=HddRChOQ",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "38",
+    "losses": "11",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "26",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "36",
+    "height": "79.00",
+    "reach": "80.00",
+    "leg_reach": "47.50",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "4.97",
+    "SApM": "2.99",
+    "TDAvg": "0.61",
+    "Sub.Avg": "0.24",
+    "Str.Def": "54",
+    "TDDef": "72",
+    "KDAvg": "0.24",
+    "Avg Fight Time": "12:57",
+    "Str. Acc.": "57",
+    "TD Acc.": "67"
+  }
+}

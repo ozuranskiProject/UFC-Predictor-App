@@ -1,0 +1,34 @@
+{
+  "name": "Daniel Kelly",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/3e5a79e2-5d08-4f04-86b2-c1e66e9d2dca%252FDan-Kelly_465475_LeftFullBodyImage.png?itok=mMPpgcLl",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "13",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "25",
+    "DEC": "33",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "45",
+    "height": "72.00",
+    "reach": "70.50",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.62",
+    "SApM": "4.64",
+    "TDAvg": "1.86",
+    "Sub.Avg": "0.31",
+    "Str.Def": "62",
+    "TDDef": "79",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:40",
+    "Str. Acc.": "39",
+    "TD Acc.": "34"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sean Sharaf",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/SHERAF_SEAN_L_10-12.png?itok=Ph1Tb6lT",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "4",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "100",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "75.00",
+    "reach": "77.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "7.31",
+    "SApM": "9.79",
+    "TDAvg": "2.07",
+    "Sub.Avg": "0.00",
+    "Str.Def": "45",
+    "TDDef": "0.00",
+    "KDAvg": "07:15",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "45",
+    "TD Acc.": "13"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Bradley Scott",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67488/profile-galery/fullbodyleft-picture/brad-scott_290166_LeftFullBodyImage.png?VersionId=gdi_M7aRJKuYQDn5I5Zfy4l_vO1qnyAB&itok=RpvbM6wr",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "12",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "42",
+    "DEC": "17",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "33",
+    "height": "73.00",
+    "reach": "76.00",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.52",
+    "SApM": "4.31",
+    "TDAvg": "0.32",
+    "Sub.Avg": "0.65",
+    "Str.Def": "57",
+    "TDDef": "64",
+    "KDAvg": "0.32",
+    "Avg Fight Time": "11:38",
+    "Str. Acc.": "42",
+    "TD Acc.": "15"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Kanako Murata",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/71616%252Fprofile-galery%252Ffullbodyleft-picture%252FMURATA_KANAKO_L_06-19.png?itok=AI2zyW5V",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "12",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "17",
+    "DEC": "50",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "30",
+    "height": "61.00",
+    "reach": "62.00",
+    "leg_reach": "34.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.15",
+    "SApM": "2.40",
+    "TDAvg": "3.38",
+    "Sub.Avg": "0.75",
+    "Str.Def": "53",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:20",
+    "Str. Acc.": "57",
+    "TD Acc.": "56"
+  }
+}

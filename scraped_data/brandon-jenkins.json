@@ -1,0 +1,34 @@
+{
+  "name": "Brandon Jenkins",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-11/84837%252Fprofile-galery%252Ffullbodyleft-picture%252FJENKINS_BRANDON_L_09-18.png?itok=2IpkwIvT",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "15",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "13",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "31",
+    "height": "72.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.93",
+    "SApM": "8.05",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "33",
+    "TDDef": "27",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:04",
+    "Str. Acc.": "41",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Zabit Magomedsharipov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-11/MAGOMEDSHARIPOV_ZABIT_L.png?VersionId=tEigkpdp6J86xmaA_bp1Doc970FKmSwe&itok=ki2TwU0G",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "18",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "13",
+    "DEC": "71",
+    "SUB": "16"
+  },
+  "bio": {
+    "age": "32",
+    "height": "73.00",
+    "reach": "73.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.89",
+    "SApM": "3.00",
+    "TDAvg": "5.22",
+    "Sub.Avg": "0.77",
+    "Str.Def": "65",
+    "TDDef": "78",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:56",
+    "Str. Acc.": "48",
+    "TD Acc.": "56"
+  }
+}

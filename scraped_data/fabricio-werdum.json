@@ -1,0 +1,34 @@
+{
+  "name": "Fabricio Werdum",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67940/profile-galery/fullbodyleft-picture/Fabricio-Werdum_837_LeftFullBodyImage.png?VersionId=wyI69g79huVreRKKgo87LnKqCnMYSmxq&itok=Ip-PAGUV",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "24",
+    "losses": "8",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "26",
+    "DEC": "26",
+    "SUB": "48"
+  },
+  "bio": {
+    "age": "45",
+    "height": "76.00",
+    "reach": "77.00",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.59",
+    "SApM": "2.64",
+    "TDAvg": "1.75",
+    "Sub.Avg": "1.16",
+    "Str.Def": "56",
+    "TDDef": "32",
+    "KDAvg": "0.31",
+    "Avg Fight Time": "10:28",
+    "Str. Acc.": "52",
+    "TD Acc.": "32"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ariane da Silva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/DA_SILVA_ARIANE_L_06-07.png?itok=MSWwINsJ",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "17",
+    "losses": "11",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "35",
+    "DEC": "41",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "31",
+    "height": "66.00",
+    "reach": "67.00",
+    "leg_reach": "38.50",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.05",
+    "SApM": "4.40",
+    "TDAvg": "0.47",
+    "Sub.Avg": "0.28",
+    "Str.Def": "51",
+    "TDDef": "68",
+    "KDAvg": "0.28",
+    "Avg Fight Time": "11:27",
+    "Str. Acc.": "41",
+    "TD Acc.": "38"
+  }
+}

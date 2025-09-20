@@ -1,0 +1,34 @@
+{
+  "name": "Garett Whiteley",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Garett_Whiteley/Garett_Whiteley_FS1-4_0080.png?VersionId=.eONpTHFpxn4QswEY.DqZVCXrvFwCQPZ&itok=kAu8VXeo",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "8",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "13",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "42",
+    "height": "72.00",
+    "reach": "72.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.72",
+    "SApM": "4.04",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.89",
+    "Str.Def": "46",
+    "TDDef": "28",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:18",
+    "Str. Acc.": "48",
+    "TD Acc.": "0"
+  }
+}

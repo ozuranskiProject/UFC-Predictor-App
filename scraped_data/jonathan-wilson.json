@@ -1,0 +1,34 @@
+{
+  "name": "Jonathan Wilson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/54c53573-d2ca-400a-b9eb-ca06af59b4b2%252Fjonathan-wilson_511416_LeftFullBodyImage.png?itok=0n4I8yf5",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "86",
+    "DEC": "14",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "35",
+    "height": "74.00",
+    "reach": "75.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.92",
+    "SApM": "5.65",
+    "TDAvg": "0.37",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "80",
+    "KDAvg": "0.75",
+    "Avg Fight Time": "10:00",
+    "Str. Acc.": "48",
+    "TD Acc.": "100"
+  }
+}

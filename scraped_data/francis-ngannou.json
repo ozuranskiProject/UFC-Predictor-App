@@ -1,0 +1,34 @@
+{
+  "name": "Francis Ngannou",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-01/NGANNOU_FRANCIS_L_03-27.png?itok=-Ns_VkNz",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "17",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "6",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "36",
+    "height": "76.00",
+    "reach": "83.00",
+    "leg_reach": "44.50",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.33",
+    "SApM": "2.16",
+    "TDAvg": "0.76",
+    "Sub.Avg": "0.31",
+    "Str.Def": "42",
+    "TDDef": "72",
+    "KDAvg": "1.22",
+    "Avg Fight Time": "07:01",
+    "Str. Acc.": "41",
+    "TD Acc.": "63"
+  }
+}

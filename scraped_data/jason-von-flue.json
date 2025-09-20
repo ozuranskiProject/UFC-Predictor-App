@@ -1,0 +1,34 @@
+{
+  "name": "Jason Von Flue",
+  "profile_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "47",
+    "height": "72.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.89",
+    "SApM": "3.23",
+    "TDAvg": "0.62",
+    "Sub.Avg": "1.54",
+    "Str.Def": "53",
+    "TDDef": "59",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:07",
+    "Str. Acc.": "36",
+    "TD Acc.": "17"
+  }
+}

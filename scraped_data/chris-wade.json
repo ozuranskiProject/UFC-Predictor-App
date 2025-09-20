@@ -1,0 +1,34 @@
+{
+  "name": "Chris Wade",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/ba44e75c-4bef-4f0d-98f5-315452d2081f%252Fchris-wade_498499_LeftFullBodyImage.png?itok=SbSUZk0T",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "12",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "64",
+    "SUB": "36"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "70.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.70",
+    "SApM": "1.75",
+    "TDAvg": "2.60",
+    "Sub.Avg": "1.12",
+    "Str.Def": "52",
+    "TDDef": "55",
+    "KDAvg": "0.19",
+    "Avg Fight Time": "11:32",
+    "Str. Acc.": "54",
+    "TD Acc.": "52"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Alex Chambers",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67207/profile-galery/fullbodyleft-picture/Alex-Chambers_501694_LeftFullBodyImage.png?VersionId=h3uAjCkaNMqd75FA4ylVAW_JKdC070ql&itok=3VeTdITM",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "5",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "17",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "44",
+    "height": "63.00",
+    "reach": "63.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.97",
+    "SApM": "5.10",
+    "TDAvg": "2.31",
+    "Sub.Avg": "0.99",
+    "Str.Def": "51",
+    "TDDef": "53",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:06",
+    "Str. Acc.": "54",
+    "TD Acc.": "41"
+  }
+}

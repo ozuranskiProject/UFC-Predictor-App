@@ -1,0 +1,34 @@
+{
+  "name": "Hyder Amil",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/AMIL_HYDER_L_06-28.png?itok=pBYyEFxM",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "36",
+    "SUB": "9"
+  },
+  "bio": {
+    "age": "35",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "6.84",
+    "SApM": "4.18",
+    "TDAvg": "0.77",
+    "Sub.Avg": "1.16",
+    "Str.Def": "52",
+    "TDDef": "81",
+    "KDAvg": "0.39",
+    "Avg Fight Time": "07:45",
+    "Str. Acc.": "57",
+    "TD Acc.": "20"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Joe Lauzon",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/LAUZON_JOE_L_05-07.png?itok=zQjVwi2W",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "28",
+    "losses": "16",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "7",
+    "SUB": "61"
+  },
+  "bio": {
+    "age": "39",
+    "height": "70.00",
+    "reach": "71.50",
+    "leg_reach": "40.50",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "2.84",
+    "SApM": "5.39",
+    "TDAvg": "2.39",
+    "Sub.Avg": "2.04",
+    "Str.Def": "55",
+    "TDDef": "55",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "07:53",
+    "Str. Acc.": "40",
+    "TD Acc.": "45"
+  }
+}

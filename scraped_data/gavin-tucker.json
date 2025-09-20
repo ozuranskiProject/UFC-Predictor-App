@@ -1,0 +1,34 @@
+{
+  "name": "Gavin Tucker",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/0c2a6693-7f42-47b1-8d33-1c77dcd4616c%252FTUCKER_GAVIN_L_07-27.png?itok=CBNqUX8J",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "13",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "23",
+    "SUB": "46"
+  },
+  "bio": {
+    "age": "37",
+    "height": "66.50",
+    "reach": "66.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "4.29",
+    "SApM": "4.18",
+    "TDAvg": "3.13",
+    "Sub.Avg": "1.46",
+    "Str.Def": "57",
+    "TDDef": "54",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:17",
+    "Str. Acc.": "45",
+    "TD Acc.": "44"
+  }
+}

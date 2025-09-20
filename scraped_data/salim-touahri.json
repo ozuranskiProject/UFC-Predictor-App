@@ -1,0 +1,34 @@
+{
+  "name": "Salim Touahri",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-12/TOUHARI_SALIM_L.png?VersionId=vOA3wGeMGe4AbnV19isHqk8.6vNrWYmg&itok=VggD1bDV",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "20",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "33",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.60",
+    "SApM": "2.87",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "83",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "47",
+    "TD Acc.": "0"
+  }
+}

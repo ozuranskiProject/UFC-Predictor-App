@@ -1,0 +1,34 @@
+{
+  "name": "Fernie Garcia",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/GARCIA_FERNIE_L_05-07.png?itok=cQHE6UbU",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "30",
+    "DEC": "60",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "31",
+    "height": "67.00",
+    "reach": "67.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "2.04",
+    "SApM": "3.79",
+    "TDAvg": "0.28",
+    "Sub.Avg": "0.55",
+    "Str.Def": "49",
+    "TDDef": "50",
+    "KDAvg": "0.28",
+    "Avg Fight Time": "10:52",
+    "Str. Acc.": "34",
+    "TD Acc.": "50"
+  }
+}

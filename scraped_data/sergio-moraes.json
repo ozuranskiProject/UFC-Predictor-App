@@ -1,0 +1,34 @@
+{
+  "name": "Sergio Moraes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/MORAES_SERGIO_L.png?VersionId=Wv_QG3jG3jj0inI7zb1mFGITuS.zv4kr&itok=b2wEKmcu",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "14",
+    "losses": "7",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "7",
+    "DEC": "36",
+    "SUB": "57"
+  },
+  "bio": {
+    "age": "40",
+    "height": "72.00",
+    "reach": "72.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.42",
+    "SApM": "3.73",
+    "TDAvg": "1.20",
+    "Sub.Avg": "0.43",
+    "Str.Def": "60",
+    "TDDef": "75",
+    "KDAvg": "0.09",
+    "Avg Fight Time": "12:29",
+    "Str. Acc.": "43",
+    "TD Acc.": "39"
+  }
+}

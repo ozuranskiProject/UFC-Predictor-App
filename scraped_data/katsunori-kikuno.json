@@ -1,0 +1,34 @@
+{
+  "name": "Katsunori Kikuno",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/faafe5c0-4c40-4ac1-8c3a-5cdd724cb91d%252FKatsunori-Kikuno_460294_LeftFullBodyImage.png?itok=ngucGmrV",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "23",
+    "losses": "8",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "52",
+    "DEC": "35",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "41",
+    "height": "68.00",
+    "reach": "66.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.64",
+    "SApM": "2.47",
+    "TDAvg": "1.88",
+    "Sub.Avg": "0.84",
+    "Str.Def": "62",
+    "TDDef": "77",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "07:10",
+    "Str. Acc.": "40",
+    "TD Acc.": "75"
+  }
+}

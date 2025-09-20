@@ -1,70 +1,83 @@
 import React, { useState, useMemo, useEffect, useRef } from 'react';
-import { View, TextInput, StyleSheet, FlatList, Text, Pressable, Image } from 'react-native';
+import { View, TextInput, StyleSheet, FlatList, Text, Pressable, Image, Platform } from 'react-native';
 import { searchFighters, getFighterByName } from './fighterService';
 
 const PLACEHOLDER = 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541';
 
 export default function FighterSearch({ weightClassCode, weightClassLabel, placeholder = 'Search fighter…', fighters = [], style, onSelect }) {
+
   const [query, setQuery] = useState('');
 
-  const [showResults, setShowResults] = useState(false); // for setting whether or not to show flatlist seuggestions dropdown
+  const [showResults, setShowResults] = useState(false); 
 
-  const [selected, setSelected] = useState(null); // for storing actual chosen/selected fighter object 
+  const [selectedFighter, setSelectedFighter] = useState(null);  
 
   const inputRef = useRef(null);
+
+  const [active, setActive] = useState(false); // for styling input when active
 
   // whenever the weight class changes, clear query + selection + dropdown
   useEffect(() => {
     setQuery('');
     setShowResults(false);
-    setSelected(null);
-    onSelect?.(null); // tell parent we cleared
-    // optional UX nicety:
-    inputRef.current?.blur?.();
-  }, [weightClassCode]); // or [weightClassLabel]
+    setSelectedFighter(null);
+    onSelect?.(null); // tell parent this cleared
+    
+    // also blur the input and set active to false to reset styling
+    inputRef.current?.blur?.(); 
+    setActive(false); 
+  }, [weightClassCode]); 
 
+  // try not to recalculate results unless query or weightclass changes
   const results = useMemo(() => {
-    if (!query.trim()) return []; //.trim is needed so that this applies for spaces too
-    return searchFighters(query, weightClassLabel, 10); // 
-  }, [query, weightClassLabel]); //dependencies for useMemo so that results ONLY rerenders/runs when they change
+    if (!query.trim()) return []; 
+    return searchFighters(query, weightClassLabel, 5); // 
+  }, [query, weightClassLabel]); 
 
-  function handleChange(text) { // idk if this is actually needed yet because of searchfighters but ill play with it for now
+  // whenever the results change if there are no results hide the dropdown
+  function handleChange(text) { 
     setQuery(text);
-    setShowResults(!!text.trim());
-    if (!text) setSelected(null);
+    setShowResults(!!text.trim()); 
+    setActive(!!text.trim());        
+    if (!text) setSelectedFighter(null);
   }
 
+  // when user picks a fighter from the list
   function handlePick(fighter) {
-    setQuery(fighter.name);       // autocomplete the input with the fighter’s name
+    setQuery(fighter.name);       
     setShowResults(false);
-    setSelected(fighter);         // store the object we already have
-    onSelect?.(fighter);          // pass it directly to App
+    setSelectedFighter(fighter);         
+    setActive(false);  
+    onSelect?.(fighter);          
   }
 
-  console.log('Selected weightclass:', { weightClassLabel }); //ugh debugging undefined issue
+  console.log('Selected weightclass:', { weightClassLabel }); // DEBUG
 
   return (
-    <View style={[styles.wrap, style]}>
+    <View style={[styles.wrap, style, active && styles.wrapActive]}>
       <TextInput
+        ref={inputRef}
         style={styles.input}
         value={query}
         onChangeText={handleChange}            
-        placeholder={placeholder}  //should I just remove this it doesnt need to be a prop
+        placeholder={placeholder}  // 'Search fighter…'
         autoCorrect={false}
         autoCapitalize="words"
+        onFocus={() => setActive(!!query.trim())}               
+        onBlur={() => !showResults && setActive(false)}        
         testID="fighter-search-input"
       />
 
-      {showResults && results.length > 0 && (  // flatlist now only appears if there are results to show!!!
+      {showResults && results.length > 0 && (  
         <FlatList
           testID='suggestions'
           style={styles.dropdown}
-          data={results} //filtered fighter data set (filtered by query)
+          data={results} 
           keyExtractor={(item, i) => String(item.id ?? `${item.name}-${i}`)} // use id as key, if no id then just use their name
           keyboardShouldPersistTaps="handled"  // what to do with keyboard after interaction
-          renderItem={({ item }) => ( // vv render fighter object as button vv
+          renderItem={({ item }) => (
             <Pressable
-              onPress={() => handlePick(item)} //item.name 
+              onPress={() => handlePick(item)} 
               style={styles.row}
               testID={`suggestion-${item.name}`}    
               >
@@ -74,17 +87,16 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
         />
       )}
 
-      {selected && (   //selected fighter card that only appears if there has been a valid selection
+      {selectedFighter && (   
         <View style={styles.card}>
           <Image
-            // use `profile_url` directly. fallback if missing
-            source={{ uri: selected.profile_url || PLACEHOLDER }} //where to take from, uri for internet image, use placeholder if you cant find an image
+            source={{ uri: selectedFighter.profile_url || PLACEHOLDER }} 
             style={styles.photo}
             resizeMode="contain"
             fadeDuration={0}   // Android-only ): disable cross-fade
-            onError={() => setSelected(s => s ? { ...s, profile_url: PLACEHOLDER } : s)} //'=>' makes it so s is understood as previous. the statement basically says, if you can return to the last picture on error then do so but if you cant then just use the placeholder fallback
+            onError={() => setSelectedFighter(s => s ? { ...s, profile_url: PLACEHOLDER } : s)} 
             />                                                                             
-          <Text style={styles.selectedName}>{selected.name}</Text>
+          <Text style={styles.selectedName}>{selectedFighter.name}</Text>
         </View>
       )}
     </View>
@@ -92,11 +104,16 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
 }
 
 const styles = StyleSheet.create({
-  wrap: { //for the sake of having a container
+  wrap: { 
     gap: 8,
+    zIndex: 0, // drop down over profile pics
     position: 'relative',
     width: '100%',
   }, 
+  wrapActive: {
+    zIndex: 2000,                                            
+    ...Platform.select({ android: { elevation: 20 } }),    
+  },
   input: {
     borderWidth: 1, 
     borderColor: '#ccc', 
@@ -144,5 +161,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: '#ddd',
     borderRadius: 10,
+    zIndex: 3000,                                             
+    ...Platform.select({ android: { elevation: 24 } }),       
   },
 }); 

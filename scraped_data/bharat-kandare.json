@@ -1,0 +1,34 @@
+{
+  "name": "Bharat Kandare",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67467/profile-galery/fullbodyleft-picture/Bharat-Kandare_643438_LeftFullBodyImage.png?VersionId=7CvwhLCUwK4tthKYJVrP0nkTJheIShoT&itok=yMyeoR8b",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "5",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "0",
+    "SUB": "80"
+  },
+  "bio": {
+    "age": "36",
+    "height": "67.00",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.70",
+    "SApM": "1.88",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "72",
+    "TDDef": "0.00",
+    "KDAvg": "04:16",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "10",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Hector Sandoval",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68081/profile-galery/fullbodyleft-picture/hector-sandoval_598902_LeftFullBodyImage.png?VersionId=H9A5MlFX3I.GboQOixMQb7xgWw6c1uF9&itok=EuPokemn",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "14",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "25",
+    "DEC": "58",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "36",
+    "height": "62.00",
+    "reach": "64.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.31",
+    "SApM": "2.33",
+    "TDAvg": "3.49",
+    "Sub.Avg": "1.40",
+    "Str.Def": "66",
+    "TDDef": "71",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:22",
+    "Str. Acc.": "52",
+    "TD Acc.": "25"
+  }
+}
