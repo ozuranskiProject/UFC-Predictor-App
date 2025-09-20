@@ -1,0 +1,34 @@
+{
+  "name": "Gabe Green",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/GREEN_GABE_L_05-17.png?itok=cD9OUr8S",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "12",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "8",
+    "SUB": "58"
+  },
+  "bio": {
+    "age": "32",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "5.60",
+    "SApM": "6.19",
+    "TDAvg": "0.71",
+    "Sub.Avg": "0.48",
+    "Str.Def": "47",
+    "TDDef": "50",
+    "KDAvg": "0.48",
+    "Avg Fight Time": "10:30",
+    "Str. Acc.": "45",
+    "TD Acc.": "50"
+  }
+}

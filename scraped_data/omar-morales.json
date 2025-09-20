@@ -1,0 +1,34 @@
+{
+  "name": "Omar Morales",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-04/MORALES_OMAR_L_03-18.png?itok=6q4YQ3Yn",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "11",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "36",
+    "SUB": "36"
+  },
+  "bio": {
+    "age": "37",
+    "height": "71.00",
+    "reach": "73.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.42",
+    "SApM": "3.18",
+    "TDAvg": "0.46",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "64",
+    "KDAvg": "0.31",
+    "Avg Fight Time": "12:13",
+    "Str. Acc.": "40",
+    "TD Acc.": "100"
+  }
+}

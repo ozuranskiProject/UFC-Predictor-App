@@ -1,0 +1,34 @@
+{
+  "name": "Geane Herrera",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/3ed70e4d-4318-4e53-a979-adea05a24d3c%252Fgeane-herrera_538002_LeftFullBodyImage.png?itok=DWFO51Hj",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "22",
+    "SUB": "56"
+  },
+  "bio": {
+    "age": "34",
+    "height": "65.00",
+    "reach": "66.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.51",
+    "SApM": "5.07",
+    "TDAvg": "0.83",
+    "Sub.Avg": "0.55",
+    "Str.Def": "53",
+    "TDDef": "38",
+    "KDAvg": "0.28",
+    "Avg Fight Time": "13:37",
+    "Str. Acc.": "31",
+    "TD Acc.": "38"
+  }
+}

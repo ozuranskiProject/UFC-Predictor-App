@@ -1,0 +1,34 @@
+{
+  "name": "Daniel Teymur",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67734/profile-galery/fullbodyleft-picture/TEYMUR_DANIEL_L.png?VersionId=dkuKztwS_pv0ZHikdrZNSNl4vWJzXeTs&itok=KQLmqS0Z",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "7",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "14",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "35",
+    "height": "65.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.08",
+    "SApM": "3.93",
+    "TDAvg": "0.56",
+    "Sub.Avg": "0.28",
+    "Str.Def": "56",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:44",
+    "Str. Acc.": "47",
+    "TD Acc.": "18"
+  }
+}

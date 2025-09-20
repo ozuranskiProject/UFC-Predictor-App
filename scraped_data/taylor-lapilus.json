@@ -1,0 +1,34 @@
+{
+  "name": "Taylor Lapilus",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/LAPILUS_TAYLOR_L_09-28.png?itok=6yA1M_R9",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "21",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "55",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "32",
+    "height": "66.00",
+    "reach": "73.00",
+    "leg_reach": "43.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.59",
+    "SApM": "2.61",
+    "TDAvg": "0.27",
+    "Sub.Avg": "0.27",
+    "Str.Def": "63",
+    "TDDef": "77",
+    "KDAvg": "0.27",
+    "Avg Fight Time": "13:56",
+    "Str. Acc.": "48",
+    "TD Acc.": "33"
+  }
+}

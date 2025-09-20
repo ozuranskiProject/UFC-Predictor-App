@@ -1,0 +1,34 @@
+{
+  "name": "Nohelin Hernandez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/71556/profile-galery/fullbodyleft-picture/HERNANDEZ_NOHELIN_L.png?VersionId=M8g7ugN2Pj6usLaJVOP3ba7BDNo0oMNg&itok=9373VAf2",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "30",
+    "DEC": "70",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "29",
+    "height": "70.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "1.32",
+    "SApM": "2.63",
+    "TDAvg": "0.71",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "38",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:38",
+    "Str. Acc.": "34",
+    "TD Acc.": "50"
+  }
+}

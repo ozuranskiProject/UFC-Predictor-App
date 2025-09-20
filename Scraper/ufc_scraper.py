@@ -1,11 +1,18 @@
-import requests #used for downloading web pages
-from bs4 import BeautifulSoup #lets you pick a part said web pages
+import requests 
+from bs4 import BeautifulSoup 
 
 import json
 import os
+import sys
 
-def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
-    def safe_get(dictionary, key): # basically function that will pull the stat from its list using its dictionary label but return NA if value never got scraped and is still none AKA doesnt exist
+# Ensure UTF-8 encoding, as certain special characters in names may (will) cause issues
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    
+# Function to scrape fighter data given their slug    
+def scrape_fighter(slug):  
+    def safe_get(dictionary, key): 
 
         value = dictionary.get(key)
         return value if value is not None else "N/A"
@@ -16,29 +23,15 @@ def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
         soup = BeautifulSoup(response.text, 'html.parser')
 
         if response.url.endswith("/404") or "Page Not Found" in soup.text:
-            print(f"⚠️ Page not found for {slug}, skipping.")
+            print(f"!!! Page not found for {slug}, skipping.")
             return
         
         name = soup.find('h1', class_="hero-profile__name").text.strip()
-    
-    
-#url = "https://www.ufc.com/athlete/kevin-holland" #!!!use quotes for website
-
-#response = requests.get(url) #downloads usable url/page
-
-#soup = BeautifulSoup(response.text, 'html.parser') # BeautifulSoup() returns a manipulatable HTML document object
-#response.text turns the url in to raw html, and then uses a parser for html ('html.parser') to make the raw html... not... raw? cooked?
-
-#name = soup.find('h1', class_="hero-profile__name").text.strip() # .find uses tags to look for and class to look for (you can use inspect to find how a website is structured)
-# .text.strip() is needed to take JUST the text and not any HTML junk
 
 # Find all stat blocks
         stats = soup.find_all('div', class_="c-stat-compare__number")
 
-        # I'll write these notes for this first as the rest follow similar process
-
-        # initialize dictionary with stat labels and default None.   Basically from what I gather this lets you like use special keys set for indexing
-
+        #dictionary to hold stats with default None values
         fight_stats = {
             "SLpM": None,
             "SApM": None,
@@ -148,12 +141,7 @@ def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
             elif "Leg reach" in text:
                 bio_data["Leg reach"] = text.split("Leg reach")[-1].strip()
 
-
-        
-
-
-        ##Export to new file
-        #structured object
+        #structured json data
         fighter_data = {
             "name": name,
             "profile_url": img_url,
@@ -189,7 +177,6 @@ def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
             }
         }
 
-        # Use slug to name the file
         file_name = slug + ".json"
         file_path = f"scraped_data/{file_name}"
 
@@ -198,7 +185,7 @@ def scrape_fighter(slug):  # <== Accept fighter slug like "kevin-holland"
         with open(file_path, "w") as f:
             json.dump(fighter_data, f, indent=2)
 
-        print(f"✅ Scraped: {name} → saved to {file_path}")
+        print(f"YAY! Scraped: {name} -> saved to {file_path}")
 
     except Exception as e:
-        print(f"❌ Unexpected error scraping {slug}: {e}")
+        print(f"XXX Unexpected error scraping {slug}: {e}")

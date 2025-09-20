@@ -1,0 +1,34 @@
+{
+  "name": "Bo Nickal",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/NICKAL_BO_L_11-16.png?itok=4nRkBpS2",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "7",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "14",
+    "SUB": "57"
+  },
+  "bio": {
+    "age": "29",
+    "height": "73.00",
+    "reach": "76.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "2.36",
+    "SApM": "2.11",
+    "TDAvg": "3.34",
+    "Sub.Avg": "2.92",
+    "Str.Def": "59",
+    "TDDef": "100",
+    "KDAvg": "0.42",
+    "Avg Fight Time": "05:08",
+    "Str. Acc.": "59",
+    "TD Acc.": "53"
+  }
+}

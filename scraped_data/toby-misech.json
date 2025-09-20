@@ -1,0 +1,34 @@
+{
+  "name": "Toby Misech",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/2a522bd6-8ee0-480e-89b1-2270d9715d52%252FMISECH_TOBY_L.png?itok=6fHITyVC",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "10",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "25",
+    "height": "68.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.27",
+    "SApM": "7.73",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "46",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "41",
+    "TD Acc.": "0"
+  }
+}

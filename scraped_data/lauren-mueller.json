@@ -1,0 +1,34 @@
+{
+  "name": "Lauren Mueller",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-11/MUELLER_LAUREN_L.png?VersionId=UrF88G.8r69y7oXNdR4I.I1WesYzq5vK&itok=Eu1i_ROc",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "5",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "80",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "65.00",
+    "reach": "67.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.08",
+    "SApM": "3.77",
+    "TDAvg": "0.70",
+    "Sub.Avg": "0.00",
+    "Str.Def": "59",
+    "TDDef": "71",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:48",
+    "Str. Acc.": "42",
+    "TD Acc.": "50"
+  }
+}

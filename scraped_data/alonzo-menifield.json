@@ -1,0 +1,34 @@
+{
+  "name": "Alonzo Menifield",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/MENIFIELD_ALONZO_L_06-14.png?itok=TobBdNf0",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "17",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "59",
+    "DEC": "24",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "37",
+    "height": "72.00",
+    "reach": "76.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.79",
+    "SApM": "3.76",
+    "TDAvg": "0.50",
+    "Sub.Avg": "0.20",
+    "Str.Def": "51",
+    "TDDef": "78",
+    "KDAvg": "0.60",
+    "Avg Fight Time": "07:53",
+    "Str. Acc.": "53",
+    "TD Acc.": "31"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Movsar Evloev",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/EVLOEV_MOVSAR_L_12-07.png?itok=VAukk1Mu",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "19",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "16",
+    "DEC": "63",
+    "SUB": "21"
+  },
+  "bio": {
+    "age": "31",
+    "height": "67.00",
+    "reach": "72.50",
+    "leg_reach": "36.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.99",
+    "SApM": "2.66",
+    "TDAvg": "4.67",
+    "Sub.Avg": "0.22",
+    "Str.Def": "61",
+    "TDDef": "61",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "48",
+    "TD Acc.": "48"
+  }
+}

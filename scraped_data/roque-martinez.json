@@ -1,0 +1,34 @@
+{
+  "name": "Roque Martinez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/69657%252Fprofile-galery%252Ffullbodyleft-picture%252FMARTINEZ_ROQUE_L_06-19.png?itok=R0cUxsvZ",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "15",
+    "losses": "8",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "53",
+    "DEC": "27",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "37",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.28",
+    "SApM": "4.90",
+    "TDAvg": "0.38",
+    "Sub.Avg": "0.38",
+    "Str.Def": "56",
+    "TDDef": "54",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:07",
+    "Str. Acc.": "54",
+    "TD Acc.": "50"
+  }
+}

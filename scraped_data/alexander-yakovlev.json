@@ -1,0 +1,34 @@
+{
+  "name": "Alexander Yakovlev",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67232/profile-galery/fullbodyleft-picture/YAKOVLEV_ALEXANDER_L.png?VersionId=R2Zs_BQfqYNMBkfWu8emYYYqVu.La5H9&itok=TA-FNafz",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "24",
+    "losses": "10",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "25",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "38",
+    "height": "75.00",
+    "reach": "74.00",
+    "leg_reach": "42.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.74",
+    "SApM": "2.41",
+    "TDAvg": "1.66",
+    "Sub.Avg": "0.15",
+    "Str.Def": "59",
+    "TDDef": "72",
+    "KDAvg": "0.30",
+    "Avg Fight Time": "11:01",
+    "Str. Acc.": "47",
+    "TD Acc.": "35"
+  }
+}

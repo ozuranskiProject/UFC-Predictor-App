@@ -1,0 +1,34 @@
+{
+  "name": "Steve Bosse",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/a452abb0-1083-40b5-9902-c2e0742ca582%252FSteve-Bosse_473755_LeftFullBodyImage.png?itok=eySAyXDX",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "17",
+    "SUB": "8"
+  },
+  "bio": {
+    "age": "41",
+    "height": "71.50",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.99",
+    "SApM": "5.38",
+    "TDAvg": "0.92",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "100",
+    "KDAvg": "0.92",
+    "Avg Fight Time": "05:27",
+    "Str. Acc.": "53",
+    "TD Acc.": "33"
+  }
+}

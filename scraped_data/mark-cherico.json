@@ -1,0 +1,34 @@
+{
+  "name": "Mark Cherico",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/5bd15a84-9b21-4706-8703-9ee3b525a9fe%252FMark-Cherico_636380_LeftFullBodyImage.png?itok=62ptNZ5I",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "27",
+    "SUB": "45"
+  },
+  "bio": {
+    "age": "37",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.69",
+    "SApM": "7.37",
+    "TDAvg": "5.03",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "0.00",
+    "KDAvg": "02:59",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "34",
+    "TD Acc.": "50"
+  }
+}

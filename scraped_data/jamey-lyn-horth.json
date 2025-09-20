@@ -1,0 +1,34 @@
+{
+  "name": "Jamey-Lyn Horth",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/HORTH_JAMEY-LYN_L_06-14.png?itok=gBsp_tqt",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "38",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "35",
+    "height": "67.00",
+    "reach": "66.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "3.52",
+    "SApM": "2.55",
+    "TDAvg": "1.20",
+    "Sub.Avg": "0.20",
+    "Str.Def": "63",
+    "TDDef": "77",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "55",
+    "TD Acc.": "43"
+  }
+}

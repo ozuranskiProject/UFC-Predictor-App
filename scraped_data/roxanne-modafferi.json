@@ -1,0 +1,34 @@
+{
+  "name": "Roxanne Modafferi",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-09/69156%252Fprofile-galery%252Ffullbodyleft-picture%252FMODAFFERI_ROXANNE_L_09-25.png?itok=w6gwtGVS",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "25",
+    "losses": "21",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "16",
+    "DEC": "64",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "40",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.35",
+    "SApM": "5.70",
+    "TDAvg": "1.35",
+    "Sub.Avg": "0.08",
+    "Str.Def": "51",
+    "TDDef": "30",
+    "KDAvg": "0.08",
+    "Avg Fight Time": "14:14",
+    "Str. Acc.": "31",
+    "TD Acc.": "23"
+  }
+}

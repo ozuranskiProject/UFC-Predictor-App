@@ -1,0 +1,34 @@
+{
+  "name": "Christian Lohsen",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/de4517b4-bdb9-4ba9-b5b7-efe83dcfa3c3%252FLOHSEN_CHRISTIAN_L.png?itok=dqdBgP9C",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "0",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "28",
+    "height": "N/A",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.27",
+    "SApM": "6.93",
+    "TDAvg": "0.00",
+    "Sub.Avg": "2.00",
+    "Str.Def": "44",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "49",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Da Woon Jung",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/JUNG_DA_WOON_L_02-04.png?itok=OPKLaX2X",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "15",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "13",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "31",
+    "height": "76.00",
+    "reach": "78.50",
+    "leg_reach": "40.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.24",
+    "SApM": "4.23",
+    "TDAvg": "1.59",
+    "Sub.Avg": "0.16",
+    "Str.Def": "49",
+    "TDDef": "76",
+    "KDAvg": "0.48",
+    "Avg Fight Time": "10:28",
+    "Str. Acc.": "41",
+    "TD Acc.": "48"
+  }
+}

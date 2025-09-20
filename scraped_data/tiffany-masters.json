@@ -1,0 +1,34 @@
+{
+  "name": "Tiffany Masters",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/93191c5c-8ccc-4f13-a7cb-d3bc27f9fd97%252FTiffany-Masters_635977_LeftFullBodyImage.png?itok=nRf9VzcS",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "2",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "0",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "28",
+    "height": "63.00",
+    "reach": "65.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.53",
+    "SApM": "2.58",
+    "TDAvg": "3.06",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "0.00",
+    "KDAvg": "14:43",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "63",
+    "TD Acc.": "60"
+  }
+}

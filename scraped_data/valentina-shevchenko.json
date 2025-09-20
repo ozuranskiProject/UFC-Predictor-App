@@ -1,0 +1,34 @@
+{
+  "name": "Valentina Shevchenko",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/SHEVCHENKO_VALENTINA_BELT_L_05-10.png?itok=YYpm48bl",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "25",
+    "losses": "4",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "40",
+    "SUB": "28"
+  },
+  "bio": {
+    "age": "37",
+    "height": "65.00",
+    "reach": "67.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "3.14",
+    "SApM": "2.06",
+    "TDAvg": "2.62",
+    "Sub.Avg": "0.31",
+    "Str.Def": "63",
+    "TDDef": "76",
+    "KDAvg": "0.09",
+    "Avg Fight Time": "18:44",
+    "Str. Acc.": "52",
+    "TD Acc.": "60"
+  }
+}

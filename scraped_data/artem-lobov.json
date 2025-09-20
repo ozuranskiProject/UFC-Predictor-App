@@ -1,0 +1,34 @@
+{
+  "name": "Artem Lobov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67402/profile-galery/fullbodyleft-picture/Artem-Lobov_572780_LeftFullBodyImage.png?VersionId=yMH83Zutwvvxm37472HoodNB0elgEVqf&itok=O4Bp1HT2",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "14",
+    "losses": "15",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "54",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "36",
+    "height": "69.00",
+    "reach": "65.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.52",
+    "SApM": "4.82",
+    "TDAvg": "0.39",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "52",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "16:26",
+    "Str. Acc.": "41",
+    "TD Acc.": "25"
+  }
+}

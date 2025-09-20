@@ -1,0 +1,34 @@
+{
+  "name": "Juliana Lima",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-03/Juliana-Lima_492800_LeftFullBodyImage.png?VersionId=IUsqiYx9SX3fYbevTskEEggIHSyZMivb&itok=H54Dz0cc",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "9",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "78",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "41",
+    "height": "65.00",
+    "reach": "65.50",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.94",
+    "SApM": "2.11",
+    "TDAvg": "1.72",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "71",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:42",
+    "Str. Acc.": "44",
+    "TD Acc.": "31"
+  }
+}

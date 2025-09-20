@@ -1,0 +1,34 @@
+{
+  "name": "Mitch Raposo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-05/RAPOSO_MITCH_L_06-01.png?itok=JKsaSuzU",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "22",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "26",
+    "height": "65.00",
+    "reach": "64.50",
+    "leg_reach": "36.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "1.62",
+    "SApM": "3.20",
+    "TDAvg": "3.54",
+    "Sub.Avg": "0.00",
+    "Str.Def": "55",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:44",
+    "Str. Acc.": "34",
+    "TD Acc.": "38"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ildemar Alcantara",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/4bf9c4d8-f416-4ac2-9bff-296d52fbf663%252FIldemar-Alcantara_299105_LeftFullBodyImage.png?itok=QWwNyoWg",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "21",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "48",
+    "DEC": "24",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "40",
+    "height": "74.50",
+    "reach": "78.00",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.93",
+    "SApM": "2.63",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.92",
+    "Str.Def": "50",
+    "TDDef": "82",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:57",
+    "Str. Acc.": "39",
+    "TD Acc.": "68"
+  }
+}

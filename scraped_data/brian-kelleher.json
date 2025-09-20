@@ -1,0 +1,34 @@
+{
+  "name": "Brian Kelleher",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-07/KELLEHER_BRIAN_L_07-20.png?itok=nmXEpZK6",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "24",
+    "losses": "16",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "25",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "38",
+    "height": "66.00",
+    "reach": "66.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.31",
+    "SApM": "4.59",
+    "TDAvg": "1.68",
+    "Sub.Avg": "0.67",
+    "Str.Def": "55",
+    "TDDef": "60",
+    "KDAvg": "0.34",
+    "Avg Fight Time": "07:52",
+    "Str. Acc.": "41",
+    "TD Acc.": "42"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ben Sosoli",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-02/SOSOLI_BEN_L.png?VersionId=.xrzSkyj3r6OlS9hTycH9IQsT5T4zoZf&itok=20cHsJBv",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "0",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "86",
+    "DEC": "14",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "72.00",
+    "reach": "72.50",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.31",
+    "SApM": "4.30",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "0.00",
+    "KDAvg": "06:12",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "31",
+    "TD Acc.": "N/A"
+  }
+}

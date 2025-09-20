@@ -1,0 +1,34 @@
+{
+  "name": "Damian Stasiak",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67702/profile-galery/fullbodyleft-picture/damian-stasiak_527883_LeftFullBodyImage.png?VersionId=LrPW68k.uWxiFY3AGq6SiUzlK1v5bLTQ&itok=8AH9FPv6",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "9",
+    "DEC": "27",
+    "SUB": "64"
+  },
+  "bio": {
+    "age": "33",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.86",
+    "SApM": "3.10",
+    "TDAvg": "2.64",
+    "Sub.Avg": "0.61",
+    "Str.Def": "53",
+    "TDDef": "44",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:19",
+    "Str. Acc.": "36",
+    "TD Acc.": "35"
+  }
+}

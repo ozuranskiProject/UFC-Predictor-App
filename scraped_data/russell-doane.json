@@ -1,0 +1,34 @@
+{
+  "name": "Russell Doane",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/a190bd2c-5052-483e-9fe3-20b3a077bad2%252FRussell-Doane_464803_LeftFullBodyImage.png?itok=G4Z64JQ2",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "15",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "47",
+    "DEC": "20",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "36",
+    "height": "67.00",
+    "reach": "70.50",
+    "leg_reach": "37.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.75",
+    "SApM": "1.68",
+    "TDAvg": "2.11",
+    "Sub.Avg": "0.77",
+    "Str.Def": "54",
+    "TDDef": "53",
+    "KDAvg": "0.38",
+    "Avg Fight Time": "09:46",
+    "Str. Acc.": "41",
+    "TD Acc.": "46"
+  }
+}

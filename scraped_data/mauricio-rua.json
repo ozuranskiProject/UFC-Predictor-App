@@ -1,0 +1,34 @@
+{
+  "name": "Mauricio Rua",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/RUA_SHOGUN_L_0.png?VersionId=RmKWOc4dxqmHId6e8voPVOFTPVAgJpZr&itok=E6BCaeIf",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "27",
+    "losses": "14",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "78",
+    "DEC": "19",
+    "SUB": "4"
+  },
+  "bio": {
+    "age": "41",
+    "height": "73.00",
+    "reach": "76.00",
+    "leg_reach": "40.50",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "3.57",
+    "SApM": "2.79",
+    "TDAvg": "2.01",
+    "Sub.Avg": "0.71",
+    "Str.Def": "54",
+    "TDDef": "49",
+    "KDAvg": "0.87",
+    "Avg Fight Time": "09:04",
+    "Str. Acc.": "51",
+    "TD Acc.": "49"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Nico Musoke",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/2f990c2d-cdb1-422b-8f5e-2c0146b2eb37%252FNicholas-Musoke_459338_LeftFullBodyImage.png?itok=6xmMbj2n",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "13",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "31",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "37",
+    "height": "72.00",
+    "reach": "75.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.56",
+    "SApM": "3.80",
+    "TDAvg": "1.16",
+    "Sub.Avg": "0.19",
+    "Str.Def": "58",
+    "TDDef": "82",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:57",
+    "Str. Acc.": "36",
+    "TD Acc.": "19"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Luis Henrique",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68621/profile-galery/fullbodyleft-picture/luis-henrique_557189_LeftFullBodyImage.png?VersionId=INV6jgciDeFvE.B.eprrUwN1eA5nEjVE&itok=_p_yfQxc",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "30",
+    "DEC": "30",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "29",
+    "height": "74.00",
+    "reach": "74.00",
+    "leg_reach": "42.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.81",
+    "SApM": "2.22",
+    "TDAvg": "3.09",
+    "Sub.Avg": "1.03",
+    "Str.Def": "47",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:08",
+    "Str. Acc.": "44",
+    "TD Acc.": "37"
+  }
+}

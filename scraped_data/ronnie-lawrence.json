@@ -1,0 +1,34 @@
+{
+  "name": "Ronnie Lawrence",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/LAWRENCE_RONNIE_L_06-17.png?itok=H4p2vISp",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "68.00",
+    "reach": "68.50",
+    "leg_reach": "37.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.78",
+    "SApM": "1.75",
+    "TDAvg": "6.75",
+    "Sub.Avg": "0.25",
+    "Str.Def": "52",
+    "TDDef": "45",
+    "KDAvg": "0.75",
+    "Avg Fight Time": "12:00",
+    "Str. Acc.": "56",
+    "TD Acc.": "77"
+  }
+}

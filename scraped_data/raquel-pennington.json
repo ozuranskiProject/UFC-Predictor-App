@@ -1,0 +1,34 @@
+{
+  "name": "Raquel Pennington",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/PENNINGTON_RAQUEL_L_01-20.png?itok=kP6wMr5e",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "16",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "6",
+    "DEC": "69",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "37",
+    "height": "67.00",
+    "reach": "67.50",
+    "leg_reach": "37.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.10",
+    "SApM": "3.32",
+    "TDAvg": "0.83",
+    "Sub.Avg": "0.62",
+    "Str.Def": "61",
+    "TDDef": "63",
+    "KDAvg": "0.05",
+    "Avg Fight Time": "15:18",
+    "Str. Acc.": "49",
+    "TD Acc.": "28"
+  }
+}

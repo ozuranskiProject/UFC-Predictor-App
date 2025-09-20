@@ -1,0 +1,34 @@
+{
+  "name": "Leandro Issa",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-03/Leandro-Issa_464805_LeftFullBodyImage.png?VersionId=Y2yypyyhEhFY47480g5fkIFGGGb8esVj&itok=JUaLoPhu",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "23",
+    "SUB": "62"
+  },
+  "bio": {
+    "age": "39",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.08",
+    "SApM": "3.17",
+    "TDAvg": "2.38",
+    "Sub.Avg": "1.19",
+    "Str.Def": "58",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:36",
+    "Str. Acc.": "38",
+    "TD Acc.": "22"
+  }
+}

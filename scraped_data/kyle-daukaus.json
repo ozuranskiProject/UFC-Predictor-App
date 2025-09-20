@@ -1,0 +1,34 @@
+{
+  "name": "Kyle Daukaus",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/7c76e7f9-1248-4c83-84d4-e9afba9f5247%252FDAUKAUS_KYLE_L_06-18.png?itok=MO4CZekR",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "16",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "7",
+    "DEC": "20",
+    "SUB": "73"
+  },
+  "bio": {
+    "age": "32",
+    "height": "75.00",
+    "reach": "76.00",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.25",
+    "SApM": "2.93",
+    "TDAvg": "2.11",
+    "Sub.Avg": "1.91",
+    "Str.Def": "43",
+    "TDDef": "83",
+    "KDAvg": "0.19",
+    "Avg Fight Time": "08:43",
+    "Str. Acc.": "53",
+    "TD Acc.": "26"
+  }
+}

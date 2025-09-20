@@ -1,0 +1,34 @@
+{
+  "name": "Magnus Cedenblad",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/72c4d688-b48d-46e9-9d6d-85a7461cc68d%252FMagnus-Cedenblad_234799_LeftFullBodyImage.png?itok=QhAXHPVZ",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "14",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "21",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "41",
+    "height": "77.00",
+    "reach": "79.00",
+    "leg_reach": "48.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.38",
+    "SApM": "3.02",
+    "TDAvg": "2.87",
+    "Sub.Avg": "0.96",
+    "Str.Def": "40",
+    "TDDef": "67",
+    "KDAvg": "0.32",
+    "Avg Fight Time": "07:51",
+    "Str. Acc.": "51",
+    "TD Acc.": "64"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Nate Maness",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-09/68367%252Fprofile-galery%252Ffullbodyleft-picture%252FMANESS_NATE_L_09-18.png?itok=rQFZbo0G",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "16",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "40",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "32",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.14",
+    "SApM": "3.88",
+    "TDAvg": "0.68",
+    "Sub.Avg": "0.68",
+    "Str.Def": "43",
+    "TDDef": "80",
+    "KDAvg": "0.45",
+    "Avg Fight Time": "09:30",
+    "Str. Acc.": "50",
+    "TD Acc.": "75"
+  }
+}

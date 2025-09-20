@@ -1,0 +1,34 @@
+{
+  "name": "Yusuke Kasuya",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/22dbac95-9fc8-418d-af07-667435c70d87%252Fyusuke-kasuya_544042_LeftFullBodyImage.png?itok=DU9SRwuA",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "9",
+    "losses": "3",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "0",
+    "SUB": "89"
+  },
+  "bio": {
+    "age": "33",
+    "height": "67.00",
+    "reach": "67.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.17",
+    "SApM": "4.34",
+    "TDAvg": "1.36",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "0.00",
+    "KDAvg": "11:03",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "44",
+    "TD Acc.": "33"
+  }
+}

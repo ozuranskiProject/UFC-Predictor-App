@@ -1,0 +1,34 @@
+{
+  "name": "Felipe Silva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67949/profile-galery/fullbodyleft-picture/felipe-silva_599175_LeftFullBodyImage.png?VersionId=a2XHAi8gSThXLdwKEOSORiWNxmujodCR&itok=ZvH7-xKI",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "13",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "38",
+    "height": "72.00",
+    "reach": "77.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.40",
+    "SApM": "1.80",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "59",
+    "TDDef": "71",
+    "KDAvg": "2.00",
+    "Avg Fight Time": "05:00",
+    "Str. Acc.": "50",
+    "TD Acc.": "100"
+  }
+}

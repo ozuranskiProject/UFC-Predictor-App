@@ -1,0 +1,34 @@
+{
+  "name": "Jackson McVey",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/MCVEY_JACKSON_R_07-19.png?itok=hUTcCt5x",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "6",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "0",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "26",
+    "height": "76.00",
+    "reach": "77.00",
+    "leg_reach": "46.50",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "1.12",
+    "SApM": "1.95",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "22",
+    "TDDef": "0.00",
+    "KDAvg": "03:35",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "27",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Augusto Montano",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/62ac3604-855f-42cf-8c8e-3c121f81dee4%252Faugusto-montano_489258_LeftFullBodyImage.png?itok=tpGvCVi_",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "15",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "0",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "38",
+    "height": "73.00",
+    "reach": "73.00",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.46",
+    "SApM": "2.66",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:23",
+    "Str. Acc.": "46",
+    "TD Acc.": "N/A"
+  }
+}

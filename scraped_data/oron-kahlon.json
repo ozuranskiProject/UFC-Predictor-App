@@ -1,0 +1,34 @@
+{
+  "name": "Oron Kahlon",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-10/71641%252Fprofile-galery%252Ffullbodyleft-picture%252FKAHLON_ORON_L.png?itok=JKjbpijG",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "0",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "38",
+    "height": "N/A",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.85",
+    "SApM": "4.93",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "36",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "14:12",
+    "Str. Acc.": "38",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Marcos Rosa",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-03/MARIANO_MARCOS_L.png?VersionId=cX1E0nugQdvA.E5I6m1x1zCD549.4t.p&itok=5lCJbH25",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "6",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "50",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "36",
+    "height": "73.00",
+    "reach": "76.00",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.25",
+    "SApM": "2.11",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "43",
+    "TDDef": "29",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:58",
+    "Str. Acc.": "28",
+    "TD Acc.": "N/A"
+  }
+}

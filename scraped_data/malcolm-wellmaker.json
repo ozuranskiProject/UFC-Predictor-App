@@ -1,0 +1,34 @@
+{
+  "name": "Malcolm Wellmaker",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/WELLMAKER_MALCOM_L_06-14.png?itok=RfmO0MFR",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "20",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "31",
+    "height": "70.00",
+    "reach": "71.50",
+    "leg_reach": "40.50",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "7.20",
+    "SApM": "4.80",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "61",
+    "TDDef": "100",
+    "KDAvg": "6.35",
+    "Avg Fight Time": "02:22",
+    "Str. Acc.": "63",
+    "TD Acc.": "0"
+  }
+}

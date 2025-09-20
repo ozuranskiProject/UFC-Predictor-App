@@ -1,0 +1,34 @@
+{
+  "name": "Daniel Spohn",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/4a43e9ec-df95-45ef-b54e-da405508df01%252FDaniel-Spohn_631537_LeftFullBodyImage.png?itok=RoFjMU_I",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "16",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "31",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "38",
+    "height": "76.00",
+    "reach": "78.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.42",
+    "SApM": "1.60",
+    "TDAvg": "0.00",
+    "Sub.Avg": "2.48",
+    "Str.Def": "54",
+    "TDDef": "29",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:05",
+    "Str. Acc.": "49",
+    "TD Acc.": "0"
+  }
+}

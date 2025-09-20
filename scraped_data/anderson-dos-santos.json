@@ -1,0 +1,34 @@
+{
+  "name": "Anderson dos Santos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/DOS_SANTOS_ANDERSON_L_07-17.png?itok=-bz2vbb4",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "21",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "24",
+    "DEC": "19",
+    "SUB": "57"
+  },
+  "bio": {
+    "age": "37",
+    "height": "65.00",
+    "reach": "70.00",
+    "leg_reach": "37.50",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "2.70",
+    "SApM": "5.37",
+    "TDAvg": "0.98",
+    "Sub.Avg": "0.65",
+    "Str.Def": "50",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:28",
+    "Str. Acc.": "26",
+    "TD Acc.": "14"
+  }
+}

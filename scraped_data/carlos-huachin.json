@@ -1,0 +1,34 @@
+{
+  "name": "Carlos Huachin",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/71527/profile-galery/fullbodyleft-picture/HAUCHIN_CARLOS_L.png?VersionId=C6nNBzNl4XHtNUaFpRc8mNEur7WQOaHR&itok=AK7ylGOF",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "80",
+    "DEC": "0",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "27",
+    "height": "64.00",
+    "reach": "67.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.10",
+    "SApM": "4.80",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:25",
+    "Str. Acc.": "21",
+    "TD Acc.": "N/A"
+  }
+}

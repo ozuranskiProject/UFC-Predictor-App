@@ -1,0 +1,34 @@
+{
+  "name": "Ronny Markes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69145/profile-galery/fullbodyleft-picture/Ronny-Markes_181548_LeftFullBodyImage.png?VersionId=q6si9kDF8puO2RRl7fL6MuwbkL3HxF0x&itok=R9ORhkBv",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "14",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "36",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "73.00",
+    "reach": "75.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.17",
+    "SApM": "2.43",
+    "TDAvg": "3.13",
+    "Sub.Avg": "0.52",
+    "Str.Def": "46",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:30",
+    "Str. Acc.": "53",
+    "TD Acc.": "40"
+  }
+}

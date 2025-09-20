@@ -1,0 +1,34 @@
+{
+  "name": "Dennis Bermudez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Dennis_Bermudez/BERMUDEZ_DENNIS_L.png?itok=Pi218OAK",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "18",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "24",
+    "DEC": "53",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "36",
+    "height": "66.00",
+    "reach": "66.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.42",
+    "SApM": "3.07",
+    "TDAvg": "3.89",
+    "Sub.Avg": "1.07",
+    "Str.Def": "59",
+    "TDDef": "83",
+    "KDAvg": "0.38",
+    "Avg Fight Time": "11:35",
+    "Str. Acc.": "46",
+    "TD Acc.": "40"
+  }
+}

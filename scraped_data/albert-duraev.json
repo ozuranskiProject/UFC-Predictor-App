@@ -1,0 +1,34 @@
+{
+  "name": "Albert Duraev",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-07/DURAEV_ALBERT_L_07-15.png?itok=5dKB2nrh",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "16",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "20",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "34",
+    "height": "71.00",
+    "reach": "75.00",
+    "leg_reach": "40.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.99",
+    "SApM": "3.01",
+    "TDAvg": "1.97",
+    "Sub.Avg": "0.56",
+    "Str.Def": "60",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:39",
+    "Str. Acc.": "40",
+    "TD Acc.": "29"
+  }
+}

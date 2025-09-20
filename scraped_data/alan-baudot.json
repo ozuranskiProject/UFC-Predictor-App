@@ -1,0 +1,34 @@
+{
+  "name": "Alan Baudot",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-02/43c435e6-4a84-4b86-8672-1cd4f415dc63%252FBAUDOT_ALAN_L_02-19.png?itok=s_KmbZSD",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "8",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "88",
+    "DEC": "13",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "35",
+    "height": "75.00",
+    "reach": "79.00",
+    "leg_reach": "44.00",
+    "fighting_style": "Judo"
+  },
+  "fight_stats": {
+    "SLpM": "5.36",
+    "SApM": "4.82",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "63",
+    "KDAvg": "0.48",
+    "Avg Fight Time": "07:47",
+    "Str. Acc.": "59",
+    "TD Acc.": "N/A"
+  }
+}

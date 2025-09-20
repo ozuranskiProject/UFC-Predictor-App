@@ -1,0 +1,34 @@
+{
+  "name": "Felice Herrig",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/5c116be1-673b-4dcd-ba93-1a686f495f2a%252FHERRIG_FELICE_L_06-04.png?itok=jMP-ZAGW",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "14",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "7",
+    "DEC": "64",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "38",
+    "height": "65.00",
+    "reach": "65.00",
+    "leg_reach": "36.50",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "3.84",
+    "SApM": "5.19",
+    "TDAvg": "1.08",
+    "Sub.Avg": "0.81",
+    "Str.Def": "48",
+    "TDDef": "75",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:05",
+    "Str. Acc.": "38",
+    "TD Acc.": "29"
+  }
+}

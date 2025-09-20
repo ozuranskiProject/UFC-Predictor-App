@@ -1,0 +1,34 @@
+{
+  "name": "Chad Mendes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Chad_Mendes/MENDES_CHAD_L.png?itok=fktTMbL6",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "18",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "44",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "38",
+    "height": "66.00",
+    "reach": "66.00",
+    "leg_reach": "37.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.78",
+    "SApM": "2.35",
+    "TDAvg": "4.13",
+    "Sub.Avg": "0.28",
+    "Str.Def": "67",
+    "TDDef": "100",
+    "KDAvg": "0.73",
+    "Avg Fight Time": "09:05",
+    "Str. Acc.": "50",
+    "TD Acc.": "56"
+  }
+}

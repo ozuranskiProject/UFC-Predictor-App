@@ -1,0 +1,34 @@
+{
+  "name": "Igor Araujo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/84ab21a2-03ae-46c8-b2e2-e38341457d2b%252FIgor-Araujo_454202_LeftFullBodyImage.png?itok=zar_MYpt",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "25",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "4",
+    "DEC": "28",
+    "SUB": "68"
+  },
+  "bio": {
+    "age": "42",
+    "height": "73.00",
+    "reach": "77.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.52",
+    "SApM": "2.86",
+    "TDAvg": "0.86",
+    "Sub.Avg": "0.57",
+    "Str.Def": "50",
+    "TDDef": "22",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:08",
+    "Str. Acc.": "42",
+    "TD Acc.": "16"
+  }
+}

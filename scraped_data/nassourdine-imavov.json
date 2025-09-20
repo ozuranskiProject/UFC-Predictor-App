@@ -1,0 +1,34 @@
+{
+  "name": "Nassourdine Imavov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/IMAVOV_NASSOURDINE_L_09-06.png?itok=iltrMKNI",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "17",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "35",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "29",
+    "height": "75.00",
+    "reach": "75.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.28",
+    "SApM": "3.17",
+    "TDAvg": "0.74",
+    "Sub.Avg": "0.98",
+    "Str.Def": "59",
+    "TDDef": "81",
+    "KDAvg": "0.16",
+    "Avg Fight Time": "15:16",
+    "Str. Acc.": "55",
+    "TD Acc.": "32"
+  }
+}

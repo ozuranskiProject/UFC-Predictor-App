@@ -1,0 +1,34 @@
+{
+  "name": "Royston Wee",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/505756c1-6c2b-42e7-a1c6-f98a4bc823e0%252FRoyston-Wee_463243_LeftFullBodyImage.png?itok=jvtZ9Gx6",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "4",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "50",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "36",
+    "height": "67.00",
+    "reach": "67.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.10",
+    "SApM": "2.45",
+    "TDAvg": "3.38",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "0.00",
+    "KDAvg": "13:20",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "60",
+    "TD Acc.": "82"
+  }
+}

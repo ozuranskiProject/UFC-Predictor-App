@@ -1,0 +1,34 @@
+{
+  "name": "Maki Pitolo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/05814fbf-fec6-4205-be0d-70b7cb7adb7e%252FPITOLO_MAKI_L_12-04.png?itok=1TbNo2XT",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "13",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "54",
+    "DEC": "23",
+    "SUB": "23"
+  },
+  "bio": {
+    "age": "32",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "4.10",
+    "SApM": "3.93",
+    "TDAvg": "2.24",
+    "Sub.Avg": "0.75",
+    "Str.Def": "55",
+    "TDDef": "50",
+    "KDAvg": "0.25",
+    "Avg Fight Time": "08:37",
+    "Str. Acc.": "44",
+    "TD Acc.": "53"
+  }
+}

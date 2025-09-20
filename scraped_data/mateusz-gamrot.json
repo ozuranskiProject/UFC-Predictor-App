@@ -1,0 +1,34 @@
+{
+  "name": "Mateusz Gamrot",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/GAMROT_MATEUSZ_L_05-31.png?itok=wdXooDhQ",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "25",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "48",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "34",
+    "height": "70.00",
+    "reach": "70.50",
+    "leg_reach": "39.00",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "3.35",
+    "SApM": "3.04",
+    "TDAvg": "5.33",
+    "Sub.Avg": "0.11",
+    "Str.Def": "59",
+    "TDDef": "91",
+    "KDAvg": "0.11",
+    "Avg Fight Time": "12:32",
+    "Str. Acc.": "52",
+    "TD Acc.": "37"
+  }
+}

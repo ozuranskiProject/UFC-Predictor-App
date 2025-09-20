@@ -1,0 +1,34 @@
+{
+  "name": "Leslie Smith",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68577/profile-galery/fullbodyleft-picture/Leslie-Smith_480246_LeftFullBodyImage.png?itok=4eiT2bWi",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "10",
+    "losses": "7",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "40",
+    "height": "69.00",
+    "reach": "66.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "7.56",
+    "SApM": "8.41",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "63",
+    "KDAvg": "0.48",
+    "Avg Fight Time": "09:01",
+    "Str. Acc.": "40",
+    "TD Acc.": "0"
+  }
+}

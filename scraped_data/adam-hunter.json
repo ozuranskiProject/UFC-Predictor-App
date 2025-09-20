@@ -1,0 +1,34 @@
+{
+  "name": "Adam Hunter",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Adam_Hunter/HUNTER_ADAM_R.png?VersionId=PYhYI5upCMAe4pK537bCXsMXDsO06lTd&itok=d3G0C9qO",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "0",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "86",
+    "DEC": "0",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "39",
+    "height": "73.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "00:00",
+    "SApM": "N/A",
+    "TDAvg": "N/A",
+    "Sub.Avg": "N/A",
+    "Str.Def": "N/A",
+    "TDDef": "N/A",
+    "KDAvg": "N/A",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "N/A",
+    "TD Acc.": "N/A"
+  }
+}

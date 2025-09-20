@@ -1,0 +1,34 @@
+{
+  "name": "Dan Moret",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67717/profile-galery/fullbodyleft-picture/MORET_DAN_L.png?VersionId=I4_bJ9h5zHppkRBBHn6iicQfZTuwwkw1&itok=TtZ1a-SI",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "31",
+    "SUB": "54"
+  },
+  "bio": {
+    "age": "36",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "42.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.67",
+    "SApM": "3.56",
+    "TDAvg": "1.25",
+    "Sub.Avg": "0.42",
+    "Str.Def": "43",
+    "TDDef": "45",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:00",
+    "Str. Acc.": "44",
+    "TD Acc.": "27"
+  }
+}

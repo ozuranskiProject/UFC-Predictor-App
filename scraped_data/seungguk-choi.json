@@ -1,0 +1,34 @@
+{
+  "name": "SeungGuk Choi",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/CHOI_SEUNGGUK_L_02-04.png?itok=UH2Ny-dD",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "7",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "67",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "26",
+    "height": "66.00",
+    "reach": "64.00",
+    "leg_reach": "35.50",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "2.69",
+    "SApM": "2.69",
+    "TDAvg": "1.02",
+    "Sub.Avg": "0.00",
+    "Str.Def": "66",
+    "TDDef": "74",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "14:38",
+    "Str. Acc.": "43",
+    "TD Acc.": "28"
+  }
+}

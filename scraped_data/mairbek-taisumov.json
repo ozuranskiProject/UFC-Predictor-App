@@ -1,0 +1,34 @@
+{
+  "name": "Mairbek Taisumov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/TAISUMOV_MAIRBEK_L.png?VersionId=EWuxiOB8HBWPiuWjpQkzRF5AwzVsJhw2&itok=EMYBH_jC",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "27",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "62",
+    "DEC": "8",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "34",
+    "height": "69.00",
+    "reach": "73.00",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.98",
+    "SApM": "3.03",
+    "TDAvg": "1.34",
+    "Sub.Avg": "0.00",
+    "Str.Def": "65",
+    "TDDef": "88",
+    "KDAvg": "0.77",
+    "Avg Fight Time": "08:42",
+    "Str. Acc.": "39",
+    "TD Acc.": "64"
+  }
+}

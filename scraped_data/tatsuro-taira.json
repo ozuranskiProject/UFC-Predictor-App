@@ -1,0 +1,34 @@
+{
+  "name": "Tatsuro Taira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/TAIRA_TATSURO_L_08-02.png?itok=OGrjHSVR",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "17",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "29",
+    "DEC": "24",
+    "SUB": "47"
+  },
+  "bio": {
+    "age": "25",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.87",
+    "SApM": "2.54",
+    "TDAvg": "3.21",
+    "Sub.Avg": "1.69",
+    "Str.Def": "47",
+    "TDDef": "45",
+    "KDAvg": "0.51",
+    "Avg Fight Time": "11:05",
+    "Str. Acc.": "60",
+    "TD Acc.": "49"
+  }
+}

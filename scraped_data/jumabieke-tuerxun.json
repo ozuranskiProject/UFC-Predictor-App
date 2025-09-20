@@ -1,0 +1,34 @@
+{
+  "name": "Jumabieke Tuerxun",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/7c67c085-6688-490d-9ded-492113e7f853%252FJumabieke-Tuerxun_302919_LeftFullBodyImage.png?itok=POL48WAc",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "17",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "18",
+    "DEC": "53",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "37",
+    "height": "67.00",
+    "reach": "67.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.60",
+    "SApM": "3.08",
+    "TDAvg": "0.47",
+    "Sub.Avg": "0.94",
+    "Str.Def": "60",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:36",
+    "Str. Acc.": "29",
+    "TD Acc.": "11"
+  }
+}

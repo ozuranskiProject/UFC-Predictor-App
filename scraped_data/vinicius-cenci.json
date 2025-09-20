@@ -1,0 +1,34 @@
+{
+  "name": "Vinicius Cenci",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-02/CENCI_VINICIUS_R.png?itok=BMS-PlZT",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "0",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "27",
+    "height": "N/A",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.90",
+    "SApM": "2.69",
+    "TDAvg": "1.61",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "0.00",
+    "KDAvg": "09:18",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "48",
+    "TD Acc.": "50"
+  }
+}

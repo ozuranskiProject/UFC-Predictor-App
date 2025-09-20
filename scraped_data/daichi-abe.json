@@ -1,0 +1,34 @@
+{
+  "name": "Daichi Abe",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/8c026dcd-60a4-457e-9cb5-b2c20969cd8f%252FDaichi-Abe_635302_LeftFullBodyImage.png?itok=8IXCDtRi",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "6",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "33",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "69.00",
+    "reach": "71.50",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.80",
+    "SApM": "4.49",
+    "TDAvg": "0.33",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "0.33",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "34",
+    "TD Acc.": "50"
+  }
+}

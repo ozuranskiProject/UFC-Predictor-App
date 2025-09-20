@@ -1,0 +1,34 @@
+{
+  "name": "Vicente Luque",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-06/LUQUE_VICENTE_L_06-07.png?itok=Lfw8axGU",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "23",
+    "losses": "11",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "48",
+    "DEC": "13",
+    "SUB": "39"
+  },
+  "bio": {
+    "age": "33",
+    "height": "71.00",
+    "reach": "75.50",
+    "leg_reach": "38.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "5.02",
+    "SApM": "5.25",
+    "TDAvg": "0.97",
+    "Sub.Avg": "0.69",
+    "Str.Def": "52",
+    "TDDef": "62",
+    "KDAvg": "0.69",
+    "Avg Fight Time": "09:28",
+    "Str. Acc.": "52",
+    "TD Acc.": "52"
+  }
+}

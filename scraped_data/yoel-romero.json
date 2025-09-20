@@ -1,0 +1,34 @@
+{
+  "name": "Yoel Romero",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-08/ROMERO_YOEL_L.png?VersionId=rMWoCutUaCZ5g3ltk5jLMlEU83wP2ukr&itok=ISeYxb6i",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "13",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "85",
+    "DEC": "15",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "46",
+    "height": "72.00",
+    "reach": "73.50",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.44",
+    "SApM": "3.05",
+    "TDAvg": "1.57",
+    "Sub.Avg": "0.00",
+    "Str.Def": "61",
+    "TDDef": "78",
+    "KDAvg": "0.75",
+    "Avg Fight Time": "14:22",
+    "Str. Acc.": "49",
+    "TD Acc.": "30"
+  }
+}

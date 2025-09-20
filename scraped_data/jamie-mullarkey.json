@@ -1,0 +1,34 @@
+{
+  "name": "Jamie Mullarkey",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-12/MULLARKEY_JAMIE_L_09-09.png?itok=oQ03a5HI",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "17",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "63",
+    "DEC": "19",
+    "SUB": "19"
+  },
+  "bio": {
+    "age": "29",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.39",
+    "SApM": "4.53",
+    "TDAvg": "2.31",
+    "Sub.Avg": "0.14",
+    "Str.Def": "54",
+    "TDDef": "79",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "09:26",
+    "Str. Acc.": "47",
+    "TD Acc.": "34"
+  }
+}

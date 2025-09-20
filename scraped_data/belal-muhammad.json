@@ -1,0 +1,34 @@
+{
+  "name": "Belal Muhammad",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-05/MUHAMMAD_BELAL_L_05-06.png?itok=p_gztMvE",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "24",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "21",
+    "DEC": "75",
+    "SUB": "4"
+  },
+  "bio": {
+    "age": "36",
+    "height": "71.00",
+    "reach": "72.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.46",
+    "SApM": "3.78",
+    "TDAvg": "2.24",
+    "Sub.Avg": "0.15",
+    "Str.Def": "56",
+    "TDDef": "90",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:23",
+    "Str. Acc.": "43",
+    "TD Acc.": "39"
+  }
+}

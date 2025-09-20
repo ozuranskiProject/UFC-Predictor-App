@@ -1,0 +1,34 @@
+{
+  "name": "Omari Akhmedov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/68949%252Fprofile-galery%252Ffullbodyleft-picture%252FAKHMEDOV_OMARI_L_07-10.png?itok=f44clGPe",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "21",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "38",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "35",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "40.50",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "2.97",
+    "SApM": "2.84",
+    "TDAvg": "2.58",
+    "Sub.Avg": "0.25",
+    "Str.Def": "56",
+    "TDDef": "66",
+    "KDAvg": "0.17",
+    "Avg Fight Time": "12:01",
+    "Str. Acc.": "34",
+    "TD Acc.": "46"
+  }
+}

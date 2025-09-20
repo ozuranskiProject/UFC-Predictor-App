@@ -1,0 +1,34 @@
+{
+  "name": "Anthony Rocco Martin",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2019-03/ROCCO_MARTIN_ANTHONY_L.png?VersionId=_k_up9QAygSxWCBpnXiOk51ItXJg7Otb&itok=Vl55PNK7",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "17",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "6",
+    "DEC": "38",
+    "SUB": "56"
+  },
+  "bio": {
+    "age": "33",
+    "height": "72.00",
+    "reach": "73.50",
+    "leg_reach": "41.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "2.68",
+    "SApM": "2.59",
+    "TDAvg": "0.71",
+    "Sub.Avg": "1.02",
+    "Str.Def": "58",
+    "TDDef": "69",
+    "KDAvg": "0.16",
+    "Avg Fight Time": "12:43",
+    "Str. Acc.": "37",
+    "TD Acc.": "27"
+  }
+}

@@ -5,7 +5,7 @@ import RNPickerSelect from 'react-native-picker-select';
 import { getFighterStats } from './fighterService';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-export default function App() {    //basically just "put this file on my app; it is the app itself really" 
+export default function App() {     
   const [countA, setCountA] = useState(0);
   const [countB, setCountB] = useState(0);
 
@@ -16,7 +16,7 @@ export default function App() {    //basically just "put this file on my app; it
     setCountB(0);
   };
 
-  const scaleAnim = useRef(new Animated.Value(1)).current; //idk wtf this means its 3am but i think animating a button will be cool (famous last words!) ^-^
+  const scaleAnim = useRef(new Animated.Value(1)).current; 
 
   const animateResetButton = () => {
     resetCounters();                      //RESET FIRST SO TESTS RUN CLEANLY!!!! THIS SHOULD GO FOR ANY ANIMATION LINKED TO AN ACTION OR FUNCTION CALL!!!
@@ -172,7 +172,7 @@ export default function App() {    //basically just "put this file on my app; it
 
 //Safe area view is kinda like a space that is everything but certain phone features like a home button or status bar, good practice
 
-//The reset makes shit more complicated because individual counts are only accessible within the private child file/component. So I had to make a setup that allows 
+//The reset makes stuff more complicated because individual counts are only accessible within the private child file/component. So I had to make a setup that allows 
 //the parent to reach into the child and reset those values on button press via another prop
 
 

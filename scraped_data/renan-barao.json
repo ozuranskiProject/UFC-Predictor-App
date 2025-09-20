@@ -1,0 +1,34 @@
+{
+  "name": "Renan Barao",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/BARAO_RENAN_L.png?VersionId=mXkxLQ23sgEnbww1uAfCtyUXEiNeUWpB&itok=xU9Eei__",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "36",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "36",
+    "SUB": "42"
+  },
+  "bio": {
+    "age": "36",
+    "height": "66.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.78",
+    "SApM": "3.90",
+    "TDAvg": "1.49",
+    "Sub.Avg": "0.54",
+    "Str.Def": "58",
+    "TDDef": "91",
+    "KDAvg": "0.24",
+    "Avg Fight Time": "13:14",
+    "Str. Acc.": "37",
+    "TD Acc.": "42"
+  }
+}

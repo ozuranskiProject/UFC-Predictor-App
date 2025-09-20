@@ -1,0 +1,34 @@
+{
+  "name": "Luke Barnatt",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/64547f95-1197-4009-9470-27aaea494494%252FLuke-Barnatt_307098_LeftFullBodyImage.png?itok=_jq5ua38",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "8",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "25",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "35",
+    "height": "78.00",
+    "reach": "77.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.43",
+    "SApM": "3.87",
+    "TDAvg": "0.63",
+    "Sub.Avg": "0.42",
+    "Str.Def": "59",
+    "TDDef": "64",
+    "KDAvg": "0.42",
+    "Avg Fight Time": "11:56",
+    "Str. Acc.": "36",
+    "TD Acc.": "43"
+  }
+}

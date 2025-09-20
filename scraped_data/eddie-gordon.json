@@ -1,0 +1,34 @@
+{
+  "name": "Eddie Gordon",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/18454fe5-4ad8-4c5f-bbe2-90e660d6086d%252Feddie-gordon_480083_LeftFullBodyImage.png?itok=6FYssBX1",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "8",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "50",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "39",
+    "height": "72.00",
+    "reach": "77.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.03",
+    "SApM": "2.57",
+    "TDAvg": "1.93",
+    "Sub.Avg": "0.00",
+    "Str.Def": "60",
+    "TDDef": "64",
+    "KDAvg": "0.39",
+    "Avg Fight Time": "09:44",
+    "Str. Acc.": "33",
+    "TD Acc.": "83"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sabah Homasi",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69184/profile-galery/fullbodyleft-picture/sabah-homasi_530247_LeftFullBodyImage.png?VersionId=5L3edAd4JyATIbI_pDyK0hmDpVByEfBm&itok=u4_5CsT5",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "73",
+    "DEC": "9",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "34",
+    "height": "72.00",
+    "reach": "72.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.98",
+    "SApM": "6.91",
+    "TDAvg": "2.80",
+    "Sub.Avg": "0.00",
+    "Str.Def": "48",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "05:58",
+    "Str. Acc.": "48",
+    "TD Acc.": "50"
+  }
+}

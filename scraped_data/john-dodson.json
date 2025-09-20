@@ -1,0 +1,34 @@
+{
+  "name": "John Dodson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-08/DODSON_JOHN_L_02-15.png?VersionId=Rtqs4QfMBwRQcvens1VOeY7SsiXJg1nt&itok=7splKG5q",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "22",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "41",
+    "SUB": "9"
+  },
+  "bio": {
+    "age": "38",
+    "height": "63.00",
+    "reach": "66.00",
+    "leg_reach": "35.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.20",
+    "SApM": "3.58",
+    "TDAvg": "0.71",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "82",
+    "KDAvg": "0.71",
+    "Avg Fight Time": "13:37",
+    "Str. Acc.": "41",
+    "TD Acc.": "29"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Victor Dias",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-08/DIAZ_VICTOR_L.png?itok=S0DIWJBp",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "0",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "30",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "32",
+    "height": "66.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.87",
+    "SApM": "5.80",
+    "TDAvg": "5.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "55",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "45",
+    "TD Acc.": "42"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Peter Petties",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/787e9b2c-b4c2-4166-b8c6-bb0c69b7adb7%252FPeter-Petties_635824_LeftFullBodyImage.png?itok=XgMZqmdf",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "5",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "40",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "32",
+    "height": "69.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.61",
+    "SApM": "8.24",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "48",
+    "TDDef": "0.00",
+    "KDAvg": "07:39",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "29",
+    "TD Acc.": "0"
+  }
+}

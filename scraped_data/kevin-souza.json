@@ -1,0 +1,34 @@
+{
+  "name": "Kevin Souza",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/ec657b23-27b9-46b3-9721-c69e496ef5d4%252FKevin-Souza_452625_LeftFullBodyImage.png?itok=T7UQVrZN",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "19",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "74",
+    "DEC": "21",
+    "SUB": "5"
+  },
+  "bio": {
+    "age": "38",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.65",
+    "SApM": "2.91",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "50",
+    "KDAvg": "0.90",
+    "Avg Fight Time": "08:20",
+    "Str. Acc.": "45",
+    "TD Acc.": "N/A"
+  }
+}

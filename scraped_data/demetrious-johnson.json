@@ -1,0 +1,34 @@
+{
+  "name": "Demetrious Johnson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/JOHNSON_DEMETRIOUS_L.png?VersionId=HRDdP7nmVjZwEyiRKdzDsVlwTPEUIfm_&itok=DWvPLJHP",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "27",
+    "losses": "3",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "19",
+    "DEC": "41",
+    "SUB": "41"
+  },
+  "bio": {
+    "age": "35",
+    "height": "63.00",
+    "reach": "66.00",
+    "leg_reach": "34.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.43",
+    "SApM": "1.66",
+    "TDAvg": "3.35",
+    "Sub.Avg": "0.52",
+    "Str.Def": "67",
+    "TDDef": "66",
+    "KDAvg": "0.16",
+    "Avg Fight Time": "17:56",
+    "Str. Acc.": "55",
+    "TD Acc.": "56"
+  }
+}

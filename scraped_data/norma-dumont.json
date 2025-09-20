@@ -1,0 +1,34 @@
+{
+  "name": "Norma Dumont",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/DUMONT_NORMA_L_04-06.png?itok=5RHtySBK",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "83",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "34",
+    "height": "67.00",
+    "reach": "67.00",
+    "leg_reach": "38.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.86",
+    "SApM": "2.16",
+    "TDAvg": "1.72",
+    "Sub.Avg": "0.00",
+    "Str.Def": "66",
+    "TDDef": "72",
+    "KDAvg": "0.20",
+    "Avg Fight Time": "14:51",
+    "Str. Acc.": "50",
+    "TD Acc.": "57"
+  }
+}

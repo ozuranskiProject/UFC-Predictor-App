@@ -1,0 +1,34 @@
+{
+  "name": "Horacio Gutierrez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/fc28ed30-c5f3-4264-a83a-9da131397fb9%252Fhoracio-gutierrez_570124_LeftFullBodyImage.png?itok=rbgPLj6G",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "3",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "67",
+    "DEC": "0",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "32",
+    "height": "70.00",
+    "reach": "69.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.86",
+    "SApM": "2.91",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:46",
+    "Str. Acc.": "27",
+    "TD Acc.": "N/A"
+  }
+}

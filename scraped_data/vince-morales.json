@@ -1,0 +1,34 @@
+{
+  "name": "Vince Morales",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/MORALES_VINCE_L_02-15.png?itok=W6bGu08w",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "16",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "25",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "34",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Wrestling"
+  },
+  "fight_stats": {
+    "SLpM": "3.57",
+    "SApM": "4.00",
+    "TDAvg": "0.59",
+    "Sub.Avg": "0.49",
+    "Str.Def": "54",
+    "TDDef": "59",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "12:47",
+    "Str. Acc.": "38",
+    "TD Acc.": "40"
+  }
+}

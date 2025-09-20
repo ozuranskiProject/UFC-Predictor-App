@@ -1,0 +1,34 @@
+{
+  "name": "Raphael Pessoa Nunes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69693/profile-galery/fullbodyleft-picture/PESSOA_RAPHAEL_L.png?VersionId=YmDm9OX6.fbV2zUtv5L_FzXliNVGAnI0&itok=VNhL4l4W",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "30",
+    "SUB": "10"
+  },
+  "bio": {
+    "age": "34",
+    "height": "75.00",
+    "reach": "78.00",
+    "leg_reach": "43.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.16",
+    "SApM": "3.43",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "42",
+    "TDDef": "100",
+    "KDAvg": "0.56",
+    "Avg Fight Time": "08:56",
+    "Str. Acc.": "27",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Louis Cosce",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-09/COSCE_LOUIS_L_09-17.png?itok=YAazCzn5",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "7",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "71",
+    "DEC": "0",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "27",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "4.31",
+    "SApM": "5.35",
+    "TDAvg": "1.04",
+    "Sub.Avg": "0.52",
+    "Str.Def": "48",
+    "TDDef": "50",
+    "KDAvg": "1.04",
+    "Avg Fight Time": "09:40",
+    "Str. Acc.": "45",
+    "TD Acc.": "20"
+  }
+}

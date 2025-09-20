@@ -1,0 +1,34 @@
+{
+  "name": "Austin Bashi",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/BASHI_AUSTIN_L_08-02.png?itok=CHhX7N7S",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "14",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "21",
+    "DEC": "36",
+    "SUB": "43"
+  },
+  "bio": {
+    "age": "23",
+    "height": "66.00",
+    "reach": "70.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "1.75",
+    "SApM": "2.34",
+    "TDAvg": "7.81",
+    "Sub.Avg": "1.67",
+    "Str.Def": "49",
+    "TDDef": "63",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:58",
+    "Str. Acc.": "47",
+    "TD Acc.": "41"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ricky Rainey",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69685/profile-galery/fullbodyleft-picture/RAINEY_RICKY_L.png?itok=B1JGSBkk",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "54",
+    "DEC": "38",
+    "SUB": "8"
+  },
+  "bio": {
+    "age": "39",
+    "height": "73.00",
+    "reach": "77.00",
+    "leg_reach": "43.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.55",
+    "SApM": "2.62",
+    "TDAvg": "0.95",
+    "Sub.Avg": "0.00",
+    "Str.Def": "46",
+    "TDDef": "56",
+    "KDAvg": "0.47",
+    "Avg Fight Time": "07:56",
+    "Str. Acc.": "49",
+    "TD Acc.": "18"
+  }
+}

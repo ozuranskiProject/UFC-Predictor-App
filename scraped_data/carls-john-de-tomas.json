@@ -1,0 +1,34 @@
+{
+  "name": "Carls John De Tomas",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c21c7965-6594-4831-8e80-52bf3b608758%252FCarls-John-de-Tomas_625981_LeftFullBodyImage.png?itok=4SHUJHui",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "13",
+    "DEC": "50",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "26",
+    "height": "65.00",
+    "reach": "71.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.74",
+    "SApM": "3.93",
+    "TDAvg": "1.37",
+    "Sub.Avg": "0.00",
+    "Str.Def": "45",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:57",
+    "Str. Acc.": "37",
+    "TD Acc.": "33"
+  }
+}

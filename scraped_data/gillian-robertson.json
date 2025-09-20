@@ -1,0 +1,34 @@
+{
+  "name": "Gillian Robertson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/ROBERTSON_GILLIAN_L_01-20.png?itok=Jv5pJfIk",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "16",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "19",
+    "DEC": "25",
+    "SUB": "56"
+  },
+  "bio": {
+    "age": "30",
+    "height": "65.00",
+    "reach": "63.00",
+    "leg_reach": "35.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.86",
+    "SApM": "2.86",
+    "TDAvg": "2.74",
+    "Sub.Avg": "0.94",
+    "Str.Def": "57",
+    "TDDef": "41",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:05",
+    "Str. Acc.": "49",
+    "TD Acc.": "41"
+  }
+}

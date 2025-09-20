@@ -1,0 +1,34 @@
+{
+  "name": "Zhalgas Zhumagulov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/ZHUMAGULOV_ZHALGAS_L_06-24.png?itok=jvzJgvRw",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "14",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "43",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "34",
+    "height": "64.00",
+    "reach": "66.50",
+    "leg_reach": "36.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "5.24",
+    "SApM": "5.86",
+    "TDAvg": "1.30",
+    "Sub.Avg": "0.19",
+    "Str.Def": "52",
+    "TDDef": "75",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:35",
+    "Str. Acc.": "43",
+    "TD Acc.": "19"
+  }
+}

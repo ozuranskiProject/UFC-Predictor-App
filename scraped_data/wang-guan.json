@@ -1,0 +1,34 @@
+{
+  "name": "Wang Guan",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68050/profile-galery/fullbodyleft-picture/Wang-Guan_643439_LeftFullBodyImage.png?VersionId=X0hsBvssa9qVm0hs5kJC5BkLC1rUzRad&itok=ax-eBDQl",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "20",
+    "losses": "1",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "70",
+    "DEC": "30",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "37",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.73",
+    "SApM": "3.27",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "60",
+    "TDDef": "1.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "43",
+    "TD Acc.": "0"
+  }
+}

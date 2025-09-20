@@ -1,0 +1,34 @@
+{
+  "name": "Yuneisy Duben",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/DUBEN_YUNEISY_L_03-15.png?itok=x0gW_uLl",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "6",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "83",
+    "DEC": "0",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "28",
+    "height": "64.00",
+    "reach": "65.50",
+    "leg_reach": "36.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "13.53",
+    "SApM": "10.75",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "5.20",
+    "KDAvg": "01:27",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "49",
+    "TD Acc.": "N/A"
+  }
+}

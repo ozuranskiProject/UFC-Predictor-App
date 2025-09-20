@@ -1,0 +1,34 @@
+{
+  "name": "Shane Howell",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/bece3142-72fe-4c6a-8617-58d4c140f9fc%252FShane-Howell_490365_LeftFullBodyImage.png?itok=GhD40fyP",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "13",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "31",
+    "DEC": "15",
+    "SUB": "54"
+  },
+  "bio": {
+    "age": "39",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.27",
+    "SApM": "2.55",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "43",
+    "TDDef": "20",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:39",
+    "Str. Acc.": "33",
+    "TD Acc.": "N/A"
+  }
+}

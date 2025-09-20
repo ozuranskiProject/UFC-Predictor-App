@@ -1,0 +1,34 @@
+{
+  "name": "Danny Roberts",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/1/ROBERTS_DANNY_L_07-22.png?itok=sPZ2K1Z0",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "18",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "28",
+    "SUB": "28"
+  },
+  "bio": {
+    "age": "37",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.18",
+    "SApM": "3.73",
+    "TDAvg": "0.24",
+    "Sub.Avg": "0.24",
+    "Str.Def": "51",
+    "TDDef": "58",
+    "KDAvg": "0.35",
+    "Avg Fight Time": "09:05",
+    "Str. Acc.": "40",
+    "TD Acc.": "10"
+  }
+}

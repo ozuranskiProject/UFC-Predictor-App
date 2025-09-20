@@ -1,0 +1,34 @@
+{
+  "name": "Yushin Okami",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69611/profile-galery/fullbodyleft-picture/OKAMI_YUSHIN_L.png?VersionId=husoBhWJZG1oVRzlecdEhkL3KKJblqYh&itok=YaHchsTC",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "34",
+    "losses": "13",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "37",
+    "DEC": "54",
+    "SUB": "9"
+  },
+  "bio": {
+    "age": "41",
+    "height": "74.00",
+    "reach": "75.00",
+    "leg_reach": "41.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.06",
+    "SApM": "2.25",
+    "TDAvg": "1.98",
+    "Sub.Avg": "0.48",
+    "Str.Def": "61",
+    "TDDef": "84",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "11:39",
+    "Str. Acc.": "38",
+    "TD Acc.": "39"
+  }
+}

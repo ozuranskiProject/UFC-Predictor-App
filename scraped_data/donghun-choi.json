@@ -1,0 +1,34 @@
+{
+  "name": "DongHun Choi",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/CHOI_DONGHUN_L.png?itok=ccadzvj_",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "3",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "63",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "26",
+    "height": "N/A",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.54",
+    "SApM": "3.13",
+    "TDAvg": "0.46",
+    "Sub.Avg": "0.00",
+    "Str.Def": "59",
+    "TDDef": "82",
+    "KDAvg": "0.92",
+    "Avg Fight Time": "10:52",
+    "Str. Acc.": "66",
+    "TD Acc.": "14"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Magomed Gadzhiyasulov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/9/GADZHIYASULOV_MAGOMED_L_01-11.png?itok=8OPjwwrZ",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "9",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "56",
+    "DEC": "33",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "31",
+    "height": "74.00",
+    "reach": "75.50",
+    "leg_reach": "43.50",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "2.89",
+    "SApM": "1.64",
+    "TDAvg": "3.67",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "62",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "50",
+    "TD Acc.": "73"
+  }
+}

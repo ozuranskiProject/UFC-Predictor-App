@@ -1,0 +1,34 @@
+{
+  "name": "Chris Gutierrez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/GUTIERREZ_CHRIS_L_04-26.png?itok=rMaswu70",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "22",
+    "losses": "5",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "55",
+    "SUB": "5"
+  },
+  "bio": {
+    "age": "34",
+    "height": "69.00",
+    "reach": "67.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.59",
+    "SApM": "2.65",
+    "TDAvg": "0.24",
+    "Sub.Avg": "0.08",
+    "Str.Def": "63",
+    "TDDef": "70",
+    "KDAvg": "0.48",
+    "Avg Fight Time": "13:27",
+    "Str. Acc.": "59",
+    "TD Acc.": "25"
+  }
+}

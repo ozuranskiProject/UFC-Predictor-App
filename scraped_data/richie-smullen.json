@@ -1,0 +1,34 @@
+{
+  "name": "Richie Smullen",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/SMULLEN_RICHIE_R_0.png?VersionId=Q0Or9bIZDZI5kh6dUsC2sCP9GDZx_dtm&itok=KfjZPM1D",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "3",
+    "losses": "1",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "0",
+    "SUB": "67"
+  },
+  "bio": {
+    "age": "31",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.98",
+    "SApM": "2.26",
+    "TDAvg": "8.49",
+    "Sub.Avg": "0.00",
+    "Str.Def": "65",
+    "TDDef": "0.00",
+    "KDAvg": "03:32",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "78",
+    "TD Acc.": "67"
+  }
+}

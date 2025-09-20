@@ -1,0 +1,34 @@
+{
+  "name": "Max Griffin",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/GRIFFIN_MAX_L_07-12.png?itok=enD8j-C-",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "20",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "47",
+    "DEC": "42",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "39",
+    "height": "71.00",
+    "reach": "76.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "3.76",
+    "SApM": "3.70",
+    "TDAvg": "1.28",
+    "Sub.Avg": "0.26",
+    "Str.Def": "58",
+    "TDDef": "70",
+    "KDAvg": "0.51",
+    "Avg Fight Time": "13:02",
+    "Str. Acc.": "47",
+    "TD Acc.": "41"
+  }
+}

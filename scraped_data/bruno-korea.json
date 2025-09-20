@@ -1,0 +1,34 @@
+{
+  "name": "Bruno Korea",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/bruno-korea_563511_LeftFullBodyImage.png?itok=JQELIvzT",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "4",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "25",
+    "SUB": "75"
+  },
+  "bio": {
+    "age": "31",
+    "height": "66.00",
+    "reach": "65.50",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.12",
+    "SApM": "3.96",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "42",
+    "TDDef": "25",
+    "KDAvg": "1.06",
+    "Avg Fight Time": "07:04",
+    "Str. Acc.": "34",
+    "TD Acc.": "0"
+  }
+}

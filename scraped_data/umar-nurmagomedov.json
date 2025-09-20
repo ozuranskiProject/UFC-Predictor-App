@@ -1,0 +1,34 @@
+{
+  "name": "Umar Nurmagomedov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/NURMAGOMEDOV_UMAR_L_01-18.png?itok=reZ0AeK5",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "18",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "50",
+    "SUB": "39"
+  },
+  "bio": {
+    "age": "29",
+    "height": "68.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.38",
+    "SApM": "2.15",
+    "TDAvg": "3.26",
+    "Sub.Avg": "0.31",
+    "Str.Def": "61",
+    "TDDef": "79",
+    "KDAvg": "0.16",
+    "Avg Fight Time": "13:48",
+    "Str. Acc.": "57",
+    "TD Acc.": "40"
+  }
+}
