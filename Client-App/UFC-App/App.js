@@ -2,7 +2,7 @@ import React, { useEffect, useState, useMemo } from 'react';
 import { View, Text, StyleSheet, ActivityIndicator, Pressable, Platform } from 'react-native';
 import WeightClassSelector, { weightClasses } from './weight-class-picker';
 import FighterSearch from './fighterSearch';
-import calculateFight, { DEFAULT_WEIGHTS } from './calculateFight';
+import calculateFightResults, { DEFAULT_WEIGHTS } from './calculateFight';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 export default function App() {
@@ -53,8 +53,8 @@ export default function App() {
     <SafeAreaView style={styles.root} edges={['bottom', 'left', 'right']}>
       <View style={styles.content}>
         <WeightClassSelector 
-          selectedLabel={weightClassLabel}
-          onSelect={setWeightClassLabel}
+          selectedWCLabel={weightClassLabel}
+          onSelectWC={setWeightClassLabel}
         />
         <Text style={styles.welcome}>Choose your matchup!!!</Text>
 
@@ -81,7 +81,7 @@ export default function App() {
               fighterB: fighterB?.name 
             });
             if (!readyToFight) return;
-            const r = calculateFight(fighterA, fighterB, DEFAULT_WEIGHTS);
+            const r = calculateFightResults(fighterA, fighterB, DEFAULT_WEIGHTS);
             setResult(r);
           }}
           style={[styles.fightButton, !readyToFight && styles.fightButtonDisabled]}

@@ -7,7 +7,7 @@ const SRC_DIR = path.resolve(__dirname, '..', '..', 'scraped_data');
 
 const OUT_FILE = path.resolve(__dirname, 'fighters-index.json'); 
 
-console.log('SRC_DIR =', SRC_DIR); //debug
+console.log('SRC_DIR =', SRC_DIR); 
 console.log('OUT_FILE =', OUT_FILE);
 
 // Error case: scraped_data folder missing
@@ -21,7 +21,6 @@ const all = fs.readdirSync(SRC_DIR);
 const files = all.filter(f => f.toLowerCase().endsWith('.json')); 
 console.log(`Found ${files.length} JSON files in scraped_data.`); 
 
-// Error case: no files found
 if (files.length === 0) {                                     
   console.error('X No .json files found. Nothing to build.'); 
   fs.writeFileSync(OUT_FILE, '[]');                           

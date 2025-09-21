@@ -19,13 +19,15 @@ const METRIC_PATHS = {
   subPct: ['win_methods.SUB'],
 };
 
-// get nested value from object by path string like 'a.b.c'
-const getVal = (obj, path) => path.split('.').reduce((o, k) => (o && k in o ? o[k] : undefined), obj);
+// get nested property from object using dot separated path string
+const resolvePath = (obj, path) => path.split('.').reduce((o, k) => (o && k in o ? o[k] : undefined), obj);
 
-// get first useable value from object by trying multiple paths
+// tries multiple possible paths to find the first valid value in an object.
+// Useful because fighter data may have the same stat under different keys
+// or sometimes contain empty or placeholder values like null, "" or "N/A"
 const firstVal = (obj, paths) => { 
   for (const p of paths) {
-    const v = getVal(obj, p); 
+    const v = resolvePath(obj, p); 
     if (v !== undefined && v !== null) { 
       const s = String(v).trim(); 
       if (s && s.toUpperCase() !== 'N/A') return s; 
@@ -43,8 +45,8 @@ const num = (v) => {
 export const DEFAULT_WEIGHTS = { //these are manual weights, I wanted/want to have these be determined off history, but that would
 // require insanely complex scraping. for now I am using my best judgement
 
-  SLpM: 3,     // significant strikes landed per minute
-  SApM: 3,     // significant strikes absorbed per minute
+  StrikeLandpM: 3,     // significant strikes landed per minute
+  StrikeAbspM: 3,     // significant strikes absorbed per minute
   StrAcc: 2,   // significant strike accuracy
   StrDef: 2,   // significant strike defense
   StrDef: 2,   // significant strike defense
@@ -61,8 +63,7 @@ export const DEFAULT_WEIGHTS = { //these are manual weights, I wanted/want to ha
   decPct: 0.5, // decision win percentage
 };
 
-// main function to calculate fight outcome probabilities
-export default function calculateFight(f1, f2, weights = DEFAULT_WEIGHTS) {
+export default function calculateFightResults(f1, f2, weights = DEFAULT_WEIGHTS) {
   let score1 = 0;
   let score2 = 0;
 
