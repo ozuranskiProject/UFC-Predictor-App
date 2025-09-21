@@ -20,16 +20,7 @@ export default function Counter( {internalCount = 0, onValueChange, testID}) {  
       <Pressable style={styles.button} onPress={handleIncrement} testID={testID}>
         <Text style={styles.buttonText}>Increase</Text>
       </Pressable>       
-    </View>                                                               
-
-    //Confusing but testID basically makes it so that when testing you can distinguish between repeated components!!! 
-    // just another prop really but refer to documentation if needed because its weird and you wont remember how to do it likely :/
-
-    //*Okay so commenting in JSX is difficult and giving me errors so heres those four lines with comments:* 
-    //<View style={styles.container}>                                      "show following stuff in the style of 'container,' defined below"       
-    //<Text style={styles.counterText}>Count: {count}</Text>                "show text, 'Count: (count number)', display it in the style of 'counterText' defined below"  
-    //<Button title="Increase" onPress={() => setCount(count + 1)} />       "display this button that says 'increase' and when pressed, call the update function for var count" 
-    //</View>                                                              "similar to </Text>, closing 'tag' for styling display of that type (when nthng inside, use /> )" 
+    </View>                                                                
   ); 
 } 
 

@@ -1,7 +1,6 @@
 import React from 'react';
 import { render, fireEvent, waitFor } from '@testing-library/react-native';
-
-//creating mock data and functions so tests run faster without having to sift through hundereds of thousands of lines of code and 
+ 
 // will work (as data) no matter what even as the real data set changes in the future. this one is static
 jest.mock('../fighters-index.json', () => ([
   { id: 1, name: 'Jon Jones' },
@@ -18,9 +17,9 @@ jest.mock('../fighterService', () => {
   return {
     getAllFighters: () => pool,
     searchFighters: (q, limit = 5) => {
-      const s = (q ?? '').trim().toLowerCase(); // lowercase and trim. (q ?? '') basically just if null then use ''
-      if (!s) return []; //if s doesnt exist then return nothing
-      return pool.filter(p => p.name.toLowerCase().includes(s)).slice(0, limit); //giv epool back but filtered down based on query
+      const s = (q ?? '').trim().toLowerCase(); 
+      if (!s) return []; 
+      return pool.filter(p => p.name.toLowerCase().includes(s)).slice(0, limit); 
     },
     getFighterByName: (name) =>
       pool.find(p => p.name.toLowerCase() === (name ?? '').toLowerCase()) ?? null
@@ -31,9 +30,6 @@ import { getAllFighters, searchFighters, getFighterByName } from '../fighterServ
 import FighterSearch from '../fighterSearch';
 import WeightClassSelector from '../weight-class-picker';
 
-
-//tests
-
 // fighterService
 describe('fighterService', () => {
   test('getAllFighters returns array with items', () => {
@@ -43,14 +39,14 @@ describe('fighterService', () => {
   });
 
   test('searchFighters trims and filters (case-insensitive)', () => {
-    expect(searchFighters('  al ').map(x => x.name)) //testing al with spaces to hopefully get the appropriate results vvv
-      .toEqual(expect.arrayContaining(['Alex Pereira', 'Alexa Grasso']));
-    expect(searchFighters('   ')).toEqual([]); // testing nothing to hopefully get nothing
+    expect(searchFighters('  al ').map(x => x.name))  
+      .toEqual(expect.arrayContaining(['Alex Pereira', 'Alexa Grasso'])); 
+    expect(searchFighters('   ')).toEqual([]); 
   });
 
   test('getFighterByName exact (case-insensitive)', () => {
-    expect(getFighterByName('jon jones')?.id).toBe(1); //get correct id for given fighter
-    expect(getFighterByName('nobody')).toBeNull(); //ensure fake names dont return anything
+    expect(getFighterByName('jon jones')?.id).toBe(1); 
+    expect(getFighterByName('nobody')).toBeNull(); 
   });
 });
 
@@ -59,7 +55,7 @@ describe('FighterSearch component', () => {
   test('typing shows suggestions', async () => {
     const { getByPlaceholderText, getByTestId } = render(<FighterSearch placeholder="Search fighter…" />);
     fireEvent.changeText(getByPlaceholderText('Search fighter…'), 'al');
-    await waitFor(() => getByTestId('suggestions')); // list appears since 'al' should return two valid fighters
+    await waitFor(() => getByTestId('suggestions')); 
   });
 
   test('picking a suggestion fills input and hides list', async () => {
@@ -70,7 +66,7 @@ describe('FighterSearch component', () => {
     fireEvent.press(getByTestId('suggestion-Alex Pereira'));
     expect(input.props.value).toBe('Alex Pereira');
     expect(queryByTestId('suggestions')).toBeNull();
-    await waitFor(() => getByText('Alex Pereira')); // selected card shows
+    await waitFor(() => getByText('Alex Pereira')); 
   });
 });
 
