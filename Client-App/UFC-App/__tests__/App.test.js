@@ -1,7 +1,8 @@
 import React from 'react';
 import { render, fireEvent, waitFor } from '@testing-library/react-native';
  
-// will work (as data) no matter what even as the real data set changes in the future. this one is static
+// Mock fixed fighter list so tests don’t depend on the real fighters-index.json,
+// which can change over time. This guarantees stable, predictable test data for testing purposes.
 jest.mock('../fighters-index.json', () => ([
   { id: 1, name: 'Jon Jones' },
   { id: 2, name: 'Alex Pereira' },

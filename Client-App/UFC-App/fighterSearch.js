@@ -6,7 +6,7 @@ const PLACEHOLDER = 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile
 
 export default function FighterSearch({ weightClassCode, weightClassLabel, placeholder = 'Search fighter…', fighters = [], style, onSelect }) {
 
-  const [query, setQuery] = useState('');
+  const [fighterQuery, setFighterQuery] = useState('');
 
   const [showResults, setShowResults] = useState(false); 
 
@@ -14,57 +14,56 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
 
   const inputRef = useRef(null);
 
-  const [active, setActive] = useState(false); // for styling input when active
+  const [inputActive, setInputActive] = useState(false); 
 
   // whenever the weight class changes, clear query + selection + dropdown
   useEffect(() => {
-    setQuery('');
+    setFighterQuery('');
     setShowResults(false);
     setSelectedFighter(null);
     onSelect?.(null); // tell parent this cleared
     
     // also blur the input and set active to false to reset styling
     inputRef.current?.blur?.(); 
-    setActive(false); 
+    setInputActive(false); 
   }, [weightClassCode]); 
 
   // try not to recalculate results unless query or weightclass changes
   const results = useMemo(() => {
-    if (!query.trim()) return []; 
-    return searchFighters(query, weightClassLabel, 5); // 
-  }, [query, weightClassLabel]); 
+    if (!fighterQuery.trim()) return []; 
+    return searchFighters(fighterQuery, weightClassLabel, 5); // 
+  }, [fighterQuery, weightClassLabel]); 
 
   // whenever the results change if there are no results hide the dropdown
-  function handleChange(text) { 
-    setQuery(text);
-    setShowResults(!!text.trim()); 
-    setActive(!!text.trim());        
+  function handleResultsChange(text) { 
+    setFighterQuery(text);
+    setShowResults(!!text.trim()); // hide dropdown if empty
+    setInputActive(!!text.trim());        
     if (!text) setSelectedFighter(null);
   }
 
-  // when user picks a fighter from the list
-  function handlePick(fighter) {
-    setQuery(fighter.name);       
+  function chooseFighter(fighter) {
+    setFighterQuery(fighter.name);       
     setShowResults(false);
     setSelectedFighter(fighter);         
-    setActive(false);  
+    setInputActive(false);  
     onSelect?.(fighter);          
   }
 
   console.log('Selected weightclass:', { weightClassLabel }); // DEBUG
 
   return (
-    <View style={[styles.wrap, style, active && styles.wrapActive]}>
+    <View style={[styles.wrap, style, inputActive && styles.wrapActive]}>
       <TextInput
         ref={inputRef}
         style={styles.input}
-        value={query}
-        onChangeText={handleChange}            
+        value={fighterQuery}
+        onChangeText={handleResultsChange}            
         placeholder={placeholder}  // 'Search fighter…'
         autoCorrect={false}
         autoCapitalize="words"
-        onFocus={() => setActive(!!query.trim())}               
-        onBlur={() => !showResults && setActive(false)}        
+        onFocus={() => setInputActive(!!fighterQuery.trim())}               
+        onBlur={() => !showResults && setInputActive(false)}        
         testID="fighter-search-input"
       />
 
@@ -77,7 +76,7 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
           keyboardShouldPersistTaps="handled"  // what to do with keyboard after interaction
           renderItem={({ item }) => (
             <Pressable
-              onPress={() => handlePick(item)} 
+              onPress={() => chooseFighter(item)} 
               style={styles.row}
               testID={`suggestion-${item.name}`}    
               >
@@ -91,9 +90,9 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
         <View style={styles.card}>
           <Image
             source={{ uri: selectedFighter.profile_url || PLACEHOLDER }} 
-            style={styles.photo}
-            resizeMode="contain"
-            fadeDuration={0}   // Android-only ): disable cross-fade
+            style={styles.photo} 
+            resizeMode="contain" //contain so it doesn't get cropped
+            fadeDuration={0}   // disable cross-fade (android only) I personally think it looks cleaner rather than default fade
             onError={() => setSelectedFighter(s => s ? { ...s, profile_url: PLACEHOLDER } : s)} 
             />                                                                             
           <Text style={styles.selectedName}>{selectedFighter.name}</Text>
