@@ -1,0 +1,34 @@
+{
+  "name": "Hernani Perpetuo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/4b9a3e82-9c52-401b-83b1-3953b77722ee%252FHernani-Perpetuo_461793_LeftFullBodyImage.png?itok=PZVDHQmn",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "17",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "35",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "38",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.73",
+    "SApM": "4.37",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.50",
+    "Str.Def": "55",
+    "TDDef": "38",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "29",
+    "TD Acc.": "0"
+  }
+}

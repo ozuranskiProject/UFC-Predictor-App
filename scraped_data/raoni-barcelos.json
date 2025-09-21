@@ -1,0 +1,34 @@
+{
+  "name": "Raoni Barcelos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/BARCELOS_RAONI_L_01-18.png?itok=GDP_7NlN",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "20",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "45",
+    "SUB": "15"
+  },
+  "bio": {
+    "age": "38",
+    "height": "67.50",
+    "reach": "67.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "4.87",
+    "SApM": "4.40",
+    "TDAvg": "2.33",
+    "Sub.Avg": "0.63",
+    "Str.Def": "61",
+    "TDDef": "86",
+    "KDAvg": "0.45",
+    "Avg Fight Time": "12:52",
+    "Str. Acc.": "53",
+    "TD Acc.": "33"
+  }
+}

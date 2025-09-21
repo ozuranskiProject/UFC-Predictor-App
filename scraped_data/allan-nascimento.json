@@ -1,0 +1,34 @@
+{
+  "name": "Allan Nascimento",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-01/NASCIMENTO_ALLAN_L_01-14.png?itok=s1_JaxUE",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "21",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "10",
+    "DEC": "24",
+    "SUB": "67"
+  },
+  "bio": {
+    "age": "33",
+    "height": "68.50",
+    "reach": "69.50",
+    "leg_reach": "37.50",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.64",
+    "SApM": "1.96",
+    "TDAvg": "1.42",
+    "Sub.Avg": "0.95",
+    "Str.Def": "51",
+    "TDDef": "31",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:39",
+    "Str. Acc.": "60",
+    "TD Acc.": "24"
+  }
+}

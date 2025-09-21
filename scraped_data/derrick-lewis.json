@@ -1,0 +1,34 @@
+{
+  "name": "Derrick Lewis",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/LEWIS_DERRICK_L_07-12.png?itok=oWBld4Zo",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "29",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "83",
+    "DEC": "14",
+    "SUB": "3"
+  },
+  "bio": {
+    "age": "40",
+    "height": "75.00",
+    "reach": "79.00",
+    "leg_reach": "43.50",
+    "fighting_style": "Brawler"
+  },
+  "fight_stats": {
+    "SLpM": "2.51",
+    "SApM": "2.49",
+    "TDAvg": "0.56",
+    "Sub.Avg": "0.00",
+    "Str.Def": "41",
+    "TDDef": "53",
+    "KDAvg": "0.62",
+    "Avg Fight Time": "08:52",
+    "Str. Acc.": "51",
+    "TD Acc.": "26"
+  }
+}

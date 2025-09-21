@@ -1,0 +1,34 @@
+{
+  "name": "Masanori Kanehara",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/59713bb3-34b3-47c6-a6bd-afdc0ae665c2%252FMasanori-Kanehara_496301_LeftFullBodyImage.png?itok=7U4qEHYP",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "25",
+    "losses": "13",
+    "draws": "5"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "29",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "40",
+    "height": "67.00",
+    "reach": "67.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.88",
+    "SApM": "1.63",
+    "TDAvg": "1.44",
+    "Sub.Avg": "0.86",
+    "Str.Def": "63",
+    "TDDef": "64",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "13:02",
+    "Str. Acc.": "50",
+    "TD Acc.": "50"
+  }
+}

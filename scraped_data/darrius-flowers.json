@@ -1,0 +1,34 @@
+{
+  "name": "Darrius Flowers",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/FLOWERS_DARRIUS_L_07-29.png?itok=ZJvGdUMM",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "12",
+    "losses": "8",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "25",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "29",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.07",
+    "SApM": "5.49",
+    "TDAvg": "0.98",
+    "Sub.Avg": "0.00",
+    "Str.Def": "44",
+    "TDDef": "64",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:39",
+    "Str. Acc.": "50",
+    "TD Acc.": "29"
+  }
+}

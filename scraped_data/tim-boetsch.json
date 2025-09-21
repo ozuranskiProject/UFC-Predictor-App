@@ -1,0 +1,34 @@
+{
+  "name": "Tim Boetsch",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Tim_Boetsch/BOETSCH_TIM_L.png?VersionId=SqHnE1bMaD0Zp26o1WhqWIWmbYwSCRYX&itok=RmL0l8kb",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "21",
+    "losses": "13",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "62",
+    "DEC": "24",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "42",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.93",
+    "SApM": "2.90",
+    "TDAvg": "1.45",
+    "Sub.Avg": "0.76",
+    "Str.Def": "57",
+    "TDDef": "59",
+    "KDAvg": "0.48",
+    "Avg Fight Time": "09:02",
+    "Str. Acc.": "51",
+    "TD Acc.": "34"
+  }
+}

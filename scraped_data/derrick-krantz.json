@@ -1,0 +1,34 @@
+{
+  "name": "Derrick Krantz",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/71536/profile-galery/fullbodyleft-picture/KRANTZ_DERRICK_L.png?VersionId=pMyWhMzSS.KBk39HLlPz3Dk6Fy5rl5x9&itok=pA9gxJb6",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "24",
+    "losses": "12",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "42",
+    "DEC": "13",
+    "SUB": "46"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.07",
+    "SApM": "4.03",
+    "TDAvg": "3.18",
+    "Sub.Avg": "0.80",
+    "Str.Def": "50",
+    "TDDef": "0.00",
+    "KDAvg": "09:26",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "38",
+    "TD Acc.": "50"
+  }
+}

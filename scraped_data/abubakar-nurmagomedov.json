@@ -1,0 +1,34 @@
+{
+  "name": "Abubakar Nurmagomedov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-10/NURMAGOMEDOV_ABUBAKAR_L_10-22.png?itok=jykY5iPv",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "17",
+    "losses": "4",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "35",
+    "DEC": "41",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "33",
+    "height": "71.00",
+    "reach": "72.00",
+    "leg_reach": "39.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.78",
+    "SApM": "2.61",
+    "TDAvg": "1.25",
+    "Sub.Avg": "0.00",
+    "Str.Def": "65",
+    "TDDef": "89",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:58",
+    "Str. Acc.": "53",
+    "TD Acc.": "22"
+  }
+}

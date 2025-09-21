@@ -1,0 +1,34 @@
+{
+  "name": "Rocky Lee",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Rocky_Lee/Rocky-Lee-2015-04-08-UFN-Krakow-0021.png?VersionId=D6N3naNlrJiLvmUQXfxzliQ3RPN8eJcX&itok=5Jwj1le8",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "3",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "33",
+    "SUB": "67"
+  },
+  "bio": {
+    "age": "36",
+    "height": "69.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.47",
+    "SApM": "5.33",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "44",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "51",
+    "TD Acc.": "10"
+  }
+}

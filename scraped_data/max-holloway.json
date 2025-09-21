@@ -1,0 +1,34 @@
+{
+  "name": "Max Holloway",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/HOLLOWAY_MAX_L_BMF_BELT_07-19.png?itok=I45AqO8k",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "27",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "48",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "33",
+    "height": "71.00",
+    "reach": "69.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "7.20",
+    "SApM": "4.74",
+    "TDAvg": "0.24",
+    "Sub.Avg": "0.30",
+    "Str.Def": "59",
+    "TDDef": "83",
+    "KDAvg": "0.35",
+    "Avg Fight Time": "16:23",
+    "Str. Acc.": "48",
+    "TD Acc.": "53"
+  }
+}

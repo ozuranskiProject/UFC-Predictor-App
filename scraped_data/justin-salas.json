@@ -1,0 +1,34 @@
+{
+  "name": "Justin Salas",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/99ff8679-1f64-40a2-9829-045f4b4e4621%252FJustin-Salas_235794_LeftFullBodyImage.png?itok=TTmgsWwR",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "12",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "42",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "41",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.42",
+    "SApM": "2.96",
+    "TDAvg": "2.43",
+    "Sub.Avg": "0.00",
+    "Str.Def": "69",
+    "TDDef": "0.30",
+    "KDAvg": "07:03",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "43",
+    "TD Acc.": "21"
+  }
+}

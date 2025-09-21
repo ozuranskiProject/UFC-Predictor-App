@@ -1,0 +1,34 @@
+{
+  "name": "Cain Carrizosa",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/d846f421-423c-49fe-a047-af3bc036898f%252Fcain-carrizosa_498025_LeftFullBodyImage.png?itok=Tb42eyCP",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "6",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "33",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "68.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.72",
+    "SApM": "5.80",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "51",
+    "TDDef": "14",
+    "KDAvg": "0.93",
+    "Avg Fight Time": "08:06",
+    "Str. Acc.": "42",
+    "TD Acc.": "0"
+  }
+}

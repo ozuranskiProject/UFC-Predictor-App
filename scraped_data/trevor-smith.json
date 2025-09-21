@@ -1,0 +1,34 @@
+{
+  "name": "Trevor Smith",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-03/SMITH_TREVOR_L.png?VersionId=s97V3U1RMJghDUTkBnM2.zbT3JMLhmkP&itok=GFO506k4",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "15",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "7",
+    "DEC": "33",
+    "SUB": "60"
+  },
+  "bio": {
+    "age": "42",
+    "height": "75.00",
+    "reach": "75.00",
+    "leg_reach": "41.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.29",
+    "SApM": "3.31",
+    "TDAvg": "1.70",
+    "Sub.Avg": "0.72",
+    "Str.Def": "51",
+    "TDDef": "61",
+    "KDAvg": "0.18",
+    "Avg Fight Time": "10:59",
+    "Str. Acc.": "56",
+    "TD Acc.": "32"
+  }
+}

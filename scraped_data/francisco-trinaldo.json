@@ -1,0 +1,34 @@
+{
+  "name": "Francisco Trinaldo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/67967%252Fprofile-galery%252Ffullbodyleft-picture%252FTRINALDO_FRANCISCO_L_06-05.png?itok=90-2wn6B",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "28",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "50",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "44",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "40.50",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.13",
+    "SApM": "2.67",
+    "TDAvg": "0.98",
+    "Sub.Avg": "0.51",
+    "Str.Def": "61",
+    "TDDef": "60",
+    "KDAvg": "0.23",
+    "Avg Fight Time": "12:23",
+    "Str. Acc.": "45",
+    "TD Acc.": "42"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sedriques Dumas",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-03/DUMAS_SEDRIQUES_L_03-11.png?itok=R4kBaL5J",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "10",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "40",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "30",
+    "height": "74.00",
+    "reach": "79.00",
+    "leg_reach": "42.50",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "2.10",
+    "SApM": "2.50",
+    "TDAvg": "1.25",
+    "Sub.Avg": "0.25",
+    "Str.Def": "56",
+    "TDDef": "40",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "08:33",
+    "Str. Acc.": "45",
+    "TD Acc.": "36"
+  }
+}

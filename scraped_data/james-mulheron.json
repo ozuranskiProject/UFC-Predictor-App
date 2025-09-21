@@ -1,0 +1,34 @@
+{
+  "name": "James Mulheron",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/afb2c5a2-d7af-4446-b9d9-20a56160a70d%252FJames-Mulheron_630115_LeftFullBodyImage.png?itok=QJPHL7H4",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "45",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "35",
+    "height": "70.00",
+    "reach": "73.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.40",
+    "SApM": "3.47",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "43",
+    "TDDef": "25",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "32",
+    "TD Acc.": "N/A"
+  }
+}

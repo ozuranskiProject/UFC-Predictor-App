@@ -1,0 +1,34 @@
+{
+  "name": "Raphael Assun\u00e7\u00e3o",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-03/ASSUNCAO_RAPHAEL_L_03-11.png?itok=hy9VaUqH",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "28",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "48",
+    "SUB": "37"
+  },
+  "bio": {
+    "age": "40",
+    "height": "65.50",
+    "reach": "66.50",
+    "leg_reach": "38.50",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.22",
+    "SApM": "2.50",
+    "TDAvg": "1.65",
+    "Sub.Avg": "0.25",
+    "Str.Def": "67",
+    "TDDef": "78",
+    "KDAvg": "0.15",
+    "Avg Fight Time": "12:32",
+    "Str. Acc.": "43",
+    "TD Acc.": "39"
+  }
+}

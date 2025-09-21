@@ -1,0 +1,34 @@
+{
+  "name": "Marcin Wrzosek",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/43a43a3e-ef52-4689-9a57-017e00313088%252FMarcin-Wrzosek_572775_RightFullBodyImage.png?itok=_iluR8xg",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "30",
+    "SUB": "30"
+  },
+  "bio": {
+    "age": "35",
+    "height": "69.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.47",
+    "SApM": "4.07",
+    "TDAvg": "3.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "44",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "44",
+    "TD Acc.": "25"
+  }
+}

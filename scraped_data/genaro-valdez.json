@@ -1,0 +1,34 @@
+{
+  "name": "Genaro Valdez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-01/91879bcb-d2a3-4e1a-af3b-cc87e3b0a0ae%252FVALDEZ_GENARO_L_01-22.png?itok=I6-ztbOh",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "10",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "70",
+    "DEC": "0",
+    "SUB": "30"
+  },
+  "bio": {
+    "age": "32",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "40.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.08",
+    "SApM": "7.16",
+    "TDAvg": "1.54",
+    "Sub.Avg": "0.38",
+    "Str.Def": "49",
+    "TDDef": "36",
+    "KDAvg": "0.77",
+    "Avg Fight Time": "09:45",
+    "Str. Acc.": "30",
+    "TD Acc.": "44"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ailin Perez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/13/PEREZ_AILIN_L_09-28.png?itok=k9woX8ay",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "50",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "30",
+    "height": "65.00",
+    "reach": "66.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Kung Fu"
+  },
+  "fight_stats": {
+    "SLpM": "3.10",
+    "SApM": "1.79",
+    "TDAvg": "4.68",
+    "Sub.Avg": "0.20",
+    "Str.Def": "56",
+    "TDDef": "67",
+    "KDAvg": "0.20",
+    "Avg Fight Time": "12:18",
+    "Str. Acc.": "55",
+    "TD Acc.": "47"
+  }
+}

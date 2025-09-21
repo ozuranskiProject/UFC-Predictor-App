@@ -1,0 +1,34 @@
+{
+  "name": "Rodolfo Bellato",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/BELLATO_RODOLFO_L.png?itok=LLr--jx4",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "12",
+    "losses": "2",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "58",
+    "DEC": "8",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "29",
+    "height": "75.00",
+    "reach": "77.50",
+    "leg_reach": "44.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "5.84",
+    "SApM": "6.00",
+    "TDAvg": "1.26",
+    "Sub.Avg": "0.31",
+    "Str.Def": "46",
+    "TDDef": "100",
+    "KDAvg": "0.31",
+    "Avg Fight Time": "09:32",
+    "Str. Acc.": "62",
+    "TD Acc.": "36"
+  }
+}

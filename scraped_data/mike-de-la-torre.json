@@ -1,0 +1,34 @@
+{
+  "name": "Mike De La Torre",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/e654ac39-a3d4-4bcb-b05f-084d9eab7912%252FMike-de-la-Torre_480465_LeftFullBodyImage.png?itok=PcxgS0Cp",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "14",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "14",
+    "SUB": "36"
+  },
+  "bio": {
+    "age": "36",
+    "height": "71.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.21",
+    "SApM": "4.75",
+    "TDAvg": "0.36",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "83",
+    "KDAvg": "0.36",
+    "Avg Fight Time": "05:55",
+    "Str. Acc.": "39",
+    "TD Acc.": "17"
+  }
+}

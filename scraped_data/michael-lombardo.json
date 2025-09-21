@@ -1,0 +1,34 @@
+{
+  "name": "Michael Lombardo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c1e90027-f737-43c2-88ea-5253f84041ec%252FLOMBARDO_MICHAEL_L.png?itok=Jsd-Q9k4",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "33",
+    "height": "72.00",
+    "reach": "72.00",
+    "leg_reach": "N/A",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "1.47",
+    "SApM": "2.63",
+    "TDAvg": "2.50",
+    "Sub.Avg": "0.00",
+    "Str.Def": "32",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "63",
+    "TD Acc.": "22"
+  }
+}

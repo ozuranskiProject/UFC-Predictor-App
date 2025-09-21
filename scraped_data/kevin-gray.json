@@ -1,0 +1,34 @@
+{
+  "name": "Kevin Gray",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/f3f35ce8-e871-453f-a396-3b48c12bab10%252FKevin-Gray_635823_LeftFullBodyImage.png?itok=7duuSABC",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "9",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "44",
+    "SUB": "56"
+  },
+  "bio": {
+    "age": "38",
+    "height": "64.00",
+    "reach": "67.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.45",
+    "SApM": "4.48",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "67",
+    "TDDef": "0.00",
+    "KDAvg": "02:54",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "63",
+    "TD Acc.": "0"
+  }
+}

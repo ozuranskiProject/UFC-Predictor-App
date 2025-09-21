@@ -1,0 +1,34 @@
+{
+  "name": "Piera Rodriguez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/RODRIGUEZ_PIERA_L_08-02.png?itok=EKZy3adZ",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "45",
+    "DEC": "55",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "32",
+    "height": "63.00",
+    "reach": "63.50",
+    "leg_reach": "36.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.54",
+    "SApM": "2.81",
+    "TDAvg": "4.53",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "73",
+    "KDAvg": "0.16",
+    "Avg Fight Time": "13:14",
+    "Str. Acc.": "47",
+    "TD Acc.": "55"
+  }
+}

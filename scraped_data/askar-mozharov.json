@@ -1,0 +1,34 @@
+{
+  "name": "Askar Mozharov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-06/ffae1624-c7ea-453d-a82b-1961ec583a6b%252FMOZHAROV_ASKAR_L_06-04.png?itok=jUHNAvpC",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "0",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "58",
+    "DEC": "11",
+    "SUB": "32"
+  },
+  "bio": {
+    "age": "28",
+    "height": "75.00",
+    "reach": "74.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "0.43",
+    "SApM": "4.07",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "14",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "04:40",
+    "Str. Acc.": "18",
+    "TD Acc.": "N/A"
+  }
+}

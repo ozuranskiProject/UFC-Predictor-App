@@ -1,0 +1,34 @@
+{
+  "name": "Marcus Brimage",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/27593adb-5191-4bdd-b116-fdac82dadb45%252FMarcus-Brimage_231414_LeftFullBodyImage.png?itok=LOo6kTIR",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "57",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "38",
+    "height": "64.00",
+    "reach": "71.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.97",
+    "SApM": "3.64",
+    "TDAvg": "0.56",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "80",
+    "KDAvg": "0.37",
+    "Avg Fight Time": "10:03",
+    "Str. Acc.": "36",
+    "TD Acc.": "100"
+  }
+}

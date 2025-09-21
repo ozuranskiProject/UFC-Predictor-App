@@ -1,0 +1,34 @@
+{
+  "name": "Cynthia Calvillo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-04/CALVILLO_CYNTHIA_L_04-08.png?itok=_mhp4Q47",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "9",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "44",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "36",
+    "height": "64.00",
+    "reach": "64.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "4.41",
+    "SApM": "4.12",
+    "TDAvg": "1.80",
+    "Sub.Avg": "0.81",
+    "Str.Def": "64",
+    "TDDef": "78",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:50",
+    "Str. Acc.": "38",
+    "TD Acc.": "44"
+  }
+}

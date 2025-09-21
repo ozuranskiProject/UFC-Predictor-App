@@ -1,0 +1,34 @@
+{
+  "name": "Ji Yeon Kim",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-05/KIM_JI_YEON_L_05-13.png?itok=FSY2sRa8",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "9",
+    "losses": "7",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "44",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "33",
+    "height": "67.00",
+    "reach": "72.00",
+    "leg_reach": "37.50",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "5.37",
+    "SApM": "5.41",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.11",
+    "Str.Def": "56",
+    "TDDef": "50",
+    "KDAvg": "0.11",
+    "Avg Fight Time": "14:11",
+    "Str. Acc.": "37",
+    "TD Acc.": "0"
+  }
+}

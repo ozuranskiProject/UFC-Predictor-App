@@ -1,0 +1,34 @@
+{
+  "name": "Istela Nunes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-10/68133%252Fprofile-galery%252Ffullbodyleft-picture%252FNUNES_ISTELA_L_10-16.png?itok=r_OJJ3uW",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "6",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "67",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "32",
+    "height": "64.00",
+    "reach": "66.00",
+    "leg_reach": "37.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.28",
+    "SApM": "4.07",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "60",
+    "TDDef": "48",
+    "KDAvg": "0.29",
+    "Avg Fight Time": "10:31",
+    "Str. Acc.": "47",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "David Loiseau",
+  "profile_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "18",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "43",
+    "height": "72.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.59",
+    "SApM": "3.64",
+    "TDAvg": "0.43",
+    "Sub.Avg": "0.14",
+    "Str.Def": "43",
+    "TDDef": "36",
+    "KDAvg": "0.57",
+    "Avg Fight Time": "11:36",
+    "Str. Acc.": "45",
+    "TD Acc.": "43"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Daniel Marcos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/MARCOS_DANIEL_L_02-10.png?itok=nPzZJCZ4",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "17",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "47",
+    "DEC": "53",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "32",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.11",
+    "SApM": "3.88",
+    "TDAvg": "0.99",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "85",
+    "KDAvg": "0.50",
+    "Avg Fight Time": "12:58",
+    "Str. Acc.": "54",
+    "TD Acc.": "46"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Bogdan Guskov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/7/GUSKOV_BOGDAN_L_01-18.png?itok=Zm5tXcQL",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "18",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "83",
+    "DEC": "0",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "32",
+    "height": "75.00",
+    "reach": "76.00",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.87",
+    "SApM": "3.40",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "50",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "51",
+    "TD Acc.": "N/A"
+  }
+}

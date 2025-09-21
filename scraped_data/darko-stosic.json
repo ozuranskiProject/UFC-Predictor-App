@@ -1,0 +1,34 @@
+{
+  "name": "Darko Stosic",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67748/profile-galery/fullbodyleft-picture/STOSIC_DARKO_L.png?VersionId=SA.397ahhuO2O5CYE.ZIgs71N852Zfrg&itok=PD6JZ3l8",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "13",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "62",
+    "DEC": "31",
+    "SUB": "8"
+  },
+  "bio": {
+    "age": "31",
+    "height": "72.00",
+    "reach": "76.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "2.61",
+    "SApM": "4.04",
+    "TDAvg": "3.42",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "83",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:03",
+    "Str. Acc.": "45",
+    "TD Acc.": "50"
+  }
+}

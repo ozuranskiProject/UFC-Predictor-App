@@ -1,0 +1,34 @@
+{
+  "name": "Aleksandre Topuria",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/TOPURIA_ALEKSANDRE_R_02-08.png?itok=XKH3G5XT",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "6",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "0",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "29",
+    "height": "67.00",
+    "reach": "68.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "2.73",
+    "SApM": "2.53",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "70",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "52",
+    "TD Acc.": "50"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Edgar Chairez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/CHAIREZ_EDGAR_L_03-29.png?itok=3DM98Yh7",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "12",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "0",
+    "SUB": "67"
+  },
+  "bio": {
+    "age": "29",
+    "height": "67.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.44",
+    "SApM": "5.08",
+    "TDAvg": "0.00",
+    "Sub.Avg": "1.68",
+    "Str.Def": "43",
+    "TDDef": "33",
+    "KDAvg": "0.28",
+    "Avg Fight Time": "08:56",
+    "Str. Acc.": "44",
+    "TD Acc.": "0"
+  }
+}

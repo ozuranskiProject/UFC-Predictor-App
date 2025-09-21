@@ -1,0 +1,34 @@
+{
+  "name": "Mario Sousa",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-09/71610%252Fprofile-galery%252Ffullbodyleft-picture%252FSOUZA_MARIO_L.png?itok=Iq_Dpm4r",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "1",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "26",
+    "height": "75.00",
+    "reach": "79.50",
+    "leg_reach": "45.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.82",
+    "SApM": "2.99",
+    "TDAvg": "0.52",
+    "Sub.Avg": "0.52",
+    "Str.Def": "28",
+    "TDDef": "38",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:35",
+    "Str. Acc.": "51",
+    "TD Acc.": "25"
+  }
+}

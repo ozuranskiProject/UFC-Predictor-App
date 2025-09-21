@@ -1,0 +1,34 @@
+{
+  "name": "Ernest Chavez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/9521fc57-6890-406f-9f5f-bf4494d8aa6c%252FErnest-Chavez_472414_LeftFullBodyImage.png?itok=Z2fEWrlz",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.79",
+    "SApM": "3.89",
+    "TDAvg": "0.89",
+    "Sub.Avg": "0.00",
+    "Str.Def": "59",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:14",
+    "Str. Acc.": "41",
+    "TD Acc.": "33"
+  }
+}

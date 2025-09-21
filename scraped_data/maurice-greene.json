@@ -1,0 +1,34 @@
+{
+  "name": "Maurice Greene",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-05/68775%252Fprofile-galery%252Ffullbodyleft-picture%252FGREENE_MAURICE_L_05-08.png?itok=pDvLd6-O",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "9",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "22",
+    "SUB": "56"
+  },
+  "bio": {
+    "age": "36",
+    "height": "79.00",
+    "reach": "82.00",
+    "leg_reach": "46.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.28",
+    "SApM": "3.61",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.44",
+    "Str.Def": "46",
+    "TDDef": "27",
+    "KDAvg": "0.44",
+    "Avg Fight Time": "08:27",
+    "Str. Acc.": "45",
+    "TD Acc.": "N/A"
+  }
+}

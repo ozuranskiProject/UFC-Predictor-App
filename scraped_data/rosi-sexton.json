@@ -1,0 +1,34 @@
+{
+  "name": "Rosi Sexton",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/373ea1bc-a015-412a-99ba-61811ec975b9%252FRosi-Sexton_309888_LeftFullBodyImage.png?itok=ViZuHOQ5",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "13",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "31",
+    "SUB": "54"
+  },
+  "bio": {
+    "age": "46",
+    "height": "63.00",
+    "reach": "63.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.31",
+    "SApM": "7.42",
+    "TDAvg": "0.75",
+    "Sub.Avg": "0.00",
+    "Str.Def": "41",
+    "TDDef": "80",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:18",
+    "Str. Acc.": "40",
+    "TD Acc.": "10"
+  }
+}

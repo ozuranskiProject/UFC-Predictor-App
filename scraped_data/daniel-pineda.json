@@ -1,0 +1,34 @@
+{
+  "name": "Daniel Pineda",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/16/PINEDA_DANIEL_L_07-27.png?itok=dqEDaJ8y",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "28",
+    "losses": "17",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "0",
+    "SUB": "68"
+  },
+  "bio": {
+    "age": "39",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "2.85",
+    "SApM": "3.26",
+    "TDAvg": "1.42",
+    "Sub.Avg": "1.54",
+    "Str.Def": "46",
+    "TDDef": "55",
+    "KDAvg": "0.24",
+    "Avg Fight Time": "09:26",
+    "Str. Acc.": "50",
+    "TD Acc.": "24"
+  }
+}

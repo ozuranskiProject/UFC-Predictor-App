@@ -1,0 +1,34 @@
+{
+  "name": "Pete Rodriguez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-06/RODRIGUEZ_PETE_L_05-13.png?itok=fCXFPerR",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "5",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "100",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "27",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "9.28",
+    "SApM": "12.83",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "43",
+    "TDDef": "100",
+    "KDAvg": "2.96",
+    "Avg Fight Time": "01:41",
+    "Str. Acc.": "44",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Valmir Lazaro",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/50312f75-5cd6-4de6-bac0-c497fa30587e%252FValmir-Lazaro_488753_LeftFullBodyImage.png?itok=iSM2VbM3",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "69",
+    "DEC": "31",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "37",
+    "height": "72.00",
+    "reach": "73.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.87",
+    "SApM": "4.09",
+    "TDAvg": "1.33",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "96",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "37",
+    "TD Acc.": "40"
+  }
+}

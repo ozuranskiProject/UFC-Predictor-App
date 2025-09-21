@@ -1,0 +1,34 @@
+{
+  "name": "Gilbert Melendez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68021/profile-galery/fullbodyleft-picture/MELENDEZ_GILBERT_L.png?VersionId=RDOk7r.nff0LipzUnFqoeUESOLD55eql&itok=ONslffrZ",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "22",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "45",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "41",
+    "height": "69.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.44",
+    "SApM": "2.53",
+    "TDAvg": "1.64",
+    "Sub.Avg": "0.20",
+    "Str.Def": "63",
+    "TDDef": "72",
+    "KDAvg": "0.24",
+    "Avg Fight Time": "15:14",
+    "Str. Acc.": "33",
+    "TD Acc.": "41"
+  }
+}

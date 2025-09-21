@@ -1,0 +1,34 @@
+{
+  "name": "Marcus Buchecha",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/BUCHECHA_MARCUS_R_07-26.png?itok=RGE1BOZ7",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "5",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "20",
+    "DEC": "0",
+    "SUB": "80"
+  },
+  "bio": {
+    "age": "35",
+    "height": "74.00",
+    "reach": "77.50",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.60",
+    "SApM": "2.73",
+    "TDAvg": "1.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "40",
+    "TD Acc.": "9"
+  }
+}

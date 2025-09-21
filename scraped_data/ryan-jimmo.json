@@ -1,0 +1,34 @@
+{
+  "name": "Ryan Jimmo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/aaea6e18-9295-4776-af9d-6f85431bf543%252FRyan-Jimmo_232924_LeftFullBodyImage.png?itok=yZmjQsV_",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "19",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "42",
+    "DEC": "47",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "41",
+    "height": "74.00",
+    "reach": "73.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.12",
+    "SApM": "2.77",
+    "TDAvg": "0.45",
+    "Sub.Avg": "0.00",
+    "Str.Def": "47",
+    "TDDef": "88",
+    "KDAvg": "0.90",
+    "Avg Fight Time": "09:29",
+    "Str. Acc.": "66",
+    "TD Acc.": "29"
+  }
+}

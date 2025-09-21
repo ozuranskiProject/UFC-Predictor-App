@@ -1,0 +1,34 @@
+{
+  "name": "Jason Knight",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68201/profile-galery/fullbodyleft-picture/jason-knight_572133_LeftFullBodyImage.png?itok=6Eoj5MYI",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "20",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "20",
+    "SUB": "65"
+  },
+  "bio": {
+    "age": "30",
+    "height": "70.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.95",
+    "SApM": "3.02",
+    "TDAvg": "1.31",
+    "Sub.Avg": "1.70",
+    "Str.Def": "52",
+    "TDDef": "47",
+    "KDAvg": "0.39",
+    "Avg Fight Time": "12:44",
+    "Str. Acc.": "34",
+    "TD Acc.": "31"
+  }
+}

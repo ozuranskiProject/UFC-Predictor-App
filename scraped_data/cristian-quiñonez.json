@@ -1,0 +1,34 @@
+{
+  "name": "Cristian Qui\u00f1onez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/QUINONEZ_CRISTIAN_L_02-24.png?itok=1wXCcEG4",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "18",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "56",
+    "DEC": "28",
+    "SUB": "17"
+  },
+  "bio": {
+    "age": "27",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "4.19",
+    "SApM": "4.55",
+    "TDAvg": "1.37",
+    "Sub.Avg": "0.00",
+    "Str.Def": "55",
+    "TDDef": "84",
+    "KDAvg": "0.46",
+    "Avg Fight Time": "08:11",
+    "Str. Acc.": "40",
+    "TD Acc.": "38"
+  }
+}

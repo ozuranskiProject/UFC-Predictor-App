@@ -1,0 +1,34 @@
+{
+  "name": "Jim Alers",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/edc96865-801b-4923-9ff3-b60d558a4ff9%252FJim-Alers_474973_LeftFullBodyImage.png?itok=RCXJzhqS",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "13",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "15",
+    "SUB": "69"
+  },
+  "bio": {
+    "age": "36",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.90",
+    "SApM": "4.38",
+    "TDAvg": "2.26",
+    "Sub.Avg": "0.32",
+    "Str.Def": "57",
+    "TDDef": "80",
+    "KDAvg": "0.32",
+    "Avg Fight Time": "11:38",
+    "Str. Acc.": "40",
+    "TD Acc.": "41"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Robert Ruchala",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/RUCHALA_ROBERT_R_09-06.png?itok=qNdv4ZbA",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "45",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "27",
+    "height": "70.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.27",
+    "SApM": "3.27",
+    "TDAvg": "2.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "57",
+    "TDDef": "0.00",
+    "KDAvg": "15:00",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "35",
+    "TD Acc.": "33"
+  }
+}

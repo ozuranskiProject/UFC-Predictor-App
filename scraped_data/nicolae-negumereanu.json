@@ -1,0 +1,34 @@
+{
+  "name": "Nicolae Negumereanu",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/71457%252Fprofile-galery%252Ffullbodyleft-picture%252FNEGUMEREANU_NICOLAE_L_06-19.png?itok=Z9F-gKbn",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "13",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "62",
+    "DEC": "15",
+    "SUB": "23"
+  },
+  "bio": {
+    "age": "28",
+    "height": "72.50",
+    "reach": "78.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "3.58",
+    "SApM": "5.56",
+    "TDAvg": "1.02",
+    "Sub.Avg": "0.00",
+    "Str.Def": "39",
+    "TDDef": "63",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:46",
+    "Str. Acc.": "41",
+    "TD Acc.": "29"
+  }
+}

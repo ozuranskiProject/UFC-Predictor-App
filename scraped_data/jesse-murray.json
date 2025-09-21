@@ -1,0 +1,34 @@
+{
+  "name": "Jesse Murray",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-10/71852%252Fprofile-galery%252Ffullbodyright-picture%252FMURRAY_JESSE_R.png?itok=6dlDE0jp",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "0",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "0",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "30",
+    "height": "75.00",
+    "reach": "78.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.38",
+    "SApM": "7.72",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "43",
+    "TDDef": "0.00",
+    "KDAvg": "01:41",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "29",
+    "TD Acc.": "N/A"
+  }
+}

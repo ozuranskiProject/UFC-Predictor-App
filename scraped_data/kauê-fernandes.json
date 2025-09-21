@@ -1,0 +1,34 @@
+{
+  "name": "Kau\u00ea Fernandes",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-11/FERNANDES_KAUE_L_11-04.png?itok=3jWK_yu-",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "11",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "27",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "30",
+    "height": "69.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "0.41",
+    "SApM": "5.70",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "29",
+    "TDDef": "0.00",
+    "KDAvg": "04:50",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "50",
+    "TD Acc.": "N/A"
+  }
+}

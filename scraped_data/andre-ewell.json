@@ -1,0 +1,34 @@
+{
+  "name": "Andre Ewell",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-07/EWELL_ANDRE_L_07-24.png?itok=_avP-2ZZ",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "17",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "41",
+    "DEC": "35",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "35",
+    "height": "71.00",
+    "reach": "76.00",
+    "leg_reach": "40.50",
+    "fighting_style": "Boxer"
+  },
+  "fight_stats": {
+    "SLpM": "4.28",
+    "SApM": "4.87",
+    "TDAvg": "0.36",
+    "Sub.Avg": "0.12",
+    "Str.Def": "51",
+    "TDDef": "73",
+    "KDAvg": "0.12",
+    "Avg Fight Time": "14:02",
+    "Str. Acc.": "40",
+    "TD Acc.": "75"
+  }
+}

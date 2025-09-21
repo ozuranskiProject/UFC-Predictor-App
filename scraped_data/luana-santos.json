@@ -1,0 +1,34 @@
+{
+  "name": "Luana Santos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/SANTOS_LUANA_L_05-17.png?itok=FscUv1s_",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "9",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "33",
+    "SUB": "56"
+  },
+  "bio": {
+    "age": "25",
+    "height": "66.00",
+    "reach": "67.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Judo"
+  },
+  "fight_stats": {
+    "SLpM": "3.69",
+    "SApM": "3.40",
+    "TDAvg": "1.91",
+    "Sub.Avg": "1.27",
+    "Str.Def": "63",
+    "TDDef": "83",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:25",
+    "Str. Acc.": "53",
+    "TD Acc.": "50"
+  }
+}

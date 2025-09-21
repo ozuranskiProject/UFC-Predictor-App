@@ -1,0 +1,34 @@
+{
+  "name": "Chris Avila",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/85cf3205-7d97-441c-a2b5-3175415b27ef%252Fchris-avila_597692_LeftFullBodyImage.png?itok=M-pMhx5r",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "5",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "20",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "30",
+    "height": "70.00",
+    "reach": "72.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.37",
+    "SApM": "4.17",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "49",
+    "TDDef": "46",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "30",
+    "TD Acc.": "0"
+  }
+}

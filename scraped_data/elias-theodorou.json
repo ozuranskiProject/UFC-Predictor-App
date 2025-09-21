@@ -1,0 +1,34 @@
+{
+  "name": "Elias Theodorou",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Elias_Theodorou/THEODOROU_ELIAS_L.png?VersionId=8kiLJLbfHV5lv7VQQWh5KcmhZe0zxkjA&itok=7_xZI7E7",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "17",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "35",
+    "DEC": "59",
+    "SUB": "6"
+  },
+  "bio": {
+    "age": "35",
+    "height": "73.00",
+    "reach": "75.50",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.19",
+    "SApM": "2.39",
+    "TDAvg": "1.27",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "59",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "13:59",
+    "Str. Acc.": "42",
+    "TD Acc.": "28"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Lukasz Sajewski",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/579de56c-e7f7-40a4-94ae-ccf9d2580d03%252FLukasz-Sajewski_494188_LeftFullBodyImage.png?itok=QRXhLB_L",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "23",
+    "DEC": "31",
+    "SUB": "46"
+  },
+  "bio": {
+    "age": "32",
+    "height": "68.00",
+    "reach": "71.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.06",
+    "SApM": "3.88",
+    "TDAvg": "1.01",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "67",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:52",
+    "Str. Acc.": "36",
+    "TD Acc.": "25"
+  }
+}

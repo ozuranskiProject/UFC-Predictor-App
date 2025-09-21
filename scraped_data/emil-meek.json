@@ -1,0 +1,34 @@
+{
+  "name": "Emil Meek",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/MEEK_EMIL_L.png?VersionId=YY773_WLDo9EJ29S5yjXw5HWK2HoZ7X.&itok=hqAU20nj",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "9",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "78",
+    "DEC": "11",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "34",
+    "height": "71.00",
+    "reach": "74.50",
+    "leg_reach": "40.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.52",
+    "SApM": "2.53",
+    "TDAvg": "0.25",
+    "Sub.Avg": "1.00",
+    "Str.Def": "39",
+    "TDDef": "48",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "39",
+    "TD Acc.": "33"
+  }
+}

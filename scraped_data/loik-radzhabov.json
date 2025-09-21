@@ -1,0 +1,34 @@
+{
+  "name": "Loik Radzhabov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-07/RADZHABOV_LOIK_L_07-20.png?itok=4Vj1RuTK",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "18",
+    "losses": "6",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "28",
+    "SUB": "28"
+  },
+  "bio": {
+    "age": "33",
+    "height": "71.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "2.89",
+    "SApM": "3.76",
+    "TDAvg": "4.65",
+    "Sub.Avg": "0.00",
+    "Str.Def": "46",
+    "TDDef": "43",
+    "KDAvg": "0.31",
+    "Avg Fight Time": "12:06",
+    "Str. Acc.": "44",
+    "TD Acc.": "58"
+  }
+}

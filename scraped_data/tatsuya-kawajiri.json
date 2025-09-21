@@ -1,0 +1,34 @@
+{
+  "name": "Tatsuya Kawajiri",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/c757f8d6-8b3c-4de7-91cb-46b0ddaf5028%252FTatsuya-Kawajiri_459619_LeftFullBodyImage.png?itok=QBvXnSzT",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "35",
+    "losses": "10",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "34",
+    "DEC": "37",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "45",
+    "height": "67.00",
+    "reach": "69.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.04",
+    "SApM": "2.01",
+    "TDAvg": "3.63",
+    "Sub.Avg": "1.12",
+    "Str.Def": "51",
+    "TDDef": "64",
+    "KDAvg": "0.21",
+    "Avg Fight Time": "10:02",
+    "Str. Acc.": "45",
+    "TD Acc.": "49"
+  }
+}

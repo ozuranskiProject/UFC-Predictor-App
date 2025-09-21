@@ -1,0 +1,34 @@
+{
+  "name": "Michal Figlak",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/3/FIGLAK_MICHAL_L_04-27.png?itok=u1b30Si7",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "8",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "28",
+    "height": "70.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.00",
+    "SApM": "4.93",
+    "TDAvg": "0.50",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "57",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "39",
+    "TD Acc.": "13"
+  }
+}

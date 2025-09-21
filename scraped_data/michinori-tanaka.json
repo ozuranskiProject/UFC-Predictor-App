@@ -1,0 +1,34 @@
+{
+  "name": "Michinori Tanaka",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/f9781b37-9cf0-46a2-bfe0-b3d8bbff90ac%252FMichinori-Tanaka_469994_LeftFullBodyImage.png?itok=JOcxMs-l",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "55",
+    "SUB": "45"
+  },
+  "bio": {
+    "age": "32",
+    "height": "65.00",
+    "reach": "67.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.97",
+    "SApM": "1.99",
+    "TDAvg": "2.40",
+    "Sub.Avg": "0.20",
+    "Str.Def": "51",
+    "TDDef": "44",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "37",
+    "TD Acc.": "39"
+  }
+}

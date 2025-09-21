@@ -1,0 +1,34 @@
+{
+  "name": "Dylan Budka",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-04/BUDKA_DYLAN_L_04-06.png?itok=PKHWWJEG",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "7",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "14",
+    "DEC": "57",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "25",
+    "height": "72.00",
+    "reach": "75.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "1.06",
+    "SApM": "1.80",
+    "TDAvg": "1.93",
+    "Sub.Avg": "0.39",
+    "Str.Def": "43",
+    "TDDef": "77",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "09:42",
+    "Str. Acc.": "38",
+    "TD Acc.": "38"
+  }
+}

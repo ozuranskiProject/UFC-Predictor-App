@@ -1,0 +1,34 @@
+{
+  "name": "Myktybek Orolbai",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/5/OROLBAI_MYKTYBEK_L_11-18.png?itok=6keM4Tkc",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "14",
+    "losses": "2",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "27",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "27",
+    "height": "70.00",
+    "reach": "74.00",
+    "leg_reach": "39.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "0.41",
+    "SApM": "5.70",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "29",
+    "TDDef": "0.00",
+    "KDAvg": "04:50",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "50",
+    "TD Acc.": "N/A"
+  }
+}

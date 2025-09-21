@@ -1,0 +1,34 @@
+{
+  "name": "Thanh Le",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/8bd5b66c-988c-49c3-9ee8-58e43f5b892d%252FThanh-Le_631542_LeftFullBodyImage.png?itok=elSGLbnD",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "7",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "86",
+    "DEC": "0",
+    "SUB": "14"
+  },
+  "bio": {
+    "age": "37",
+    "height": "69.00",
+    "reach": "74.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.97",
+    "SApM": "1.82",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "71",
+    "TDDef": "100",
+    "KDAvg": "2.28",
+    "Avg Fight Time": "06:35",
+    "Str. Acc.": "41",
+    "TD Acc.": "N/A"
+  }
+}

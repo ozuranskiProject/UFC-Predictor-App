@@ -1,0 +1,34 @@
+{
+  "name": "Giga Chikadze",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-04/CHIKADZE_GIGA_L_04-26.png?itok=vOubYPxP",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "15",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "33",
+    "SUB": "7"
+  },
+  "bio": {
+    "age": "37",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "40.50",
+    "fighting_style": "Karate"
+  },
+  "fight_stats": {
+    "SLpM": "3.82",
+    "SApM": "3.48",
+    "TDAvg": "0.19",
+    "Sub.Avg": "0.19",
+    "Str.Def": "60",
+    "TDDef": "65",
+    "KDAvg": "0.56",
+    "Avg Fight Time": "13:24",
+    "Str. Acc.": "43",
+    "TD Acc.": "33"
+  }
+}

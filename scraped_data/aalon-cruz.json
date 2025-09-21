@@ -1,0 +1,34 @@
+{
+  "name": "Aalon Cruz",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-02/CRUZ_AALON_L.png?itok=imUSr-uA",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "8",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "25",
+    "DEC": "50",
+    "SUB": "25"
+  },
+  "bio": {
+    "age": "33",
+    "height": "72.00",
+    "reach": "78.00",
+    "leg_reach": "42.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "7.58",
+    "SApM": "8.88",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "59",
+    "TDDef": "0.85",
+    "KDAvg": "05:54",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "39",
+    "TD Acc.": "0"
+  }
+}

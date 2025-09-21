@@ -1,0 +1,34 @@
+{
+  "name": "Wang Sai",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/cbaf10b6-d5f1-489a-bc57-dacd1415539d%252FSai-Wang_471357_LeftFullBodyImage.png?itok=OLCKxMoi",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "8",
+    "losses": "5",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "13",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "37",
+    "height": "0.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.17",
+    "SApM": "2.27",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "53",
+    "TDDef": "78",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "47",
+    "TD Acc.": "0"
+  }
+}

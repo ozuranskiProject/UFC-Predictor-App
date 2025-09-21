@@ -1,0 +1,34 @@
+{
+  "name": "Oliver Enkamp",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/efc93994-c722-4aee-923f-b06615bfd7e1%252FOliver-Enkamp_628793_LeftFullBodyImage.png?itok=vqY7-qsJ",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "7",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "14",
+    "DEC": "29",
+    "SUB": "57"
+  },
+  "bio": {
+    "age": "31",
+    "height": "72.00",
+    "reach": "77.00",
+    "leg_reach": "44.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.38",
+    "SApM": "3.55",
+    "TDAvg": "0.87",
+    "Sub.Avg": "0.00",
+    "Str.Def": "38",
+    "TDDef": "0.00",
+    "KDAvg": "08:36",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "36",
+    "TD Acc.": "17"
+  }
+}

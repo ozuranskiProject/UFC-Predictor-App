@@ -1,0 +1,34 @@
+{
+  "name": "Junior Hernandez",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/596614ae-c07a-4ef2-ba5d-baf89547def0%252FRamiro-Hernandez-Jr_448773_LeftFullBodyImage.png?itok=FgxGyIcq",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "14",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "36",
+    "DEC": "36",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "36",
+    "height": "69.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.72",
+    "SApM": "5.51",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "65",
+    "TDDef": "0.00",
+    "KDAvg": "08:05",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "29",
+    "TD Acc.": "N/A"
+  }
+}

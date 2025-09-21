@@ -1,0 +1,34 @@
+{
+  "name": "Bec Rawlings",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67442/profile-galery/fullbodyleft-picture/Bec-Rawlings_501834_LeftFullBodyImage.png?itok=yiWK3Q0P",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "7",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "14",
+    "DEC": "29",
+    "SUB": "57"
+  },
+  "bio": {
+    "age": "34",
+    "height": "66.00",
+    "reach": "64.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.48",
+    "SApM": "5.66",
+    "TDAvg": "0.71",
+    "Sub.Avg": "0.36",
+    "Str.Def": "57",
+    "TDDef": "68",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:04",
+    "Str. Acc.": "43",
+    "TD Acc.": "40"
+  }
+}

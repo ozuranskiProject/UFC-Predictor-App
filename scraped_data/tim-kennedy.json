@@ -1,0 +1,34 @@
+{
+  "name": "Tim Kennedy",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/69377/profile-galery/fullbodyleft-picture/Tim-Kennedy_590_LeftFullBodyImage.png?VersionId=g_xKLnT5wZDh1zKJ73PBP4sX1jNDZldq&itok=SLHmZPLd",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "18",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "22",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "43",
+    "height": "71.00",
+    "reach": "74.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.78",
+    "SApM": "1.84",
+    "TDAvg": "2.58",
+    "Sub.Avg": "0.71",
+    "Str.Def": "62",
+    "TDDef": "71",
+    "KDAvg": "0.09",
+    "Avg Fight Time": "12:03",
+    "Str. Acc.": "48",
+    "TD Acc.": "35"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Beno\u00eet Saint Denis",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/SAINT_DENIS_BENOIT_L_09-06.png?itok=On1exGBU",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "15",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "0",
+    "SUB": "73"
+  },
+  "bio": {
+    "age": "29",
+    "height": "71.00",
+    "reach": "73.00",
+    "leg_reach": "40.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "5.05",
+    "SApM": "4.19",
+    "TDAvg": "4.35",
+    "Sub.Avg": "1.58",
+    "Str.Def": "43",
+    "TDDef": "71",
+    "KDAvg": "0.79",
+    "Avg Fight Time": "07:35",
+    "Str. Acc.": "55",
+    "TD Acc.": "38"
+  }
+}

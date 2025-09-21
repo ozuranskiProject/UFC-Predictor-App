@@ -1,0 +1,34 @@
+{
+  "name": "Harry Hardwick",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/HARDWICK_HARRY_L_09-06.png?itok=j-BbdSaQ",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "4",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "23",
+    "DEC": "46",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "30",
+    "height": "70.00",
+    "reach": "N/A",
+    "leg_reach": "N/A",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.39",
+    "SApM": "7.16",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "40",
+    "TDDef": "0.00",
+    "KDAvg": "03:21",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "35",
+    "TD Acc.": "N/A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Allen Crowder",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67280/profile-galery/fullbodyleft-picture/CROWDER_ALLEN_L.png?itok=u6QVuM-t",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "56",
+    "DEC": "11",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "33",
+    "height": "75.00",
+    "reach": "76.00",
+    "leg_reach": "42.50",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "2.95",
+    "SApM": "2.95",
+    "TDAvg": "1.85",
+    "Sub.Avg": "1.23",
+    "Str.Def": "57",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "06:06",
+    "Str. Acc.": "51",
+    "TD Acc.": "33"
+  }
+}

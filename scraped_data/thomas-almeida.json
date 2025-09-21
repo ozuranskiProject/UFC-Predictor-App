@@ -1,0 +1,34 @@
+{
+  "name": "Thomas Almeida",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-10/69367%252Fprofile-galery%252Ffullbodyleft-picture%252FALMEIDA_THOMAS_L_10-17.png?itok=Ut3O8ZLj",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "22",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "77",
+    "DEC": "5",
+    "SUB": "18"
+  },
+  "bio": {
+    "age": "31",
+    "height": "67.00",
+    "reach": "70.00",
+    "leg_reach": "38.50",
+    "fighting_style": "Muay Thai"
+  },
+  "fight_stats": {
+    "SLpM": "4.84",
+    "SApM": "4.93",
+    "TDAvg": "0.17",
+    "Sub.Avg": "0.00",
+    "Str.Def": "62",
+    "TDDef": "76",
+    "KDAvg": "0.50",
+    "Avg Fight Time": "09:00",
+    "Str. Acc.": "44",
+    "TD Acc.": "14"
+  }
+}

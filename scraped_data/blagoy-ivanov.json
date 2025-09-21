@@ -1,0 +1,34 @@
+{
+  "name": "Blagoy Ivanov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-07/IVANOV_BLAGOY_L_07-01.png?itok=utieoQQE",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "19",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "37",
+    "SUB": "32"
+  },
+  "bio": {
+    "age": "36",
+    "height": "71.00",
+    "reach": "73.00",
+    "leg_reach": "42.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.25",
+    "SApM": "4.20",
+    "TDAvg": "0.69",
+    "Sub.Avg": "0.12",
+    "Str.Def": "53",
+    "TDDef": "62",
+    "KDAvg": "0.12",
+    "Avg Fight Time": "16:15",
+    "Str. Acc.": "41",
+    "TD Acc.": "40"
+  }
+}

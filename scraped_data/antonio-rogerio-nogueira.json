@@ -1,0 +1,34 @@
+{
+  "name": "Antonio Rogerio Nogueira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Antonio_Nogueira/NOGUEIRA_ROGERIO_L.png?VersionId=.wKSIpSNa6AbyOzgWnj_xK7aZnjP24vl&itok=WE5Yn5Yi",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "23",
+    "losses": "10",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "32",
+    "DEC": "41",
+    "SUB": "27"
+  },
+  "bio": {
+    "age": "47",
+    "height": "74.00",
+    "reach": "75.00",
+    "leg_reach": "43.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.43",
+    "SApM": "2.34",
+    "TDAvg": "0.64",
+    "Sub.Avg": "0.79",
+    "Str.Def": "60",
+    "TDDef": "62",
+    "KDAvg": "0.49",
+    "Avg Fight Time": "10:53",
+    "Str. Acc.": "35",
+    "TD Acc.": "45"
+  }
+}

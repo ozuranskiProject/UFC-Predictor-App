@@ -1,0 +1,34 @@
+{
+  "name": "Joe Solecki",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/2/SOLECKI_JOE_L_01-11.png?itok=Po9dm_lc",
+  "weight_class": "Lightweight",
+  "record": {
+    "wins": "13",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "8",
+    "DEC": "31",
+    "SUB": "62"
+  },
+  "bio": {
+    "age": "31",
+    "height": "69.00",
+    "reach": "70.50",
+    "leg_reach": "39.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "1.97",
+    "SApM": "1.85",
+    "TDAvg": "2.06",
+    "Sub.Avg": "1.37",
+    "Str.Def": "51",
+    "TDDef": "14",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:56",
+    "Str. Acc.": "54",
+    "TD Acc.": "48"
+  }
+}

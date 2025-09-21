@@ -1,0 +1,34 @@
+{
+  "name": "Milana Dudieva",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2020-03/Milana-Dudieva_482623_LeftFullBodyImage.png?VersionId=BtDGkI7RslQs3ZbJUBP_7wBdvaqwNL8A&itok=7mfl5HlO",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "11",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "18",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "N/A",
+    "height": "65.00",
+    "reach": "61.00",
+    "leg_reach": "37.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "0.87",
+    "SApM": "3.43",
+    "TDAvg": "2.34",
+    "Sub.Avg": "0.00",
+    "Str.Def": "58",
+    "TDDef": "0.00",
+    "KDAvg": "10:41",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "32",
+    "TD Acc.": "45"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Carlo Pedersoli",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/carlo_pedersoli/PEDERSOLI_CARLO_R.png?VersionId=IJ0Qe0P8kg7Oy_0LAFo_WH7NXr33BmtE&itok=Wuf7_mdp",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "11",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "27",
+    "DEC": "36",
+    "SUB": "36"
+  },
+  "bio": {
+    "age": "30",
+    "height": "71.50",
+    "reach": "75.00",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.17",
+    "SApM": "4.12",
+    "TDAvg": "2.91",
+    "Sub.Avg": "0.00",
+    "Str.Def": "61",
+    "TDDef": "0.00",
+    "KDAvg": "06:53",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "38",
+    "TD Acc.": "44"
+  }
+}

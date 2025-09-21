@@ -1,0 +1,34 @@
+{
+  "name": "Victor Hugo",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/1/HUGO_VICTOR_L_11-04.png?itok=bkfkbQJX",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "25",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "28",
+    "DEC": "32",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "32",
+    "height": "67.00",
+    "reach": "71.50",
+    "leg_reach": "39.50",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "3.27",
+    "SApM": "2.95",
+    "TDAvg": "0.81",
+    "Sub.Avg": "1.21",
+    "Str.Def": "57",
+    "TDDef": "74",
+    "KDAvg": "0.40",
+    "Avg Fight Time": "12:25",
+    "Str. Acc.": "44",
+    "TD Acc.": "33"
+  }
+}

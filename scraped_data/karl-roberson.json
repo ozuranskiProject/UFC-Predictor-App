@@ -1,0 +1,34 @@
+{
+  "name": "Karl Roberson",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/d62c1a22-5b6c-4265-a714-59d6b7c649cd%252FROBERSON_KARL_L_03-12.png?itok=KT35KziH",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "9",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "22",
+    "DEC": "33",
+    "SUB": "44"
+  },
+  "bio": {
+    "age": "32",
+    "height": "73.00",
+    "reach": "74.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Kickboxer"
+  },
+  "fight_stats": {
+    "SLpM": "2.57",
+    "SApM": "2.42",
+    "TDAvg": "0.72",
+    "Sub.Avg": "0.54",
+    "Str.Def": "58",
+    "TDDef": "41",
+    "KDAvg": "0.36",
+    "Avg Fight Time": "07:33",
+    "Str. Acc.": "52",
+    "TD Acc.": "40"
+  }
+}

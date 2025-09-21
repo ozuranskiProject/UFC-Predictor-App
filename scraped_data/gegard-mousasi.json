@@ -1,0 +1,34 @@
+{
+  "name": "Gegard Mousasi",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/964e83df-28e3-4aea-b2fe-414b55f22aca%252FGegard-Mousasi_241929_LeftFullBodyImage.png?itok=ZoZIXjPE",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "42",
+    "losses": "6",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "60",
+    "DEC": "17",
+    "SUB": "24"
+  },
+  "bio": {
+    "age": "37",
+    "height": "74.00",
+    "reach": "76.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.75",
+    "SApM": "1.21",
+    "TDAvg": "1.59",
+    "Sub.Avg": "1.15",
+    "Str.Def": "69",
+    "TDDef": "60",
+    "KDAvg": "0.33",
+    "Avg Fight Time": "07:50",
+    "Str. Acc.": "51",
+    "TD Acc.": "60"
+  }
+}

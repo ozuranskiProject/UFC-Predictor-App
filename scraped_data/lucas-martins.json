@@ -1,0 +1,34 @@
+{
+  "name": "Lucas Martins",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/f35ea2b3-8406-43d6-b2bb-66cb75175f7f%252FLucas-Martins_298745_LeftFullBodyImage.png?itok=yD22nxf7",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "16",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "69",
+    "DEC": "13",
+    "SUB": "19"
+  },
+  "bio": {
+    "age": "34",
+    "height": "72.00",
+    "reach": "72.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.87",
+    "SApM": "4.14",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.49",
+    "Str.Def": "60",
+    "TDDef": "77",
+    "KDAvg": "0.73",
+    "Avg Fight Time": "08:48",
+    "Str. Acc.": "36",
+    "TD Acc.": "0"
+  }
+}

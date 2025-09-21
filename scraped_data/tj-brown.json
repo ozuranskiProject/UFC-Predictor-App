@@ -1,0 +1,34 @@
+{
+  "name": "TJ Brown",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/BROWN_TJ_L_06-25.png?itok=WK1VqVPE",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "17",
+    "losses": "11",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "24",
+    "DEC": "18",
+    "SUB": "59"
+  },
+  "bio": {
+    "age": "34",
+    "height": "69.00",
+    "reach": "72.00",
+    "leg_reach": "38.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.37",
+    "SApM": "2.89",
+    "TDAvg": "3.41",
+    "Sub.Avg": "1.31",
+    "Str.Def": "49",
+    "TDDef": "37",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:42",
+    "Str. Acc.": "45",
+    "TD Acc.": "58"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Erin Blanchfield",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/BLANCHFIELD_ERIN_L_05-31.png?itok=qIxvrRTK",
+  "weight_class": "Women's Flyweight",
+  "record": {
+    "wins": "13",
+    "losses": "2",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "15",
+    "DEC": "54",
+    "SUB": "31"
+  },
+  "bio": {
+    "age": "26",
+    "height": "64.00",
+    "reach": "66.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "5.24",
+    "SApM": "4.21",
+    "TDAvg": "1.86",
+    "Sub.Avg": "0.80",
+    "Str.Def": "59",
+    "TDDef": "80",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "14:07",
+    "Str. Acc.": "44",
+    "TD Acc.": "32"
+  }
+}

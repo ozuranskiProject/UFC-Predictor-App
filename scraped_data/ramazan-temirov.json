@@ -1,0 +1,34 @@
+{
+  "name": "Ramazan Temirov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/TEMIROV_RAMAZAN_L_10-12.png?itok=_WuAVfET",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "19",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "58",
+    "DEC": "37",
+    "SUB": "5"
+  },
+  "bio": {
+    "age": "28",
+    "height": "64.00",
+    "reach": "63.00",
+    "leg_reach": "36.00",
+    "fighting_style": "Striker"
+  },
+  "fight_stats": {
+    "SLpM": "4.37",
+    "SApM": "3.93",
+    "TDAvg": "0.84",
+    "Sub.Avg": "0.00",
+    "Str.Def": "59",
+    "TDDef": "100",
+    "KDAvg": "2.52",
+    "Avg Fight Time": "08:55",
+    "Str. Acc.": "40",
+    "TD Acc.": "50"
+  }
+}

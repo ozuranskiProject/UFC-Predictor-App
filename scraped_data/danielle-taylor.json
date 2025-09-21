@@ -1,0 +1,34 @@
+{
+  "name": "Danielle Taylor",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/7dc6388a-7a06-4133-837e-b211640c66dd%252Fdanielle-taylor_600330_LeftFullBodyImage.png?itok=ulurDbXs",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "9",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "56",
+    "SUB": "11"
+  },
+  "bio": {
+    "age": "33",
+    "height": "60.00",
+    "reach": "60.00",
+    "leg_reach": "34.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.75",
+    "SApM": "3.31",
+    "TDAvg": "0.20",
+    "Sub.Avg": "0.20",
+    "Str.Def": "72",
+    "TDDef": "70",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "29",
+    "TD Acc.": "20"
+  }
+}

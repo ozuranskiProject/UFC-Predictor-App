@@ -1,0 +1,34 @@
+{
+  "name": "Jessamyn Duke",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/a058340b-be39-4fe1-abf7-7576ae575a26%252FJessamyn-Duke_453489_LeftFullBodyImage.png?itok=pnfQebhJ",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "3",
+    "losses": "3",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "33",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "36",
+    "height": "71.00",
+    "reach": "73.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.83",
+    "SApM": "4.43",
+    "TDAvg": "1.27",
+    "Sub.Avg": "1.90",
+    "Str.Def": "57",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:51",
+    "Str. Acc.": "53",
+    "TD Acc.": "36"
+  }
+}

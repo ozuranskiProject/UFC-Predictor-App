@@ -1,0 +1,34 @@
+{
+  "name": "Khamzat Chimaev",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/CHIMAEV_KHAMZAT_L_BELTMOCK.png?itok=SsMfHmMG",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "15",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "20",
+    "SUB": "40"
+  },
+  "bio": {
+    "age": "31",
+    "height": "74.00",
+    "reach": "75.00",
+    "leg_reach": "40.00",
+    "fighting_style": "Wrestler"
+  },
+  "fight_stats": {
+    "SLpM": "4.04",
+    "SApM": "2.32",
+    "TDAvg": "5.29",
+    "Sub.Avg": "1.83",
+    "Str.Def": "43",
+    "TDDef": "86",
+    "KDAvg": "0.41",
+    "Avg Fight Time": "08:11",
+    "Str. Acc.": "61",
+    "TD Acc.": "55"
+  }
+}

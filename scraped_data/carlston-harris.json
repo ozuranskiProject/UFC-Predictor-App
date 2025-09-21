@@ -1,0 +1,34 @@
+{
+  "name": "Carlston Harris",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/14/HARRIS_CARLSTON_L_05-18.png?itok=r49G2Z7z",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "19",
+    "losses": "7",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "26",
+    "DEC": "42",
+    "SUB": "32"
+  },
+  "bio": {
+    "age": "37",
+    "height": "72.00",
+    "reach": "76.00",
+    "leg_reach": "42.00",
+    "fighting_style": "Boxing"
+  },
+  "fight_stats": {
+    "SLpM": "3.79",
+    "SApM": "3.46",
+    "TDAvg": "1.46",
+    "Sub.Avg": "0.59",
+    "Str.Def": "54",
+    "TDDef": "56",
+    "KDAvg": "0.59",
+    "Avg Fight Time": "07:19",
+    "Str. Acc.": "44",
+    "TD Acc.": "23"
+  }
+}

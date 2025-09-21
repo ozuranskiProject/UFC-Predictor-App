@@ -1,0 +1,34 @@
+{
+  "name": "Sean Soriano",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-06/SORIANO_SEAN_L_05-15.png?itok=mr93K68M",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "14",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "21",
+    "SUB": "29"
+  },
+  "bio": {
+    "age": "33",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "40.50",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "3.18",
+    "SApM": "2.14",
+    "TDAvg": "1.33",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "53",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:18",
+    "Str. Acc.": "62",
+    "TD Acc.": "56"
+  }
+}

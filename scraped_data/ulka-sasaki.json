@@ -1,0 +1,34 @@
+{
+  "name": "Ulka Sasaki",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Ulka_Sasaki/SASAKI_ULKA_L.png?VersionId=0XNB9YxuIyGElTJhNKd46AJ8yJLANTwM&itok=I1or5jIR",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "20",
+    "losses": "6",
+    "draws": "2"
+  },
+  "win_methods": {
+    "KO": "10",
+    "DEC": "35",
+    "SUB": "55"
+  },
+  "bio": {
+    "age": "33",
+    "height": "71.00",
+    "reach": "71.00",
+    "leg_reach": "42.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "2.16",
+    "SApM": "2.50",
+    "TDAvg": "3.03",
+    "Sub.Avg": "1.16",
+    "Str.Def": "50",
+    "TDDef": "41",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:10",
+    "Str. Acc.": "41",
+    "TD Acc.": "43"
+  }
+}

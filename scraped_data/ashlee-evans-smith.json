@@ -1,0 +1,34 @@
+{
+  "name": "Ashlee Evans-Smith",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-07/EVANS-SMITH_ASHLEE_L_07-15.png?itok=9PpXVPkG",
+  "weight_class": "Women's Bantamweight",
+  "record": {
+    "wins": "6",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "50",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "36",
+    "height": "68.00",
+    "reach": "67.50",
+    "leg_reach": "40.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "4.03",
+    "SApM": "4.59",
+    "TDAvg": "0.95",
+    "Sub.Avg": "0.00",
+    "Str.Def": "54",
+    "TDDef": "50",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "12:17",
+    "Str. Acc.": "34",
+    "TD Acc.": "23"
+  }
+}

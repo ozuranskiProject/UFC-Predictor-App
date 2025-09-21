@@ -1,0 +1,34 @@
+{
+  "name": "Tom Niinimaki",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Tom_Niinimaki/Tom-Niinimaki-2013-11-27-047.png?VersionId=sAyaZ2siBGlMgK_OQdU4bzMJc9YLpSY6&itok=IVpnYPlL",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "21",
+    "losses": "8",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "29",
+    "SUB": "38"
+  },
+  "bio": {
+    "age": "41",
+    "height": "69.00",
+    "reach": "69.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.91",
+    "SApM": "2.31",
+    "TDAvg": "2.97",
+    "Sub.Avg": "0.49",
+    "Str.Def": "58",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:35",
+    "Str. Acc.": "55",
+    "TD Acc.": "46"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Chris Holdsworth",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67606/profile-galery/fullbodyleft-picture/Chris-Holdsworth_453456_LeftFullBodyImage.png?itok=n7zZ4DO0",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "7",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "14",
+    "SUB": "86"
+  },
+  "bio": {
+    "age": "35",
+    "height": "71.00",
+    "reach": "71.00",
+    "leg_reach": "N/A",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.85",
+    "SApM": "1.94",
+    "TDAvg": "3.38",
+    "Sub.Avg": "2.03",
+    "Str.Def": "58",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "11:05",
+    "Str. Acc.": "30",
+    "TD Acc.": "63"
+  }
+}

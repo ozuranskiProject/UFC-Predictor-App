@@ -1,0 +1,34 @@
+{
+  "name": "Glover Teixeira",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-01/TEIXEIRA_GLOVER_L_01-19.png?itok=F-QXaKBv",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "33",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "55",
+    "DEC": "15",
+    "SUB": "30"
+  },
+  "bio": {
+    "age": "43",
+    "height": "74.00",
+    "reach": "76.00",
+    "leg_reach": "42.50",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.73",
+    "SApM": "4.43",
+    "TDAvg": "2.11",
+    "Sub.Avg": "0.94",
+    "Str.Def": "51",
+    "TDDef": "60",
+    "KDAvg": "0.33",
+    "Avg Fight Time": "10:20",
+    "Str. Acc.": "50",
+    "TD Acc.": "34"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Naoki Inoue",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68887/profile-galery/fullbodyleft-picture/Naoki-Inoue_625980_LeftFullBodyImage.png?VersionId=qi10lnPIF754X46PjbV27axN7236vTss&itok=B_j0QwBH",
+  "weight_class": "Flyweight",
+  "record": {
+    "wins": "11",
+    "losses": "0",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "36",
+    "SUB": "64"
+  },
+  "bio": {
+    "age": "26",
+    "height": "69.00",
+    "reach": "71.00",
+    "leg_reach": "38.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.67",
+    "SApM": "3.37",
+    "TDAvg": "0.00",
+    "Sub.Avg": "2.50",
+    "Str.Def": "61",
+    "TDDef": "60",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "15:00",
+    "Str. Acc.": "35",
+    "TD Acc.": "0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Gray Maynard",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68043/profile-galery/fullbodyleft-picture/Gray-Maynard_512_LeftFullBodyImage.png?itok=b2HnJd6s",
+  "weight_class": "Featherweight",
+  "record": {
+    "wins": "14",
+    "losses": "8",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "14",
+    "DEC": "86",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "44",
+    "height": "69.00",
+    "reach": "70.00",
+    "leg_reach": "39.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.92",
+    "SApM": "2.64",
+    "TDAvg": "2.91",
+    "Sub.Avg": "0.70",
+    "Str.Def": "67",
+    "TDDef": "81",
+    "KDAvg": "0.35",
+    "Avg Fight Time": "12:52",
+    "Str. Acc.": "33",
+    "TD Acc.": "48"
+  }
+}

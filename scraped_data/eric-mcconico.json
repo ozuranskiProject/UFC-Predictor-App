@@ -1,0 +1,34 @@
+{
+  "name": "Eric McConico",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/MCCONICO_ERIC_R_02-22.png?itok=4WmqpFG3",
+  "weight_class": "Light Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "3",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "22",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "35",
+    "height": "72.00",
+    "reach": "77.00",
+    "leg_reach": "41.00",
+    "fighting_style": "Freestyle"
+  },
+  "fight_stats": {
+    "SLpM": "1.51",
+    "SApM": "2.48",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "52",
+    "TDDef": "57",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "10:17",
+    "Str. Acc.": "36",
+    "TD Acc.": "N/A"
+  }
+}

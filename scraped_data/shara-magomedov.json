@@ -1,0 +1,34 @@
+{
+  "name": "Shara Magomedov",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/MAGOMEDOV_SHARA_L_07-26.png?itok=E87Ap7Qc",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "16",
+    "losses": "1",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "75",
+    "DEC": "25",
+    "SUB": "0"
+  },
+  "bio": {
+    "age": "31",
+    "height": "74.00",
+    "reach": "73.00",
+    "leg_reach": "41.50",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "5.93",
+    "SApM": "3.85",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "44",
+    "TDDef": "71",
+    "KDAvg": "0.36",
+    "Avg Fight Time": "13:43",
+    "Str. Acc.": "63",
+    "TD Acc.": "0"
+  }
+}

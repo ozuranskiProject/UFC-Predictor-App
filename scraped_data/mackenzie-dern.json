@@ -1,0 +1,34 @@
+{
+  "name": "Mackenzie Dern",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/22/DERN_MACKENZIE_L_01-11.png?itok=vIW6MCRY",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "15",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "0",
+    "DEC": "47",
+    "SUB": "53"
+  },
+  "bio": {
+    "age": "32",
+    "height": "64.00",
+    "reach": "63.00",
+    "leg_reach": "37.50",
+    "fighting_style": "Brazilian Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "3.31",
+    "SApM": "3.90",
+    "TDAvg": "0.89",
+    "Sub.Avg": "1.19",
+    "Str.Def": "52",
+    "TDDef": "25",
+    "KDAvg": "0.15",
+    "Avg Fight Time": "13:27",
+    "Str. Acc.": "40",
+    "TD Acc.": "18"
+  }
+}

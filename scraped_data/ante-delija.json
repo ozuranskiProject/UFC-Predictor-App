@@ -1,0 +1,34 @@
+{
+  "name": "Ante Delija",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/DELIJA_ANTE_R_09-06.png?itok=73jsp7tm",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "26",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "50",
+    "DEC": "27",
+    "SUB": "23"
+  },
+  "bio": {
+    "age": "35",
+    "height": "77.00",
+    "reach": "79.00",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "6.34",
+    "SApM": "1.95",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "56",
+    "TDDef": "7.32",
+    "KDAvg": "02:03",
+    "Avg Fight Time": "N/A",
+    "Str. Acc.": "46",
+    "TD Acc.": "N/A"
+  }
+}

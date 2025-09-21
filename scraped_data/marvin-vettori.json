@@ -1,0 +1,34 @@
+{
+  "name": "Marvin Vettori",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/VETTORI_MARVIN_L_07-19.png?itok=cWMPLRWG",
+  "weight_class": "Middleweight",
+  "record": {
+    "wins": "19",
+    "losses": "9",
+    "draws": "1"
+  },
+  "win_methods": {
+    "KO": "11",
+    "DEC": "39",
+    "SUB": "50"
+  },
+  "bio": {
+    "age": "31",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "41.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "4.68",
+    "SApM": "4.52",
+    "TDAvg": "1.43",
+    "Sub.Avg": "0.41",
+    "Str.Def": "56",
+    "TDDef": "66",
+    "KDAvg": "0.05",
+    "Avg Fight Time": "17:17",
+    "Str. Acc.": "46",
+    "TD Acc.": "45"
+  }
+}

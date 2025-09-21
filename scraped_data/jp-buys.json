@@ -1,0 +1,34 @@
+{
+  "name": "JP Buys",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-08/BUYS_JP_L_08-12.png?itok=QDhxFed8",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "9",
+    "losses": "6",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "33",
+    "DEC": "11",
+    "SUB": "56"
+  },
+  "bio": {
+    "age": "27",
+    "height": "65.00",
+    "reach": "67.00",
+    "leg_reach": "36.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.88",
+    "SApM": "3.02",
+    "TDAvg": "1.55",
+    "Sub.Avg": "2.32",
+    "Str.Def": "40",
+    "TDDef": "25",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "06:28",
+    "Str. Acc.": "40",
+    "TD Acc.": "25"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Tony Gravely",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-09/GRAVELY_TONY_L_09-17.png?itok=uS153BWB",
+  "weight_class": "Bantamweight",
+  "record": {
+    "wins": "23",
+    "losses": "9",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "43",
+    "DEC": "43",
+    "SUB": "13"
+  },
+  "bio": {
+    "age": "31",
+    "height": "65.00",
+    "reach": "69.00",
+    "leg_reach": "38.00",
+    "fighting_style": "MMA"
+  },
+  "fight_stats": {
+    "SLpM": "3.82",
+    "SApM": "4.47",
+    "TDAvg": "5.40",
+    "Sub.Avg": "0.30",
+    "Str.Def": "44",
+    "TDDef": "52",
+    "KDAvg": "0.60",
+    "Avg Fight Time": "11:06",
+    "Str. Acc.": "48",
+    "TD Acc.": "42"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Polyana Viana",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-08/VIANA_POLYANA_L_08-12.png?itok=_l_AQQW2",
+  "weight_class": "Women's Strawweight",
+  "record": {
+    "wins": "13",
+    "losses": "8",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "38",
+    "DEC": "0",
+    "SUB": "62"
+  },
+  "bio": {
+    "age": "32",
+    "height": "65.00",
+    "reach": "67.00",
+    "leg_reach": "38.50",
+    "fighting_style": "Jiu-Jitsu"
+  },
+  "fight_stats": {
+    "SLpM": "2.74",
+    "SApM": "2.50",
+    "TDAvg": "0.75",
+    "Sub.Avg": "1.69",
+    "Str.Def": "53",
+    "TDDef": "35",
+    "KDAvg": "0.19",
+    "Avg Fight Time": "07:15",
+    "Str. Acc.": "40",
+    "TD Acc.": "33"
+  }
+}

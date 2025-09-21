@@ -1,0 +1,34 @@
+{
+  "name": "Cyril Asker",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67690/profile-galery/fullbodyleft-picture/cyril-asker_582930_LeftFullBodyImage.png?VersionId=TLECFA4ysUjurLgo1LoZ5j.62_PgZ4HH&itok=_X_PenkF",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "9",
+    "losses": "4",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "44",
+    "DEC": "22",
+    "SUB": "33"
+  },
+  "bio": {
+    "age": "37",
+    "height": "72.00",
+    "reach": "74.00",
+    "leg_reach": "42.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "3.35",
+    "SApM": "5.82",
+    "TDAvg": "4.41",
+    "Sub.Avg": "0.88",
+    "Str.Def": "36",
+    "TDDef": "100",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "03:24",
+    "Str. Acc.": "39",
+    "TD Acc.": "63"
+  }
+}

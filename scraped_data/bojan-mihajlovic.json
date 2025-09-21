@@ -1,0 +1,34 @@
+{
+  "name": "Bojan Mihajlovic",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/23655a8e-5885-4745-b1ae-56080ec7d4e0%252Fbojan-mihajlovic_578548_LeftFullBodyImage.png?itok=Ol4CRQrD",
+  "weight_class": "Heavyweight",
+  "record": {
+    "wins": "10",
+    "losses": "5",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "40",
+    "DEC": "40",
+    "SUB": "20"
+  },
+  "bio": {
+    "age": "43",
+    "height": "71.00",
+    "reach": "73.00",
+    "leg_reach": "41.00",
+    "fighting_style": "N/A"
+  },
+  "fight_stats": {
+    "SLpM": "1.23",
+    "SApM": "5.95",
+    "TDAvg": "0.00",
+    "Sub.Avg": "0.00",
+    "Str.Def": "48",
+    "TDDef": "33",
+    "KDAvg": "0.00",
+    "Avg Fight Time": "07:04",
+    "Str. Acc.": "36",
+    "TD Acc.": "0"
+  }
+}

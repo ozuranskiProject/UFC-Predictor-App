@@ -1,0 +1,34 @@
+{
+  "name": "Rafael Dos Anjos",
+  "profile_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/5/DOS_ANJOS_RAFAEL_L_12-03.png?itok=CHzM9YkD",
+  "weight_class": "Welterweight",
+  "record": {
+    "wins": "32",
+    "losses": "17",
+    "draws": "0"
+  },
+  "win_methods": {
+    "KO": "16",
+    "DEC": "50",
+    "SUB": "34"
+  },
+  "bio": {
+    "age": "40",
+    "height": "68.00",
+    "reach": "70.00",
+    "leg_reach": "38.00",
+    "fighting_style": "Grappler"
+  },
+  "fight_stats": {
+    "SLpM": "3.48",
+    "SApM": "3.23",
+    "TDAvg": "1.95",
+    "Sub.Avg": "0.57",
+    "Str.Def": "60",
+    "TDDef": "55",
+    "KDAvg": "0.20",
+    "Avg Fight Time": "14:32",
+    "Str. Acc.": "47",
+    "TD Acc.": "36"
+  }
+}
