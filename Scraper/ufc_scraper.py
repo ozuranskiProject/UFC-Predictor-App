@@ -70,15 +70,13 @@ def scrape_fighter(slug):
                 accuracy_stats[labels[i]] = text
 
         #-Image-
-        placeholder_img = "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"
-
         img_tag = soup.find('img', class_='hero-profile__image')
 
-        # Use actual image if available otherwise use the placeholder
+        # Use actual image if available otherwise set to None
         if img_tag and img_tag.get('src'):
             img_url = img_tag['src']
         else:
-            img_url = placeholder_img
+            img_url = None
 
         #-Weightclass-
         wClass = soup.find('p', class_="hero-profile__division-title").text.replace(" Division", "").strip()

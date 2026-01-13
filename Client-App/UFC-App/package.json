@@ -12,7 +12,7 @@
   "dependencies": {
     "@expo/config-plugins": "~54.0.1",
     "@react-native-async-storage/async-storage": "2.2.0",
-    "expo": "54.0.7",
+    "expo": "^54.0.7",
     "expo-status-bar": "~3.0.8",
     "jest-expo": "~53.0.9",
     "prop-types": "^15.8.1",

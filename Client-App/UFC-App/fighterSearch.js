@@ -2,7 +2,7 @@ import React, { useState, useMemo, useEffect, useRef } from 'react';
 import { View, TextInput, StyleSheet, FlatList, Text, Pressable, Image, Platform } from 'react-native';
 import { searchFighters, getFighterByName } from './fighterService';
 
-const PLACEHOLDER = 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541';
+const PLACEHOLDER_IMAGE = require('./assets/placeholder-profile.png');
 
 export default function FighterSearch({ weightClassCode, weightClassLabel, placeholder = 'Search fighter…', fighters = [], style, onSelect }) {
 
@@ -89,11 +89,15 @@ export default function FighterSearch({ weightClassCode, weightClassLabel, place
       {selectedFighter && (   
         <View style={styles.card}>
           <Image
-            source={{ uri: selectedFighter.profile_url || PLACEHOLDER }} 
+            source={
+              selectedFighter.profile_url 
+                ? { uri: selectedFighter.profile_url }
+                : PLACEHOLDER_IMAGE
+            }
             style={styles.photo} 
             resizeMode="contain" //contain so it doesn't get cropped
             fadeDuration={0}   // disable cross-fade (android only) I personally think it looks cleaner rather than default fade
-            onError={() => setSelectedFighter(s => s ? { ...s, profile_url: PLACEHOLDER } : s)} 
+            onError={() => setSelectedFighter(s => s ? { ...s, profile_url: null } : s)} 
             />                                                                             
           <Text style={styles.selectedName}>{selectedFighter.name}</Text>
         </View>
